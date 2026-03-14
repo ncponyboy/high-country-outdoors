@@ -15,7 +15,8 @@
       "park": "Pisgah National Forest",
       "region": "High Country NC",
       "activity_types": [
-        "hiking"
+        "hiking",
+        "running"
       ],
       "difficulty": "moderate",
       "length_miles": 2.3,
@@ -43,7 +44,8 @@
       "region": "High Country NC",
       "activity_types": [
         "hiking",
-        "backpacking"
+        "backpacking",
+        "climbing"
       ],
       "difficulty": "hard",
       "length_miles": 4.8,
@@ -70,7 +72,8 @@
       "park": "Blue Ridge Parkway",
       "region": "High Country NC",
       "activity_types": [
-        "hiking"
+        "hiking",
+        "running"
       ],
       "difficulty": "easy",
       "length_miles": 1.0,
@@ -98,6 +101,7 @@
       "region": "High Country NC",
       "activity_types": [
         "hiking",
+        "running",
         "backpacking"
       ],
       "difficulty": "moderate",
@@ -154,6 +158,7 @@
       "region": "High Country NC",
       "activity_types": [
         "hiking",
+        "running",
         "backpacking"
       ],
       "difficulty": "easy",
@@ -237,7 +242,8 @@
       "park": "Blue Ridge Parkway",
       "region": "High Country NC",
       "activity_types": [
-        "hiking"
+        "hiking",
+        "running"
       ],
       "difficulty": "easy",
       "length_miles": 1.3,
@@ -321,6 +327,7 @@
       "region": "Eastern TN",
       "activity_types": [
         "hiking",
+        "running",
         "backpacking"
       ],
       "difficulty": "moderate",
@@ -434,7 +441,8 @@
       "activity_types": [
         "hiking",
         "backpacking",
-        "mtb"
+        "mtb",
+        "horseback riding"
       ],
       "difficulty": "hard",
       "length_miles": 20.0,
@@ -490,7 +498,8 @@
       "region": "Eastern TN",
       "activity_types": [
         "hiking",
-        "backpacking"
+        "backpacking",
+        "horseback riding"
       ],
       "difficulty": "hard",
       "length_miles": 7.5,
@@ -518,7 +527,8 @@
       "region": "SW Virginia",
       "activity_types": [
         "hiking",
-        "backpacking"
+        "backpacking",
+        "horseback riding"
       ],
       "difficulty": "moderate",
       "length_miles": 4.6,
@@ -546,7 +556,8 @@
       "region": "SW Virginia",
       "activity_types": [
         "hiking",
-        "backpacking"
+        "backpacking",
+        "horseback riding"
       ],
       "difficulty": "moderate",
       "length_miles": 5.5,
@@ -574,6 +585,7 @@
       "region": "SW Virginia",
       "activity_types": [
         "hiking",
+        "running",
         "mtb"
       ],
       "difficulty": "easy",
@@ -629,7 +641,8 @@
       "park": "Jefferson National Forest",
       "region": "SW Virginia",
       "activity_types": [
-        "hiking"
+        "hiking",
+        "running"
       ],
       "difficulty": "easy",
       "length_miles": 1.8,
