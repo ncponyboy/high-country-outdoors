@@ -1,14 +1,22 @@
 {
-  "last_updated": "2026-03-14T10:00:00Z",
+  "last_updated": "2026-03-14T17:46:17Z",
   "total_trails": 25,
-  "sources": ["NPS", "USFS", "NC State Parks", "TN State Parks", "VA DCR"],
+  "sources": [
+    "NPS",
+    "USFS",
+    "NC State Parks",
+    "TN State Parks",
+    "VA DCR"
+  ],
   "trails": [
     {
       "id": "rough-ridge-nc",
       "name": "Rough Ridge",
       "park": "Pisgah National Forest",
       "region": "High Country NC",
-      "activity_types": ["hiking"],
+      "activity_types": [
+        "hiking"
+      ],
       "difficulty": "moderate",
       "length_miles": 2.3,
       "elevation_gain_ft": 540,
@@ -30,10 +38,13 @@
     },
     {
       "id": "linville-gorge-babel-tower",
-      "name": "Linville Gorge — Babel Tower Trail",
+      "name": "Linville Gorge \u2014 Babel Tower Trail",
       "park": "Linville Gorge Wilderness",
       "region": "High Country NC",
-      "activity_types": ["hiking", "backpacking"],
+      "activity_types": [
+        "hiking",
+        "backpacking"
+      ],
       "difficulty": "hard",
       "length_miles": 4.8,
       "elevation_gain_ft": 1200,
@@ -43,14 +54,17 @@
       "conditions": {
         "status": "caution",
         "surface": "Muddy",
-        "water_crossings": "Linville River — knee-deep, swift",
+        "water_crossings": "Linville River \u2014 knee-deep, swift",
         "blowdowns": true,
         "snow_level": null,
         "air_quality": null,
         "last_updated": "2026-03-12T14:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": ["High water at river crossing — use caution", "Multiple blowdowns on upper section"],
+      "alerts": [
+        "High water at river crossing \u2014 use caution",
+        "Multiple blowdowns on upper section"
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48910"
     },
     {
@@ -58,7 +72,9 @@
       "name": "Beacon Heights",
       "park": "Blue Ridge Parkway",
       "region": "High Country NC",
-      "activity_types": ["hiking"],
+      "activity_types": [
+        "hiking"
+      ],
       "difficulty": "easy",
       "length_miles": 1.0,
       "elevation_gain_ft": 250,
@@ -83,7 +99,10 @@
       "name": "Black Balsam Knob",
       "park": "Pisgah National Forest",
       "region": "High Country NC",
-      "activity_types": ["hiking", "backpacking"],
+      "activity_types": [
+        "hiking",
+        "backpacking"
+      ],
       "difficulty": "moderate",
       "length_miles": 3.4,
       "elevation_gain_ft": 620,
@@ -100,7 +119,7 @@
         "last_updated": "2026-03-13T07:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": ["Patchy snow and ice above 5,800 ft — traction devices recommended"],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48970"
     },
     {
@@ -108,7 +127,10 @@
       "name": "Grandfather Trail",
       "park": "Grandfather Mountain State Park",
       "region": "High Country NC",
-      "activity_types": ["hiking", "climbing"],
+      "activity_types": [
+        "hiking",
+        "climbing"
+      ],
       "difficulty": "expert",
       "length_miles": 2.4,
       "elevation_gain_ft": 1600,
@@ -133,7 +155,10 @@
       "name": "Max Patch",
       "park": "Pisgah National Forest",
       "region": "High Country NC",
-      "activity_types": ["hiking", "backpacking"],
+      "activity_types": [
+        "hiking",
+        "backpacking"
+      ],
       "difficulty": "easy",
       "length_miles": 1.4,
       "elevation_gain_ft": 392,
@@ -150,7 +175,9 @@
         "last_updated": "2026-03-13T10:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": ["Parking limited to 30 vehicles — arrive early on weekends"],
+      "alerts": [
+        "Parking limited to 30 vehicles \u2014 arrive early on weekends"
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=49001"
     },
     {
@@ -158,7 +185,10 @@
       "name": "Shortoff Mountain",
       "park": "Linville Gorge Wilderness",
       "region": "High Country NC",
-      "activity_types": ["hiking", "climbing"],
+      "activity_types": [
+        "hiking",
+        "climbing"
+      ],
       "difficulty": "hard",
       "length_miles": 6.2,
       "elevation_gain_ft": 1400,
@@ -183,11 +213,14 @@
       "name": "Grassy Ridge Bald",
       "park": "Pisgah National Forest",
       "region": "High Country NC",
-      "activity_types": ["hiking", "backpacking"],
+      "activity_types": [
+        "hiking",
+        "backpacking"
+      ],
       "difficulty": "moderate",
       "length_miles": 5.0,
       "elevation_gain_ft": 900,
-      "latitude": 36.1050,
+      "latitude": 36.105,
       "longitude": -82.1025,
       "trailhead_access": "open",
       "conditions": {
@@ -200,7 +233,7 @@
         "last_updated": "2026-03-13T08:30:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": ["Icy conditions possible on summit above 5,900 ft"],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48960"
     },
     {
@@ -208,12 +241,14 @@
       "name": "Linn Cove Viaduct Trail",
       "park": "Blue Ridge Parkway",
       "region": "High Country NC",
-      "activity_types": ["hiking"],
+      "activity_types": [
+        "hiking"
+      ],
       "difficulty": "easy",
       "length_miles": 1.3,
       "elevation_gain_ft": 90,
       "latitude": 36.0985,
-      "longitude": -81.8310,
+      "longitude": -81.831,
       "trailhead_access": "open",
       "conditions": {
         "status": "open",
@@ -233,24 +268,30 @@
       "name": "Lost Cove Loop",
       "park": "Pisgah National Forest",
       "region": "High Country NC",
-      "activity_types": ["hiking", "backpacking", "fishing"],
+      "activity_types": [
+        "hiking",
+        "backpacking",
+        "fishing"
+      ],
       "difficulty": "hard",
       "length_miles": 9.5,
       "elevation_gain_ft": 1800,
       "latitude": 36.0214,
-      "longitude": -81.9410,
+      "longitude": -81.941,
       "trailhead_access": "open",
       "conditions": {
         "status": "caution",
         "surface": "Muddy / Rooty",
-        "water_crossings": "Harper Creek — waist-deep possible",
+        "water_crossings": "Harper Creek \u2014 waist-deep possible",
         "blowdowns": true,
         "snow_level": null,
         "air_quality": null,
         "last_updated": "2026-03-11T16:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": ["Harper Creek running high — ford with extreme caution or wait for water to drop"],
+      "alerts": [
+        "Harper Creek running high \u2014 ford with extreme caution or wait for water to drop"
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48930"
     },
     {
@@ -258,32 +299,39 @@
       "name": "Laurel Fork Gorge Trail",
       "park": "Cherokee National Forest",
       "region": "Eastern TN",
-      "activity_types": ["hiking"],
+      "activity_types": [
+        "hiking"
+      ],
       "difficulty": "moderate",
       "length_miles": 6.0,
       "elevation_gain_ft": 800,
       "latitude": 36.3521,
-      "longitude": -82.2480,
+      "longitude": -82.248,
       "trailhead_access": "open",
       "conditions": {
         "status": "caution",
         "surface": "Wet Rock",
-        "water_crossings": "Laurel Fork Creek — slippery stepping stones",
+        "water_crossings": "Laurel Fork Creek \u2014 slippery stepping stones",
         "blowdowns": false,
         "snow_level": null,
         "air_quality": null,
         "last_updated": "2026-03-12T12:00:00Z",
         "source": "USFS Cherokee"
       },
-      "alerts": ["Wet rock throughout gorge — trekking poles strongly recommended"],
+      "alerts": [
+        "Wet rock throughout gorge \u2014 trekking poles strongly recommended"
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34830"
     },
     {
       "id": "roan-mountain-round-bald-tn",
-      "name": "Roan Mountain — Round Bald",
+      "name": "Roan Mountain \u2014 Round Bald",
       "park": "Cherokee National Forest",
       "region": "Eastern TN",
-      "activity_types": ["hiking", "backpacking"],
+      "activity_types": [
+        "hiking",
+        "backpacking"
+      ],
       "difficulty": "moderate",
       "length_miles": 4.2,
       "elevation_gain_ft": 850,
@@ -305,10 +353,13 @@
     },
     {
       "id": "hump-mountain-at-tn",
-      "name": "AT — Hump Mountain",
+      "name": "AT \u2014 Hump Mountain",
       "park": "Cherokee National Forest",
       "region": "Eastern TN",
-      "activity_types": ["hiking", "backpacking"],
+      "activity_types": [
+        "hiking",
+        "backpacking"
+      ],
       "difficulty": "hard",
       "length_miles": 8.0,
       "elevation_gain_ft": 1700,
@@ -333,7 +384,9 @@
       "name": "Coon Den Falls Trail",
       "park": "Cherokee National Forest",
       "region": "Eastern TN",
-      "activity_types": ["hiking"],
+      "activity_types": [
+        "hiking"
+      ],
       "difficulty": "easy",
       "length_miles": 2.0,
       "elevation_gain_ft": 300,
@@ -358,7 +411,11 @@
       "name": "Watauga Lakeshore Trail",
       "park": "Cherokee National Forest",
       "region": "Eastern TN",
-      "activity_types": ["hiking", "backpacking", "fishing"],
+      "activity_types": [
+        "hiking",
+        "backpacking",
+        "fishing"
+      ],
       "difficulty": "moderate",
       "length_miles": 11.0,
       "elevation_gain_ft": 1100,
@@ -383,32 +440,41 @@
       "name": "Iron Mountain Trail",
       "park": "Cherokee National Forest",
       "region": "Eastern TN",
-      "activity_types": ["hiking", "backpacking", "mtb"],
+      "activity_types": [
+        "hiking",
+        "backpacking",
+        "mtb"
+      ],
       "difficulty": "hard",
       "length_miles": 20.0,
       "elevation_gain_ft": 4200,
-      "latitude": 36.4120,
-      "longitude": -82.1840,
+      "latitude": 36.412,
+      "longitude": -82.184,
       "trailhead_access": "open",
       "conditions": {
         "status": "caution",
         "surface": "Rocky / Rooty / Muddy sections",
-        "water_crossings": "Multiple — generally passable",
+        "water_crossings": "Multiple \u2014 generally passable",
         "blowdowns": true,
         "snow_level": null,
         "air_quality": null,
         "last_updated": "2026-03-11T14:00:00Z",
         "source": "USFS Cherokee"
       },
-      "alerts": ["Downed trees reported between miles 8 and 12"],
+      "alerts": [
+        "Downed trees reported between miles 8 and 12"
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34900"
     },
     {
       "id": "beauty-spot-bald-tn",
-      "name": "AT — Beauty Spot Bald",
+      "name": "AT \u2014 Beauty Spot Bald",
       "park": "Cherokee National Forest",
       "region": "Eastern TN",
-      "activity_types": ["hiking", "backpacking"],
+      "activity_types": [
+        "hiking",
+        "backpacking"
+      ],
       "difficulty": "moderate",
       "length_miles": 5.2,
       "elevation_gain_ft": 1050,
@@ -433,12 +499,15 @@
       "name": "Bald Mountain Ridge Trail",
       "park": "Cherokee National Forest",
       "region": "Eastern TN",
-      "activity_types": ["hiking", "backpacking"],
+      "activity_types": [
+        "hiking",
+        "backpacking"
+      ],
       "difficulty": "hard",
       "length_miles": 7.5,
       "elevation_gain_ft": 1900,
-      "latitude": 36.0870,
-      "longitude": -82.1420,
+      "latitude": 36.087,
+      "longitude": -82.142,
       "trailhead_access": "open",
       "conditions": {
         "status": "open",
@@ -458,7 +527,10 @@
       "name": "Mount Rogers Summit Trail",
       "park": "Jefferson National Forest",
       "region": "SW Virginia",
-      "activity_types": ["hiking", "backpacking"],
+      "activity_types": [
+        "hiking",
+        "backpacking"
+      ],
       "difficulty": "moderate",
       "length_miles": 4.6,
       "elevation_gain_ft": 850,
@@ -480,10 +552,13 @@
     },
     {
       "id": "grayson-highlands-wilburn-ridge-va",
-      "name": "Grayson Highlands — Wilburn Ridge",
+      "name": "Grayson Highlands \u2014 Wilburn Ridge",
       "park": "Grayson Highlands State Park",
       "region": "SW Virginia",
-      "activity_types": ["hiking", "backpacking"],
+      "activity_types": [
+        "hiking",
+        "backpacking"
+      ],
       "difficulty": "moderate",
       "length_miles": 5.5,
       "elevation_gain_ft": 1000,
@@ -508,17 +583,20 @@
       "name": "Virginia Creeper Trail",
       "park": "Mount Rogers NRA",
       "region": "SW Virginia",
-      "activity_types": ["hiking", "mtb"],
+      "activity_types": [
+        "hiking",
+        "mtb"
+      ],
       "difficulty": "easy",
       "length_miles": 34.0,
       "elevation_gain_ft": 400,
       "latitude": 36.7015,
-      "longitude": -81.6850,
+      "longitude": -81.685,
       "trailhead_access": "open",
       "conditions": {
         "status": "open",
         "surface": "Crushed gravel",
-        "water_crossings": "Multiple trestles — all intact",
+        "water_crossings": "Multiple trestles \u2014 all intact",
         "blowdowns": false,
         "snow_level": null,
         "air_quality": null,
@@ -533,24 +611,29 @@
       "name": "Pine Mountain Trail",
       "park": "Jefferson National Forest",
       "region": "SW Virginia",
-      "activity_types": ["hiking", "backpacking"],
+      "activity_types": [
+        "hiking",
+        "backpacking"
+      ],
       "difficulty": "hard",
       "length_miles": 12.0,
       "elevation_gain_ft": 2400,
-      "latitude": 36.5840,
-      "longitude": -81.5620,
+      "latitude": 36.584,
+      "longitude": -81.562,
       "trailhead_access": "open",
       "conditions": {
         "status": "caution",
         "surface": "Rocky / Wet",
-        "water_crossings": "Three creek crossings — elevated after recent rain",
+        "water_crossings": "Three creek crossings \u2014 elevated after recent rain",
         "blowdowns": false,
         "snow_level": null,
         "air_quality": null,
         "last_updated": "2026-03-12T11:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": ["Creek levels elevated — stepping stone crossings may be impassable"],
+      "alerts": [
+        "Creek levels elevated \u2014 stepping stone crossings may be impassable"
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7090"
     },
     {
@@ -558,7 +641,9 @@
       "name": "Whitetop Mountain Summit",
       "park": "Jefferson National Forest",
       "region": "SW Virginia",
-      "activity_types": ["hiking"],
+      "activity_types": [
+        "hiking"
+      ],
       "difficulty": "easy",
       "length_miles": 1.8,
       "elevation_gain_ft": 360,
@@ -583,17 +668,20 @@
       "name": "Lewis Fork Wilderness Loop",
       "park": "Jefferson National Forest",
       "region": "SW Virginia",
-      "activity_types": ["hiking", "backpacking"],
+      "activity_types": [
+        "hiking",
+        "backpacking"
+      ],
       "difficulty": "moderate",
       "length_miles": 6.8,
       "elevation_gain_ft": 1100,
-      "latitude": 36.6720,
-      "longitude": -81.5310,
+      "latitude": 36.672,
+      "longitude": -81.531,
       "trailhead_access": "open",
       "conditions": {
         "status": "open",
         "surface": "Forested / Leaf litter",
-        "water_crossings": "Lewis Fork Creek — easy rock hop",
+        "water_crossings": "Lewis Fork Creek \u2014 easy rock hop",
         "blowdowns": false,
         "snow_level": null,
         "air_quality": null,
@@ -608,12 +696,15 @@
       "name": "Hurricane Creek Trail",
       "park": "Jefferson National Forest",
       "region": "SW Virginia",
-      "activity_types": ["hiking", "fishing"],
+      "activity_types": [
+        "hiking",
+        "fishing"
+      ],
       "difficulty": "easy",
       "length_miles": 3.0,
       "elevation_gain_ft": 280,
-      "latitude": 36.6280,
-      "longitude": -81.5740,
+      "latitude": 36.628,
+      "longitude": -81.574,
       "trailhead_access": "open",
       "conditions": {
         "status": "open",
