@@ -61,10 +61,7 @@
         "last_updated": "2026-03-12T14:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [
-        "High water at river crossing \u2014 use caution",
-        "Multiple blowdowns on upper section"
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48910"
     },
     {
@@ -175,9 +172,7 @@
         "last_updated": "2026-03-13T10:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [
-        "Parking limited to 30 vehicles \u2014 arrive early on weekends"
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=49001"
     },
     {
@@ -289,9 +284,7 @@
         "last_updated": "2026-03-11T16:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [
-        "Harper Creek running high \u2014 ford with extreme caution or wait for water to drop"
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48930"
     },
     {
@@ -318,9 +311,7 @@
         "last_updated": "2026-03-12T12:00:00Z",
         "source": "USFS Cherokee"
       },
-      "alerts": [
-        "Wet rock throughout gorge \u2014 trekking poles strongly recommended"
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34830"
     },
     {
@@ -461,9 +452,7 @@
         "last_updated": "2026-03-11T14:00:00Z",
         "source": "USFS Cherokee"
       },
-      "alerts": [
-        "Downed trees reported between miles 8 and 12"
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34900"
     },
     {
@@ -631,9 +620,7 @@
         "last_updated": "2026-03-12T11:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [
-        "Creek levels elevated \u2014 stepping stone crossings may be impassable"
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7090"
     },
     {
