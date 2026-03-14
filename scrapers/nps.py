@@ -4,7 +4,9 @@ Maps NPS alert categories to trail status and alert text.
 API key is free: https://www.nps.gov/subjects/developer/get-started.htm
 """
 
+import uuid
 import requests
+from datetime import datetime, timezone
 from typing import Optional
 
 NPS_BASE = "https://developer.nps.gov/api/v1"
@@ -88,22 +90,38 @@ def apply_nps_alerts(trail: dict, nps_alerts: dict[str, list[dict]]) -> dict:
     if not alerts:
         return trail
 
-    # Collect alert titles as our alert strings
-    alert_texts = []
+    # Collect alerts as proper TrailAlert objects
+    alert_objects = []
     worst_status = None
-
     status_rank = {"closed": 2, "caution": 1, None: 0}
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     for alert in alerts:
         title = alert["title"]
         if title:
-            alert_texts.append(title)
+            category = alert.get("category", "").lower()
+            if "closure" in category or "closed" in category:
+                alert_type = "closure"
+            elif "fire" in category:
+                alert_type = "fire"
+            elif "flood" in category:
+                alert_type = "flood"
+            elif "bear" in category or "bear" in title.lower():
+                alert_type = "bear_activity"
+            else:
+                alert_type = "other"
+            alert_objects.append({
+                "id": str(uuid.uuid4()),
+                "type": alert_type,
+                "message": title,
+                "posted": now,
+            })
         s = alert["status"]
         if status_rank.get(s, 0) > status_rank.get(worst_status, 0):
             worst_status = s
 
-    if alert_texts:
-        trail["alerts"] = alert_texts[:3]   # cap at 3 alerts
+    if alert_objects:
+        trail["alerts"] = alert_objects[:3]   # cap at 3 alerts
 
     if worst_status and not trail.get("locked"):
         trail["conditions"]["status"] = worst_status

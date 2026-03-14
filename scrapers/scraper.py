@@ -54,7 +54,8 @@ def reset_weather_alerts(trails: list[dict]) -> list[dict]:
             # Remove any previous weather-generated alert texts
             trail["alerts"] = [
                 a for a in trail.get("alerts", [])
-                if not any(kw in a.lower() for kw in ["rain", "snow", "icy", "water crossing"])
+                if not any(kw in (a.get("message", "") if isinstance(a, dict) else a).lower()
+                           for kw in ["rain", "snow", "icy", "water crossing"])
             ]
     return trails
 

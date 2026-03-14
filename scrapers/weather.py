@@ -7,7 +7,9 @@ Used to automatically flag caution when:
   - High winds on exposed summits
 """
 
+import uuid
 import requests
+from datetime import datetime, timezone
 from typing import Optional
 
 OPEN_METEO_URL = "https://api.open-meteo.com/v1/forecast"
@@ -123,10 +125,17 @@ def apply_weather_to_trail(trail: dict) -> dict:
     if status_rank.get(summary["condition_flag"], 0) > status_rank.get(current_status, 0):
         trail["conditions"]["status"] = summary["condition_flag"]
 
-    # Append weather alert if new and not already present
+    # Append weather alert as a proper TrailAlert object if not already present
     if summary["alert_text"]:
         existing = trail.get("alerts", [])
-        if summary["alert_text"] not in existing:
-            trail["alerts"] = existing + [summary["alert_text"]]
+        existing_messages = [a.get("message", "") if isinstance(a, dict) else a for a in existing]
+        if summary["alert_text"] not in existing_messages:
+            alert_type = "flood" if "water crossing" in summary["alert_text"].lower() else "other"
+            trail["alerts"] = existing + [{
+                "id": str(uuid.uuid4()),
+                "type": alert_type,
+                "message": summary["alert_text"],
+                "posted": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+            }]
 
     return trail
