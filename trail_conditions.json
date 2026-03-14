@@ -1,0 +1,278 @@
+{
+  "last_updated": "2026-03-14T10:00:00",
+  "total_trails": 10,
+  "sources": ["nps", "usfs", "ncparks", "manual"],
+  "trails": [
+    {
+      "id": "hcnc_001",
+      "name": "Rough Ridge",
+      "region": "High Country NC",
+      "park": "Pisgah National Forest",
+      "activity_types": ["hiking"],
+      "difficulty": "moderate",
+      "length_miles": 1.2,
+      "elevation_gain_ft": 350,
+      "latitude": 36.1245,
+      "longitude": -81.8123,
+      "trailhead_access": "open",
+      "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48963",
+      "conditions": {
+        "status": "open",
+        "surface": "rocky",
+        "water_crossings": "none",
+        "blowdowns": false,
+        "snow_level": null,
+        "air_quality": "good",
+        "last_updated": "2026-03-14T08:00:00",
+        "source": "manual"
+      },
+      "alerts": []
+    },
+    {
+      "id": "hcnc_002",
+      "name": "Beacon Heights",
+      "region": "High Country NC",
+      "park": "Blue Ridge Parkway",
+      "activity_types": ["hiking"],
+      "difficulty": "easy",
+      "length_miles": 1.0,
+      "elevation_gain_ft": 220,
+      "latitude": 36.0937,
+      "longitude": -81.8434,
+      "trailhead_access": "open",
+      "source_url": "https://www.nps.gov/blri/planyourvisit/beacon-heights.htm",
+      "conditions": {
+        "status": "open",
+        "surface": "dirt",
+        "water_crossings": "none",
+        "blowdowns": false,
+        "snow_level": null,
+        "air_quality": "good",
+        "last_updated": "2026-03-14T08:00:00",
+        "source": "nps"
+      },
+      "alerts": []
+    },
+    {
+      "id": "hcnc_003",
+      "name": "Linville Gorge — Babel Tower Trail",
+      "region": "High Country NC",
+      "park": "Linville Gorge Wilderness",
+      "activity_types": ["hiking", "backpacking"],
+      "difficulty": "hard",
+      "length_miles": 3.4,
+      "elevation_gain_ft": 1100,
+      "latitude": 35.9553,
+      "longitude": -81.9231,
+      "trailhead_access": "open",
+      "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=49012",
+      "conditions": {
+        "status": "caution",
+        "surface": "muddy",
+        "water_crossings": "passable with care",
+        "blowdowns": true,
+        "snow_level": null,
+        "air_quality": "good",
+        "last_updated": "2026-03-13T14:00:00",
+        "source": "usfs"
+      },
+      "alerts": [
+        {
+          "id": "alert_hcnc_003_1",
+          "type": "blowdown",
+          "message": "Multiple blowdowns reported on lower section near Linville River. Passable but slow going.",
+          "posted": "2026-03-13T14:00:00"
+        }
+      ]
+    },
+    {
+      "id": "hcnc_004",
+      "name": "Black Mountain Trail",
+      "region": "High Country NC",
+      "park": "Pisgah National Forest",
+      "activity_types": ["hiking", "backpacking"],
+      "difficulty": "hard",
+      "length_miles": 11.8,
+      "elevation_gain_ft": 3200,
+      "latitude": 35.7650,
+      "longitude": -82.2489,
+      "trailhead_access": "open",
+      "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48700",
+      "conditions": {
+        "status": "open",
+        "surface": "dirt",
+        "water_crossings": "multiple — all passable",
+        "blowdowns": false,
+        "snow_level": null,
+        "air_quality": "good",
+        "last_updated": "2026-03-12T09:00:00",
+        "source": "usfs"
+      },
+      "alerts": []
+    },
+    {
+      "id": "hcnc_005",
+      "name": "Grandfather Mountain — Daniel Boone Scout Trail",
+      "region": "High Country NC",
+      "park": "Grandfather Mountain State Park",
+      "activity_types": ["hiking", "backpacking", "climbing"],
+      "difficulty": "expert",
+      "length_miles": 2.4,
+      "elevation_gain_ft": 1600,
+      "latitude": 36.1043,
+      "longitude": -81.8243,
+      "trailhead_access": "open",
+      "source_url": "https://grandfathermtn.com/state-park/hiking/",
+      "conditions": {
+        "status": "open",
+        "surface": "rocky",
+        "water_crossings": "none",
+        "blowdowns": false,
+        "snow_level": null,
+        "air_quality": "good",
+        "last_updated": "2026-03-14T07:00:00",
+        "source": "ncparks"
+      },
+      "alerts": []
+    },
+    {
+      "id": "etn_001",
+      "name": "Roan Mountain — Appalachian Trail",
+      "region": "Eastern TN",
+      "park": "Cherokee National Forest",
+      "activity_types": ["hiking", "backpacking"],
+      "difficulty": "moderate",
+      "length_miles": 5.6,
+      "elevation_gain_ft": 1800,
+      "latitude": 36.1028,
+      "longitude": -82.1045,
+      "trailhead_access": "open",
+      "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=35232",
+      "conditions": {
+        "status": "open",
+        "surface": "dirt",
+        "water_crossings": "small stream — dry",
+        "blowdowns": false,
+        "snow_level": null,
+        "air_quality": "good",
+        "last_updated": "2026-03-13T10:00:00",
+        "source": "usfs"
+      },
+      "alerts": []
+    },
+    {
+      "id": "etn_002",
+      "name": "Laurel Fork Gorge Trail",
+      "region": "Eastern TN",
+      "park": "Cherokee National Forest",
+      "activity_types": ["hiking", "fishing"],
+      "difficulty": "moderate",
+      "length_miles": 6.8,
+      "elevation_gain_ft": 650,
+      "latitude": 36.3421,
+      "longitude": -82.3178,
+      "trailhead_access": "open",
+      "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=35198",
+      "conditions": {
+        "status": "caution",
+        "surface": "wet rock",
+        "water_crossings": "high — use caution at mile 2.1",
+        "blowdowns": false,
+        "snow_level": null,
+        "air_quality": "good",
+        "last_updated": "2026-03-14T06:00:00",
+        "source": "usfs"
+      },
+      "alerts": [
+        {
+          "id": "alert_etn_002_1",
+          "type": "flood",
+          "message": "Laurel Fork creek running high after recent rain. Water crossing at mile 2.1 is knee-deep. Trekking poles recommended.",
+          "posted": "2026-03-14T06:00:00"
+        }
+      ]
+    },
+    {
+      "id": "etn_003",
+      "name": "Pond Mountain Trail",
+      "region": "Eastern TN",
+      "park": "Cherokee National Forest",
+      "activity_types": ["hiking", "backpacking"],
+      "difficulty": "hard",
+      "length_miles": 8.2,
+      "elevation_gain_ft": 2400,
+      "latitude": 36.3612,
+      "longitude": -82.1789,
+      "trailhead_access": "open",
+      "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=35210",
+      "conditions": {
+        "status": "open",
+        "surface": "dirt",
+        "water_crossings": "none",
+        "blowdowns": false,
+        "snow_level": null,
+        "air_quality": "good",
+        "last_updated": "2026-03-11T12:00:00",
+        "source": "usfs"
+      },
+      "alerts": []
+    },
+    {
+      "id": "sva_001",
+      "name": "Mount Rogers Summit Trail",
+      "region": "SW Virginia",
+      "park": "Jefferson National Forest",
+      "activity_types": ["hiking", "backpacking"],
+      "difficulty": "moderate",
+      "length_miles": 4.6,
+      "elevation_gain_ft": 1100,
+      "latitude": 36.6598,
+      "longitude": -81.5446,
+      "trailhead_access": "open",
+      "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7056",
+      "conditions": {
+        "status": "open",
+        "surface": "dirt",
+        "water_crossings": "none",
+        "blowdowns": false,
+        "snow_level": "patchy ice above 5000 ft",
+        "air_quality": "good",
+        "last_updated": "2026-03-14T07:30:00",
+        "source": "usfs"
+      },
+      "alerts": [
+        {
+          "id": "alert_sva_001_1",
+          "type": "closure",
+          "message": "Patchy ice reported above 5,000 ft on north-facing slopes. Microspikes recommended for summit approach.",
+          "posted": "2026-03-14T07:30:00"
+        }
+      ]
+    },
+    {
+      "id": "sva_002",
+      "name": "Grayson Highlands — Rhododendron Trail",
+      "region": "SW Virginia",
+      "park": "Grayson Highlands State Park",
+      "activity_types": ["hiking"],
+      "difficulty": "easy",
+      "length_miles": 3.0,
+      "elevation_gain_ft": 400,
+      "latitude": 36.6347,
+      "longitude": -81.5012,
+      "trailhead_access": "open",
+      "source_url": "https://www.dcr.virginia.gov/state-parks/grayson-highlands",
+      "conditions": {
+        "status": "open",
+        "surface": "gravel",
+        "water_crossings": "none",
+        "blowdowns": false,
+        "snow_level": null,
+        "air_quality": "good",
+        "last_updated": "2026-03-14T08:00:00",
+        "source": "manual"
+      },
+      "alerts": []
+    }
+  ]
+}
