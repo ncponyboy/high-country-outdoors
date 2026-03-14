@@ -1,0 +1,18 @@
+# Xcode project files — these live in a separate repo
+*.swift
+*.xcodeproj/
+*.xcworkspace/
+*.entitlements
+*.h
+*.xcassets/
+High Country Outdoors/
+AppIcon.png
+icon_philosophy.md
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+.env
