@@ -176,7 +176,7 @@ def main():
         cfs      = gauge_data.get("cfs")
         gauge_ft = gauge_data.get("gauge_ft")
         trend    = gauge_data.get("trend", "unknown")
-        condition = cfs_to_condition(cfs, river) if cfs is not None else "unknown"
+        condition = cfs_to_condition(cfs, gauge_ft, river)
 
         # Inject / overwrite live fields only
         river["current_cfs"]   = round(cfs, 1)      if cfs      is not None else None
