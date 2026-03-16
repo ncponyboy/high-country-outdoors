@@ -24,7 +24,7 @@
       "gauge_ft": 2.27,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-16T16:58:22Z"
+      "last_updated": "2026-03-16T17:11:46Z"
     },
     {
       "id": "watauga-river-nc",
@@ -49,7 +49,7 @@
       "gauge_ft": 2.29,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-16T16:58:22Z"
+      "last_updated": "2026-03-16T17:11:46Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -74,9 +74,9 @@
       "gauge_ft": 42.72,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-16T16:58:22Z"
+      "last_updated": "2026-03-16T17:11:46Z"
     },
-        {
+    {
       "id": "wilson-creek-nc",
       "name": "Wilson Creek",
       "description": "A wild and scenic river near Mortimer NC with technical whitewater. Flows through Wilson Creek Gorge with spectacular scenery.",
@@ -101,7 +101,7 @@
       "current_cfs": null,
       "gauge_ft": 3.42,
       "trend": "unknown",
-      "condition": "unknown",
+      "condition": "optimal",
       "last_updated": ""
     },
     {
@@ -122,11 +122,11 @@
       "flood_cfs_threshold": 1600,
       "put_in": "Elk Park Bridge, Elk Park NC",
       "website_url": "https://www.paddling.com/plan/locations/elk-creek",
-      "current_cfs": 136.0,
-      "gauge_ft": 1.35,
+      "current_cfs": 142.0,
+      "gauge_ft": 1.37,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-16T16:58:22Z"
+      "last_updated": "2026-03-16T17:11:46Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -151,8 +151,8 @@
       "gauge_ft": 1.58,
       "trend": "rising",
       "condition": "high",
-      "last_updated": "2026-03-16T16:58:22Z"
+      "last_updated": "2026-03-16T17:11:46Z"
     }
   ],
-  "last_updated": "2026-03-16T16:58:22Z"
+  "last_updated": "2026-03-16T17:11:46Z"
 }
