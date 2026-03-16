@@ -39,6 +39,7 @@ def fetch_usgs(site_ids: list[str]) -> dict:
         f"?format=json&sites={sites_str}"
         f"&parameterCd={PARAM_CFS},{PARAM_GAUGE}"
         "&siteStatus=active"
+        "&period=PT3H"
     )
 
     try:
