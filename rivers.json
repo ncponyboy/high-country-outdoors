@@ -20,11 +20,11 @@
       "flood_cfs_threshold": 2500,
       "put_in": "New River State Park, Sparta NC",
       "website_url": "https://www.ncparks.gov/new-river-state-park",
-      "current_cfs": 353.0,
-      "gauge_ft": 2.24,
+      "current_cfs": 366.0,
+      "gauge_ft": 2.27,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-16T16:11:07Z"
+      "last_updated": "2026-03-16T16:58:22Z"
     },
     {
       "id": "watauga-river-nc",
@@ -45,11 +45,11 @@
       "flood_cfs_threshold": 2000,
       "put_in": "Sugar Grove Access, Sugar Grove NC",
       "website_url": "https://www.paddling.com/plan/locations/watauga-river",
-      "current_cfs": 220.0,
-      "gauge_ft": 2.21,
-      "trend": "rising",
+      "current_cfs": 248.0,
+      "gauge_ft": 2.29,
+      "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-16T16:11:07Z"
+      "last_updated": "2026-03-16T16:58:22Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -74,7 +74,7 @@
       "gauge_ft": 42.72,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-16T16:11:07Z"
+      "last_updated": "2026-03-16T16:58:22Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -95,7 +95,7 @@
       "put_in": "Mortimer Campground, Collettsville NC",
       "website_url": "https://www.fs.usda.gov/recarea/nfsnc/recreation/recarea/?recid=48974",
       "current_cfs": null,
-      "gauge_ft": 3.4,
+      "gauge_ft": 3.42,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -122,7 +122,7 @@
       "gauge_ft": 1.35,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-16T16:11:07Z"
+      "last_updated": "2026-03-16T16:58:22Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -143,12 +143,12 @@
       "flood_cfs_threshold": 1400,
       "put_in": "Celo Community, Celo NC",
       "website_url": "https://www.paddling.com/plan/locations/south-toe-river",
-      "current_cfs": 306.0,
-      "gauge_ft": 1.49,
+      "current_cfs": 358.0,
+      "gauge_ft": 1.58,
       "trend": "rising",
-      "condition": "optimal",
-      "last_updated": "2026-03-16T16:11:07Z"
+      "condition": "high",
+      "last_updated": "2026-03-16T16:58:22Z"
     }
   ],
-  "last_updated": "2026-03-16T16:11:07Z"
+  "last_updated": "2026-03-16T16:58:22Z"
 }
