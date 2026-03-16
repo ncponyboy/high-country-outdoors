@@ -20,11 +20,11 @@
       "flood_cfs_threshold": 2500,
       "put_in": "New River State Park, Sparta NC",
       "website_url": "https://www.ncparks.gov/new-river-state-park",
-      "current_cfs": 371.0,
-      "gauge_ft": 2.28,
+      "current_cfs": 380.0,
+      "gauge_ft": 2.3,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-16T18:01:56Z"
+      "last_updated": "2026-03-16T19:51:35Z"
     },
     {
       "id": "watauga-river-nc",
@@ -45,11 +45,11 @@
       "flood_cfs_threshold": 2000,
       "put_in": "Sugar Grove Access, Sugar Grove NC",
       "website_url": "https://www.paddling.com/plan/locations/watauga-river",
-      "current_cfs": 301.0,
-      "gauge_ft": 2.43,
-      "trend": "rising",
+      "current_cfs": 375.0,
+      "gauge_ft": 2.6,
+      "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-16T18:01:56Z"
+      "last_updated": "2026-03-16T19:51:35Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -70,11 +70,11 @@
       "flood_cfs_threshold": 5000,
       "put_in": "Poplar, NC (put-in above gorge)",
       "website_url": "https://www.paddling.com/plan/locations/nolichucky-river",
-      "current_cfs": 2090.0,
-      "gauge_ft": 42.73,
+      "current_cfs": 2130.0,
+      "gauge_ft": 42.75,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-16T18:01:56Z"
+      "last_updated": "2026-03-16T19:51:35Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -99,7 +99,7 @@
       "put_in": "Mortimer Campground, Collettsville NC",
       "website_url": "https://www.fs.usda.gov/recarea/nfsnc/recreation/recarea/?recid=48974",
       "current_cfs": null,
-      "gauge_ft": 3.46,
+      "gauge_ft": 3.49,
       "trend": "unknown",
       "condition": "optimal",
       "last_updated": ""
@@ -122,11 +122,11 @@
       "flood_cfs_threshold": 1600,
       "put_in": "Elk Park Bridge, Elk Park NC",
       "website_url": "https://www.paddling.com/plan/locations/elk-creek",
-      "current_cfs": 142.0,
-      "gauge_ft": 1.37,
+      "current_cfs": 163.0,
+      "gauge_ft": 1.43,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-16T18:01:56Z"
+      "last_updated": "2026-03-16T19:51:35Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -147,12 +147,12 @@
       "flood_cfs_threshold": 1400,
       "put_in": "Celo Community, Celo NC",
       "website_url": "https://www.paddling.com/plan/locations/south-toe-river",
-      "current_cfs": 358.0,
-      "gauge_ft": 1.58,
+      "current_cfs": 383.0,
+      "gauge_ft": 1.61,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-16T18:01:56Z"
+      "last_updated": "2026-03-16T19:51:35Z"
     }
   ],
-  "last_updated": "2026-03-16T18:01:56Z"
+  "last_updated": "2026-03-16T19:51:35Z"
 }
