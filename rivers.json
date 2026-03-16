@@ -24,7 +24,7 @@
       "gauge_ft": 2.3,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-16T19:51:35Z"
+      "last_updated": "2026-03-16T20:34:37Z"
     },
     {
       "id": "watauga-river-nc",
@@ -49,7 +49,7 @@
       "gauge_ft": 2.6,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-16T19:51:35Z"
+      "last_updated": "2026-03-16T20:34:37Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -70,11 +70,11 @@
       "flood_cfs_threshold": 5000,
       "put_in": "Poplar, NC (put-in above gorge)",
       "website_url": "https://www.paddling.com/plan/locations/nolichucky-river",
-      "current_cfs": 2130.0,
-      "gauge_ft": 42.75,
+      "current_cfs": 2150.0,
+      "gauge_ft": 42.76,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-16T19:51:35Z"
+      "last_updated": "2026-03-16T20:34:37Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -99,9 +99,9 @@
       "put_in": "Mortimer Campground, Collettsville NC",
       "website_url": "https://www.fs.usda.gov/recarea/nfsnc/recreation/recarea/?recid=48974",
       "current_cfs": null,
-      "gauge_ft": 3.49,
+      "gauge_ft": 3.56,
       "trend": "unknown",
-      "condition": "optimal",
+      "condition": "high",
       "last_updated": ""
     },
     {
@@ -122,11 +122,11 @@
       "flood_cfs_threshold": 1600,
       "put_in": "Elk Park Bridge, Elk Park NC",
       "website_url": "https://www.paddling.com/plan/locations/elk-creek",
-      "current_cfs": 163.0,
-      "gauge_ft": 1.43,
+      "current_cfs": 174.0,
+      "gauge_ft": 1.46,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-16T19:51:35Z"
+      "last_updated": "2026-03-16T20:34:37Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -151,8 +151,8 @@
       "gauge_ft": 1.61,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-16T19:51:35Z"
+      "last_updated": "2026-03-16T20:34:37Z"
     }
   ],
-  "last_updated": "2026-03-16T19:51:35Z"
+  "last_updated": "2026-03-16T20:34:37Z"
 }
