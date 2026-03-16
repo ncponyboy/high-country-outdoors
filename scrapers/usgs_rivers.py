@@ -117,19 +117,36 @@ def fetch_usgs(site_ids: list[str]) -> dict:
 # Condition label from CFS thresholds stored in rivers.json
 # ---------------------------------------------------------------------------
 
-def cfs_to_condition(cfs: float, river: dict) -> str:
-    low_thresh   = river.get("optimal_cfs_low",   0)
-    high_thresh  = river.get("optimal_cfs_high",  low_thresh * 4)
-    flood_thresh = river.get("flood_cfs_threshold", high_thresh * 3)
+def cfs_to_condition(cfs, gauge_ft, river: dict) -> str:
+    # Try CFS thresholds first
+    if cfs is not None:
+        low_thresh   = river.get("optimal_cfs_low",   0)
+        high_thresh  = river.get("optimal_cfs_high",  low_thresh * 4)
+        flood_thresh = river.get("flood_cfs_threshold", high_thresh * 3)
+        if cfs < low_thresh:
+            return "low"
+        elif cfs <= high_thresh:
+            return "optimal"
+        elif cfs < flood_thresh:
+            return "high"
+        else:
+            return "flood"
 
-    if cfs < low_thresh:
-        return "low"
-    elif cfs <= high_thresh:
-        return "optimal"
-    elif cfs < flood_thresh:
-        return "high"
-    else:
-        return "flood"
+    # Fall back to gauge height thresholds (e.g. Wilson Creek)
+    if gauge_ft is not None and river.get("gauge_optimal_low") is not None:
+        low_thresh   = river["gauge_optimal_low"]
+        high_thresh  = river["gauge_optimal_high"]
+        flood_thresh = river["gauge_flood_threshold"]
+        if gauge_ft < low_thresh:
+            return "low"
+        elif gauge_ft <= high_thresh:
+            return "optimal"
+        elif gauge_ft < flood_thresh:
+            return "high"
+        else:
+            return "flood"
+
+    return "unknown"
 
 
 # ---------------------------------------------------------------------------
