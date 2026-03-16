@@ -76,7 +76,7 @@
       "condition": "high",
       "last_updated": "2026-03-16T16:58:22Z"
     },
-    {
+        {
       "id": "wilson-creek-nc",
       "name": "Wilson Creek",
       "description": "A wild and scenic river near Mortimer NC with technical whitewater. Flows through Wilson Creek Gorge with spectacular scenery.",
@@ -92,6 +92,10 @@
       "optimal_cfs_high": 300,
       "high_cfs_threshold": 600,
       "flood_cfs_threshold": 1200,
+      "gauge_optimal_low": 1.5,
+      "gauge_optimal_high": 3.5,
+      "gauge_high_threshold": 5.5,
+      "gauge_flood_threshold": 8.0,
       "put_in": "Mortimer Campground, Collettsville NC",
       "website_url": "https://www.fs.usda.gov/recarea/nfsnc/recreation/recarea/?recid=48974",
       "current_cfs": null,
