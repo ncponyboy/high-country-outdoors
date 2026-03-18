@@ -20,11 +20,11 @@
       "flood_cfs_threshold": 2500,
       "put_in": "New River State Park, Sparta NC",
       "website_url": "https://www.ncparks.gov/new-river-state-park",
-      "current_cfs": 526.0,
-      "gauge_ft": 2.59,
+      "current_cfs": 521.0,
+      "gauge_ft": 2.58,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-18T20:32:14Z"
+      "last_updated": "2026-03-18T21:30:36Z"
     },
     {
       "id": "watauga-river-nc",
@@ -45,11 +45,11 @@
       "flood_cfs_threshold": 2000,
       "put_in": "Sugar Grove Access, Sugar Grove NC",
       "website_url": "https://www.paddling.com/plan/locations/watauga-river",
-      "current_cfs": 274.0,
-      "gauge_ft": 2.36,
+      "current_cfs": 277.0,
+      "gauge_ft": 2.37,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-18T20:32:14Z"
+      "last_updated": "2026-03-18T21:30:36Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -74,7 +74,7 @@
       "gauge_ft": 43.44,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-18T20:32:14Z"
+      "last_updated": "2026-03-18T21:30:36Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -99,7 +99,7 @@
       "put_in": "Mortimer Campground, Collettsville NC",
       "website_url": "https://www.fs.usda.gov/recarea/nfsnc/recreation/recarea/?recid=48974",
       "current_cfs": null,
-      "gauge_ft": 3.42,
+      "gauge_ft": 3.41,
       "trend": "unknown",
       "condition": "optimal",
       "last_updated": ""
@@ -126,7 +126,7 @@
       "gauge_ft": 1.34,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-18T20:32:14Z"
+      "last_updated": "2026-03-18T21:30:36Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -151,8 +151,8 @@
       "gauge_ft": 1.09,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-18T20:32:14Z"
+      "last_updated": "2026-03-18T21:30:36Z"
     }
   ],
-  "last_updated": "2026-03-18T20:32:14Z"
+  "last_updated": "2026-03-18T21:30:36Z"
 }
