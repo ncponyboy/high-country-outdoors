@@ -20,11 +20,11 @@
       "flood_cfs_threshold": 2500,
       "put_in": "New River State Park, Sparta NC",
       "website_url": "https://www.ncparks.gov/new-river-state-park",
-      "current_cfs": 484.0,
-      "gauge_ft": 2.51,
+      "current_cfs": 473.0,
+      "gauge_ft": 2.49,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T04:22:53Z"
+      "last_updated": "2026-03-19T05:55:31Z"
     },
     {
       "id": "watauga-river-nc",
@@ -45,11 +45,11 @@
       "flood_cfs_threshold": 2000,
       "put_in": "Sugar Grove Access, Sugar Grove NC",
       "website_url": "https://www.paddling.com/plan/locations/watauga-river",
-      "current_cfs": 259.0,
-      "gauge_ft": 2.32,
+      "current_cfs": 251.0,
+      "gauge_ft": 2.3,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T04:22:53Z"
+      "last_updated": "2026-03-19T05:55:31Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -70,11 +70,11 @@
       "flood_cfs_threshold": 5000,
       "put_in": "Poplar, NC (put-in above gorge)",
       "website_url": "https://www.paddling.com/plan/locations/nolichucky-river",
-      "current_cfs": 3440.0,
-      "gauge_ft": 43.32,
+      "current_cfs": 3340.0,
+      "gauge_ft": 43.28,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-19T04:22:53Z"
+      "last_updated": "2026-03-19T05:55:31Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -126,7 +126,7 @@
       "gauge_ft": 1.3,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T04:22:53Z"
+      "last_updated": "2026-03-19T05:55:31Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -151,8 +151,8 @@
       "gauge_ft": 1.08,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T04:22:53Z"
+      "last_updated": "2026-03-19T05:55:31Z"
     }
   ],
-  "last_updated": "2026-03-19T04:22:53Z"
+  "last_updated": "2026-03-19T05:55:31Z"
 }
