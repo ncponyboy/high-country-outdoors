@@ -8,11 +8,7 @@
       "latitude": 36.4132,
       "longitude": -81.4764,
       "usgs_gauge_id": "03161000",
-      "activities": [
-        "kayaking",
-        "tubing",
-        "canoeing"
-      ],
+      "activities": ["kayaking", "tubing", "canoeing"],
       "difficulty": "Class I-II",
       "optimal_cfs_low": 150,
       "optimal_cfs_high": 600,
@@ -20,24 +16,45 @@
       "flood_cfs_threshold": 2500,
       "put_in": "New River State Park, Sparta NC",
       "website_url": "https://www.ncparks.gov/new-river-state-park",
-      "current_cfs": 458.0,
-      "gauge_ft": 2.46,
-      "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-03-19T12:56:24Z"
+      "access_points": [
+        {
+          "id": "new-river-canoe-1",
+          "name": "New River State Park Canoe Launch",
+          "type": "kayak",
+          "latitude": 36.4138,
+          "longitude": -81.4768,
+          "description": "Official canoe and kayak launch inside New River State Park. Ample parking and restrooms on site.",
+          "notes": "Day use fee required. Open year-round."
+        },
+        {
+          "id": "new-river-swimming-1",
+          "name": "Wagoner Access Swimming Hole",
+          "type": "swimming",
+          "latitude": 36.4201,
+          "longitude": -81.4623,
+          "description": "Popular shallow swimming and wading area with a sandy gravel bar. Great for families.",
+          "notes": "No lifeguard on duty. Watch for current during high water."
+        },
+        {
+          "id": "new-river-fishing-1",
+          "name": "Tessentee Creek Confluence Fishing",
+          "type": "fishing",
+          "latitude": 36.4088,
+          "longitude": -81.4901,
+          "description": "Productive smallmouth bass and musky fishing where Tessentee Creek meets the New River.",
+          "notes": "NC fishing license required. Check NCWRC regulations for size limits."
+        }
+      ]
     },
     {
       "id": "watauga-river-nc",
       "name": "Watauga River",
       "description": "A beautiful mountain river flowing through Watauga County. Popular for trout fishing and kayaking with scenic gorge sections.",
       "region": "High Country NC",
-      "latitude": 36.234,
-      "longitude": -81.806,
+      "latitude": 36.2340,
+      "longitude": -81.8060,
       "usgs_gauge_id": "03479000",
-      "activities": [
-        "kayaking",
-        "fishing"
-      ],
+      "activities": ["kayaking", "fishing"],
       "difficulty": "Class II-III",
       "optimal_cfs_low": 100,
       "optimal_cfs_high": 500,
@@ -45,11 +62,44 @@
       "flood_cfs_threshold": 2000,
       "put_in": "Sugar Grove Access, Sugar Grove NC",
       "website_url": "https://www.paddling.com/plan/locations/watauga-river",
-      "current_cfs": 237.0,
-      "gauge_ft": 2.26,
-      "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-03-19T12:56:24Z"
+      "access_points": [
+        {
+          "id": "watauga-kayak-1",
+          "name": "Sugar Grove Kayak Put-In",
+          "type": "kayak",
+          "latitude": 36.2346,
+          "longitude": -81.8072,
+          "description": "Main put-in for the popular Sugar Grove to Dugger Mine run. Roadside pullout with river access.",
+          "notes": "Limited parking on shoulder of SR-1114. Arrive early on weekends."
+        },
+        {
+          "id": "watauga-kayak-2",
+          "name": "Dugger Mine Take-Out",
+          "type": "kayak",
+          "latitude": 36.2189,
+          "longitude": -81.7834,
+          "description": "Standard take-out point for Sugar Grove run. Small gravel bar with road access.",
+          "notes": "Park along the road, do not block gate. Roughly 4-mile run from Sugar Grove."
+        },
+        {
+          "id": "watauga-fishing-1",
+          "name": "Valle Crucis Fishing Access",
+          "type": "fishing",
+          "latitude": 36.2198,
+          "longitude": -81.7721,
+          "description": "Excellent trophy trout fishing in the Valle Crucis section. Wild and stocked brown and rainbow trout.",
+          "notes": "Catch-and-release only in designated trophy sections. Artificial lures only. NC fishing license required."
+        },
+        {
+          "id": "watauga-swimming-1",
+          "name": "Laurel Creek Swimming Hole",
+          "type": "swimming",
+          "latitude": 36.2411,
+          "longitude": -81.8215,
+          "description": "Scenic swimming hole at Laurel Creek confluence. Cool, clear water with a small waterfall upstream.",
+          "notes": "Slippery rocks — water shoes recommended. No facilities."
+        }
+      ]
     },
     {
       "id": "nolichucky-river-tn",
@@ -59,10 +109,7 @@
       "latitude": 36.1584,
       "longitude": -82.5485,
       "usgs_gauge_id": "03466500",
-      "activities": [
-        "kayaking",
-        "rafting"
-      ],
+      "activities": ["kayaking", "rafting"],
       "difficulty": "Class III-IV",
       "optimal_cfs_low": 300,
       "optimal_cfs_high": 1200,
@@ -70,11 +117,35 @@
       "flood_cfs_threshold": 5000,
       "put_in": "Poplar, NC (put-in above gorge)",
       "website_url": "https://www.paddling.com/plan/locations/nolichucky-river",
-      "current_cfs": 3150.0,
-      "gauge_ft": 43.2,
-      "trend": "steady",
-      "condition": "high",
-      "last_updated": "2026-03-19T12:56:24Z"
+      "access_points": [
+        {
+          "id": "nolichucky-kayak-1",
+          "name": "Poplar Put-In",
+          "type": "kayak",
+          "latitude": 36.1021,
+          "longitude": -82.4312,
+          "description": "Primary put-in for the Nolichucky Gorge run. Small parking area near the railroad tracks.",
+          "notes": "Active railroad — stay clear of tracks. Experienced paddlers only; Class IV at normal flows."
+        },
+        {
+          "id": "nolichucky-kayak-2",
+          "name": "Erwin Take-Out (Chestoa)",
+          "type": "kayak",
+          "latitude": 36.1478,
+          "longitude": -82.4189,
+          "description": "Main take-out below the gorge at Chestoa Recreation Area in Erwin, TN. Large parking lot.",
+          "notes": "Free parking. Restrooms available seasonally. About 8.5 miles from Poplar put-in."
+        },
+        {
+          "id": "nolichucky-fishing-1",
+          "name": "Erwin Riverside Fishing",
+          "type": "fishing",
+          "latitude": 36.1501,
+          "longitude": -82.4223,
+          "description": "Good smallmouth bass and rainbow trout fishing along the Erwin riverside section below the gorge.",
+          "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
+        }
+      ]
     },
     {
       "id": "wilson-creek-nc",
@@ -82,27 +153,54 @@
       "description": "A wild and scenic river near Mortimer NC with technical whitewater. Flows through Wilson Creek Gorge with spectacular scenery.",
       "region": "High Country NC",
       "latitude": 35.9547,
-      "longitude": -81.723,
+      "longitude": -81.7230,
       "usgs_gauge_id": "02140510",
-      "activities": [
-        "kayaking"
-      ],
+      "activities": ["kayaking"],
       "difficulty": "Class III-IV",
       "optimal_cfs_low": 80,
       "optimal_cfs_high": 300,
       "high_cfs_threshold": 600,
       "flood_cfs_threshold": 1200,
-      "gauge_optimal_low": 1.5,
-      "gauge_optimal_high": 3.5,
-      "gauge_high_threshold": 5.5,
-      "gauge_flood_threshold": 8.0,
       "put_in": "Mortimer Campground, Collettsville NC",
       "website_url": "https://www.fs.usda.gov/recarea/nfsnc/recreation/recarea/?recid=48974",
-      "current_cfs": null,
-      "gauge_ft": 3.34,
-      "trend": "unknown",
-      "condition": "optimal",
-      "last_updated": ""
+      "access_points": [
+        {
+          "id": "wilson-kayak-1",
+          "name": "Mortimer Campground Put-In",
+          "type": "kayak",
+          "latitude": 35.9612,
+          "longitude": -81.7318,
+          "description": "Put-in at the USFS Mortimer Campground. Access to upper Wilson Creek runs.",
+          "notes": "Camping fee if staying overnight. Day use parking available. Class IV+ below this point."
+        },
+        {
+          "id": "wilson-kayak-2",
+          "name": "Lower Wilson Creek Take-Out",
+          "type": "kayak",
+          "latitude": 35.9312,
+          "longitude": -81.6987,
+          "description": "Take-out at the lower bridge on SR-1328. Ends the classic Wilson Creek gorge run.",
+          "notes": "Small pull-off, limited parking. Shuttle required — very remote area, plan ahead."
+        },
+        {
+          "id": "wilson-fishing-1",
+          "name": "Wilson Creek Trophy Trout Access",
+          "type": "fishing",
+          "latitude": 35.9580,
+          "longitude": -81.7195,
+          "description": "Trophy trout section of Wilson Creek managed by NCWRC. Catch-and-release wild brown trout.",
+          "notes": "Artificial lures only. NC fishing license required. Wading access from USFS road."
+        },
+        {
+          "id": "wilson-swimming-1",
+          "name": "Schoolhouse Falls Swimming Hole",
+          "type": "swimming",
+          "latitude": 35.9648,
+          "longitude": -81.7401,
+          "description": "Stunning plunge pool at the base of Schoolhouse Falls. One of the most scenic swimming spots in the High Country.",
+          "notes": "Short 0.6-mile hike from Burnthouse Branch Road parking area. Cold water year-round."
+        }
+      ]
     },
     {
       "id": "elk-creek-nc",
@@ -110,11 +208,9 @@
       "description": "A tributary of the Watauga near Elk Park, offering intimate paddling through mountain scenery. Good beginner creek runs when levels are right.",
       "region": "High Country NC",
       "latitude": 36.1589,
-      "longitude": -81.983,
+      "longitude": -81.9830,
       "usgs_gauge_id": "02111180",
-      "activities": [
-        "kayaking"
-      ],
+      "activities": ["kayaking"],
       "difficulty": "Class II-III",
       "optimal_cfs_low": 80,
       "optimal_cfs_high": 400,
@@ -122,11 +218,35 @@
       "flood_cfs_threshold": 1600,
       "put_in": "Elk Park Bridge, Elk Park NC",
       "website_url": "https://www.paddling.com/plan/locations/elk-creek",
-      "current_cfs": 115.0,
-      "gauge_ft": 1.28,
-      "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-03-19T12:56:24Z"
+      "access_points": [
+        {
+          "id": "elk-kayak-1",
+          "name": "Elk Park Bridge Put-In",
+          "type": "kayak",
+          "latitude": 36.1594,
+          "longitude": -81.9837,
+          "description": "Put-in beneath the US-19E bridge in Elk Park. Easy river access on river left.",
+          "notes": "Park on the gravel shoulder. Do not block traffic. Class II-III run to confluence with Watauga."
+        },
+        {
+          "id": "elk-fishing-1",
+          "name": "Elk Creek Trout Fishing",
+          "type": "fishing",
+          "latitude": 36.1612,
+          "longitude": -81.9788,
+          "description": "Excellent native brook trout and stocked rainbow trout fishing in the upper reaches of Elk Creek.",
+          "notes": "NC fishing license required. Check NCWRC for stocked sections. Best in spring and fall."
+        },
+        {
+          "id": "elk-swimming-1",
+          "name": "Elk Creek Swimming Hole",
+          "type": "swimming",
+          "latitude": 36.1571,
+          "longitude": -81.9854,
+          "description": "Quiet swimming hole below a small ledge drop downstream of the Elk Park bridge.",
+          "notes": "Shallow entry — check depth before jumping. No facilities nearby."
+        }
+      ]
     },
     {
       "id": "south-toe-river-nc",
@@ -136,10 +256,7 @@
       "latitude": 35.8453,
       "longitude": -82.1823,
       "usgs_gauge_id": "03463300",
-      "activities": [
-        "kayaking",
-        "fishing"
-      ],
+      "activities": ["kayaking", "fishing"],
       "difficulty": "Class II-III",
       "optimal_cfs_low": 80,
       "optimal_cfs_high": 350,
@@ -147,12 +264,44 @@
       "flood_cfs_threshold": 1400,
       "put_in": "Celo Community, Celo NC",
       "website_url": "https://www.paddling.com/plan/locations/south-toe-river",
-      "current_cfs": 133.0,
-      "gauge_ft": 1.07,
-      "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-03-19T12:56:24Z"
+      "access_points": [
+        {
+          "id": "south-toe-kayak-1",
+          "name": "Celo Community Put-In",
+          "type": "kayak",
+          "latitude": 35.8461,
+          "longitude": -82.1835,
+          "description": "Put-in near the Celo Community bridge on the South Toe. Good access for Class II-III run toward Burnsville.",
+          "notes": "Please respect private property near the access. Park in designated pull-off only."
+        },
+        {
+          "id": "south-toe-kayak-2",
+          "name": "Burnsville Take-Out",
+          "type": "kayak",
+          "latitude": 35.9179,
+          "longitude": -82.2978,
+          "description": "Take-out at the Highway 19W bridge near Burnsville. Ends the lower South Toe run.",
+          "notes": "Shuttle required. Roughly 9 miles from Celo put-in. Parking near bridge."
+        },
+        {
+          "id": "south-toe-fishing-1",
+          "name": "Black Mountain Campground Fishing",
+          "type": "fishing",
+          "latitude": 35.7919,
+          "longitude": -82.2047,
+          "description": "Prime native brook trout habitat in the headwaters near USFS Black Mountain Campground at the base of Mount Mitchell.",
+          "notes": "Artificial lures only in designated areas. NC license required. Hike-in sections offer solitude."
+        },
+        {
+          "id": "south-toe-swimming-1",
+          "name": "South Toe Swimming Hole at Celo",
+          "type": "swimming",
+          "latitude": 35.8432,
+          "longitude": -82.1809,
+          "description": "Beautiful gravel-bar swimming hole with a deep pool. Crystal-clear cold water straight off the Black Mountains.",
+          "notes": "Popular on summer weekends. Water is very cold even in August — ideal for a quick dip after hiking."
+        }
+      ]
     }
-  ],
-  "last_updated": "2026-03-19T12:56:24Z"
+  ]
 }
