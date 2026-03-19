@@ -20,11 +20,11 @@
       "flood_cfs_threshold": 2500,
       "put_in": "New River State Park, Sparta NC",
       "website_url": "https://www.ncparks.gov/new-river-state-park",
-      "current_cfs": 473.0,
-      "gauge_ft": 2.49,
+      "current_cfs": 468.0,
+      "gauge_ft": 2.48,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T06:55:05Z"
+      "last_updated": "2026-03-19T07:44:29Z"
     },
     {
       "id": "watauga-river-nc",
@@ -45,11 +45,11 @@
       "flood_cfs_threshold": 2000,
       "put_in": "Sugar Grove Access, Sugar Grove NC",
       "website_url": "https://www.paddling.com/plan/locations/watauga-river",
-      "current_cfs": 251.0,
-      "gauge_ft": 2.3,
+      "current_cfs": 248.0,
+      "gauge_ft": 2.29,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T06:55:05Z"
+      "last_updated": "2026-03-19T07:44:29Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -70,11 +70,11 @@
       "flood_cfs_threshold": 5000,
       "put_in": "Poplar, NC (put-in above gorge)",
       "website_url": "https://www.paddling.com/plan/locations/nolichucky-river",
-      "current_cfs": 3320.0,
-      "gauge_ft": 43.27,
+      "current_cfs": 3290.0,
+      "gauge_ft": 43.26,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-19T06:55:05Z"
+      "last_updated": "2026-03-19T07:44:29Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -99,7 +99,7 @@
       "put_in": "Mortimer Campground, Collettsville NC",
       "website_url": "https://www.fs.usda.gov/recarea/nfsnc/recreation/recarea/?recid=48974",
       "current_cfs": null,
-      "gauge_ft": 3.37,
+      "gauge_ft": 3.36,
       "trend": "unknown",
       "condition": "optimal",
       "last_updated": ""
@@ -122,11 +122,11 @@
       "flood_cfs_threshold": 1600,
       "put_in": "Elk Park Bridge, Elk Park NC",
       "website_url": "https://www.paddling.com/plan/locations/elk-creek",
-      "current_cfs": 120.0,
-      "gauge_ft": 1.3,
+      "current_cfs": 117.0,
+      "gauge_ft": 1.29,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T06:55:05Z"
+      "last_updated": "2026-03-19T07:44:29Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -151,8 +151,8 @@
       "gauge_ft": 1.08,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T06:55:05Z"
+      "last_updated": "2026-03-19T07:44:29Z"
     }
   ],
-  "last_updated": "2026-03-19T06:55:05Z"
+  "last_updated": "2026-03-19T07:44:29Z"
 }
