@@ -8,11 +8,7 @@
       "latitude": 36.4132,
       "longitude": -81.4764,
       "usgs_gauge_id": "03161000",
-      "activities": [
-        "kayaking",
-        "tubing",
-        "canoeing"
-      ],
+      "activities": ["kayaking", "tubing", "canoeing"],
       "difficulty": "Class I-II",
       "optimal_cfs_low": 150,
       "optimal_cfs_high": 600,
@@ -48,25 +44,17 @@
           "description": "Productive smallmouth bass and musky fishing where Tessentee Creek meets the New River.",
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
-      ],
-      "current_cfs": 409.0,
-      "gauge_ft": 2.36,
-      "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-03-20T12:52:28Z"
+      ]
     },
     {
       "id": "watauga-river-nc",
       "name": "Watauga River",
       "description": "A beautiful mountain river flowing through Watauga County. Popular for trout fishing and kayaking with scenic gorge sections.",
       "region": "High Country NC",
-      "latitude": 36.234,
-      "longitude": -81.806,
+      "latitude": 36.2340,
+      "longitude": -81.8060,
       "usgs_gauge_id": "03479000",
-      "activities": [
-        "kayaking",
-        "fishing"
-      ],
+      "activities": ["kayaking", "fishing"],
       "difficulty": "Class II-III",
       "optimal_cfs_low": 100,
       "optimal_cfs_high": 500,
@@ -109,14 +97,9 @@
           "latitude": 36.2411,
           "longitude": -81.8215,
           "description": "Scenic swimming hole at Laurel Creek confluence. Cool, clear water with a small waterfall upstream.",
-          "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
+          "notes": "Slippery rocks — water shoes recommended. No facilities."
         }
-      ],
-      "current_cfs": 203.0,
-      "gauge_ft": 2.16,
-      "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-03-20T12:52:28Z"
+      ]
     },
     {
       "id": "nolichucky-river-tn",
@@ -126,10 +109,7 @@
       "latitude": 36.1584,
       "longitude": -82.5485,
       "usgs_gauge_id": "03466500",
-      "activities": [
-        "kayaking",
-        "rafting"
-      ],
+      "activities": ["kayaking", "rafting"],
       "difficulty": "Class III-IV",
       "optimal_cfs_low": 300,
       "optimal_cfs_high": 1200,
@@ -145,7 +125,7 @@
           "latitude": 36.1021,
           "longitude": -82.4312,
           "description": "Primary put-in for the Nolichucky Gorge run. Small parking area near the railroad tracks.",
-          "notes": "Active railroad \u2014 stay clear of tracks. Experienced paddlers only; Class IV at normal flows."
+          "notes": "Active railroad — stay clear of tracks. Experienced paddlers only; Class IV at normal flows."
         },
         {
           "id": "nolichucky-kayak-2",
@@ -165,12 +145,7 @@
           "description": "Good smallmouth bass and rainbow trout fishing along the Erwin riverside section below the gorge.",
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
-      ],
-      "current_cfs": 2660.0,
-      "gauge_ft": 42.99,
-      "trend": "steady",
-      "condition": "high",
-      "last_updated": "2026-03-20T12:52:28Z"
+      ]
     },
     {
       "id": "wilson-creek-nc",
@@ -178,11 +153,9 @@
       "description": "A wild and scenic river near Mortimer NC with technical whitewater. Flows through Wilson Creek Gorge with spectacular scenery.",
       "region": "High Country NC",
       "latitude": 35.9547,
-      "longitude": -81.723,
+      "longitude": -81.7230,
       "usgs_gauge_id": "02140510",
-      "activities": [
-        "kayaking"
-      ],
+      "activities": ["kayaking"],
       "difficulty": "Class III-IV",
       "optimal_cfs_low": 80,
       "optimal_cfs_high": 300,
@@ -207,13 +180,13 @@
           "latitude": 35.9312,
           "longitude": -81.6987,
           "description": "Take-out at the lower bridge on SR-1328. Ends the classic Wilson Creek gorge run.",
-          "notes": "Small pull-off, limited parking. Shuttle required \u2014 very remote area, plan ahead."
+          "notes": "Small pull-off, limited parking. Shuttle required — very remote area, plan ahead."
         },
         {
           "id": "wilson-fishing-1",
           "name": "Wilson Creek Trophy Trout Access",
           "type": "fishing",
-          "latitude": 35.958,
+          "latitude": 35.9580,
           "longitude": -81.7195,
           "description": "Trophy trout section of Wilson Creek managed by NCWRC. Catch-and-release wild brown trout.",
           "notes": "Artificial lures only. NC fishing license required. Wading access from USFS road."
@@ -227,12 +200,7 @@
           "description": "Stunning plunge pool at the base of Schoolhouse Falls. One of the most scenic swimming spots in the High Country.",
           "notes": "Short 0.6-mile hike from Burnthouse Branch Road parking area. Cold water year-round."
         }
-      ],
-      "current_cfs": null,
-      "gauge_ft": 3.28,
-      "trend": "unknown",
-      "condition": "unknown",
-      "last_updated": ""
+      ]
     },
     {
       "id": "elk-creek-nc",
@@ -240,11 +208,9 @@
       "description": "A tributary of the Watauga near Elk Park, offering intimate paddling through mountain scenery. Good beginner creek runs when levels are right.",
       "region": "High Country NC",
       "latitude": 36.1589,
-      "longitude": -81.983,
+      "longitude": -81.9830,
       "usgs_gauge_id": "02111180",
-      "activities": [
-        "kayaking"
-      ],
+      "activities": ["kayaking"],
       "difficulty": "Class II-III",
       "optimal_cfs_low": 80,
       "optimal_cfs_high": 400,
@@ -278,14 +244,9 @@
           "latitude": 36.1571,
           "longitude": -81.9854,
           "description": "Quiet swimming hole below a small ledge drop downstream of the Elk Park bridge.",
-          "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
+          "notes": "Shallow entry — check depth before jumping. No facilities nearby."
         }
-      ],
-      "current_cfs": 98.2,
-      "gauge_ft": 1.22,
-      "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-03-20T12:52:28Z"
+      ]
     },
     {
       "id": "south-toe-river-nc",
@@ -295,10 +256,7 @@
       "latitude": 35.8453,
       "longitude": -82.1823,
       "usgs_gauge_id": "03463300",
-      "activities": [
-        "kayaking",
-        "fishing"
-      ],
+      "activities": ["kayaking", "fishing"],
       "difficulty": "Class II-III",
       "optimal_cfs_low": 80,
       "optimal_cfs_high": 350,
@@ -341,15 +299,9 @@
           "latitude": 35.8432,
           "longitude": -82.1809,
           "description": "Beautiful gravel-bar swimming hole with a deep pool. Crystal-clear cold water straight off the Black Mountains.",
-          "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
+          "notes": "Popular on summer weekends. Water is very cold even in August — ideal for a quick dip after hiking."
         }
-      ],
-      "current_cfs": 123.0,
-      "gauge_ft": 1.04,
-      "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-03-20T12:52:28Z"
+      ]
     }
-  ],
-  "last_updated": "2026-03-20T12:52:28Z"
+  ]
 }
