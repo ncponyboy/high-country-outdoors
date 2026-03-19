@@ -24,7 +24,7 @@
       "gauge_ft": 2.46,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T11:32:59Z"
+      "last_updated": "2026-03-19T12:56:24Z"
     },
     {
       "id": "watauga-river-nc",
@@ -45,11 +45,11 @@
       "flood_cfs_threshold": 2000,
       "put_in": "Sugar Grove Access, Sugar Grove NC",
       "website_url": "https://www.paddling.com/plan/locations/watauga-river",
-      "current_cfs": 240.0,
-      "gauge_ft": 2.27,
+      "current_cfs": 237.0,
+      "gauge_ft": 2.26,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T11:32:59Z"
+      "last_updated": "2026-03-19T12:56:24Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -70,11 +70,11 @@
       "flood_cfs_threshold": 5000,
       "put_in": "Poplar, NC (put-in above gorge)",
       "website_url": "https://www.paddling.com/plan/locations/nolichucky-river",
-      "current_cfs": 3180.0,
-      "gauge_ft": 43.21,
+      "current_cfs": 3150.0,
+      "gauge_ft": 43.2,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-19T11:32:59Z"
+      "last_updated": "2026-03-19T12:56:24Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -126,7 +126,7 @@
       "gauge_ft": 1.28,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T11:32:59Z"
+      "last_updated": "2026-03-19T12:56:24Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -151,8 +151,8 @@
       "gauge_ft": 1.07,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T11:32:59Z"
+      "last_updated": "2026-03-19T12:56:24Z"
     }
   ],
-  "last_updated": "2026-03-19T11:32:59Z"
+  "last_updated": "2026-03-19T12:56:24Z"
 }
