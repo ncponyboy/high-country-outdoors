@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 443.0,
-      "gauge_ft": 2.43,
+      "current_cfs": 433.0,
+      "gauge_ft": 2.41,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T23:26:37Z"
+      "last_updated": "2026-03-20T01:50:19Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 223.0,
-      "gauge_ft": 2.22,
+      "current_cfs": 216.0,
+      "gauge_ft": 2.2,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T23:26:37Z"
+      "last_updated": "2026-03-20T01:50:19Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -166,11 +166,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 2920.0,
-      "gauge_ft": 43.1,
+      "current_cfs": 2880.0,
+      "gauge_ft": 43.08,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-19T23:26:37Z"
+      "last_updated": "2026-03-20T01:50:19Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 3.32,
+      "gauge_ft": 3.31,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -285,7 +285,7 @@
       "gauge_ft": 1.25,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T23:26:37Z"
+      "last_updated": "2026-03-20T01:50:19Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -348,8 +348,8 @@
       "gauge_ft": 1.05,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-19T23:26:37Z"
+      "last_updated": "2026-03-20T01:50:19Z"
     }
   ],
-  "last_updated": "2026-03-19T23:26:37Z"
+  "last_updated": "2026-03-20T01:50:19Z"
 }
