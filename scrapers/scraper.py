@@ -27,8 +27,9 @@ from pathlib import Path
 from nps import fetch_nps_alerts, apply_nps_alerts
 from weather import apply_weather_to_trail
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-JSON_PATH = REPO_ROOT / "trail_conditions.json"
+REPO_ROOT           = Path(__file__).resolve().parent.parent
+JSON_PATH           = REPO_ROOT / "trail_conditions.json"
+WATERFALLS_JSON     = REPO_ROOT / "waterfalls.json"
 
 
 def load_trails() -> dict:
@@ -62,9 +63,11 @@ def reset_weather_alerts(trails: list[dict]) -> list[dict]:
 
 def main():
     parser = argparse.ArgumentParser(description="High Country Outdoors scraper")
-    parser.add_argument("--nps-key", default=os.environ.get("NPS_API_KEY", ""), help="NPS API key")
-    parser.add_argument("--skip-weather", action="store_true", help="Skip weather fetch (faster for testing)")
-    parser.add_argument("--skip-nps", action="store_true", help="Skip NPS alerts fetch")
+    parser.add_argument("--nps-key",        default=os.environ.get("NPS_API_KEY", ""), help="NPS API key")
+    parser.add_argument("--skip-weather",   action="store_true", help="Skip weather fetch (faster for testing)")
+    parser.add_argument("--skip-nps",       action="store_true", help="Skip NPS alerts fetch")
+    parser.add_argument("--waterfalls",     action="store_true", help="Also run waterfall live-data update")
+    parser.add_argument("--waterfalls-seed", action="store_true", help="Run waterfall OSM seed phase too")
     args = parser.parse_args()
 
     print("🥾 High Country Outdoors — Trail Conditions Scraper")
@@ -101,9 +104,25 @@ def main():
     else:
         print("⏭️  Skipping weather fetch")
 
-    # 5. Save
+    # 5. Save trails
     data["trails"] = trails
     save_trails(data)
+
+    # 6. Waterfalls (optional — triggered by --waterfalls or --waterfalls-seed)
+    if args.waterfalls or args.waterfalls_seed:
+        print("\n💧  Running waterfall update...")
+        try:
+            import subprocess, sys
+            wf_cmd = [sys.executable, str(Path(__file__).parent / "waterfall_scraper.py")]
+            if args.waterfalls_seed:
+                wf_cmd.append("--seed")
+            if args.skip_nps:
+                wf_cmd.append("--skip-nps")
+            if args.nps_key:
+                wf_cmd += ["--nps-key", args.nps_key]
+            subprocess.run(wf_cmd, check=True)
+        except Exception as e:
+            print(f"  ⚠️  Waterfall scraper error: {e}")
 
 
 if __name__ == "__main__":
