@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 404.0,
-      "gauge_ft": 2.35,
+      "current_cfs": 399.0,
+      "gauge_ft": 2.34,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-20T23:25:28Z"
+      "last_updated": "2026-03-21T01:44:26Z"
     },
     {
       "id": "watauga-river-nc",
@@ -116,7 +116,7 @@
       "gauge_ft": 2.12,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-20T23:25:28Z"
+      "last_updated": "2026-03-21T01:44:26Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -166,11 +166,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 2550.0,
-      "gauge_ft": 42.94,
+      "current_cfs": 2500.0,
+      "gauge_ft": 42.92,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-20T23:25:28Z"
+      "last_updated": "2026-03-21T01:44:26Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 3.26,
+      "gauge_ft": 3.25,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 95.7,
-      "gauge_ft": 1.21,
+      "current_cfs": 93.1,
+      "gauge_ft": 1.2,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-20T23:25:28Z"
+      "last_updated": "2026-03-21T01:44:26Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -348,8 +348,8 @@
       "gauge_ft": 1.03,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-20T23:25:28Z"
+      "last_updated": "2026-03-21T01:44:26Z"
     }
   ],
-  "last_updated": "2026-03-20T23:25:28Z"
+  "last_updated": "2026-03-21T01:44:26Z"
 }
