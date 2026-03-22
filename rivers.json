@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 371.0,
-      "gauge_ft": 2.28,
+      "current_cfs": 366.0,
+      "gauge_ft": 2.27,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-21T23:20:54Z"
+      "last_updated": "2026-03-22T01:55:32Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 173.0,
-      "gauge_ft": 2.06,
+      "current_cfs": 170.0,
+      "gauge_ft": 2.05,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-21T23:20:54Z"
+      "last_updated": "2026-03-22T01:55:32Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -166,11 +166,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 2280.0,
-      "gauge_ft": 42.82,
+      "current_cfs": 2260.0,
+      "gauge_ft": 42.81,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-21T23:20:54Z"
+      "last_updated": "2026-03-22T01:55:32Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 90.7,
-      "gauge_ft": 1.19,
+      "current_cfs": 88.2,
+      "gauge_ft": 1.18,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-21T23:20:54Z"
+      "last_updated": "2026-03-22T01:55:32Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -344,12 +344,12 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 114.0,
-      "gauge_ft": 1.01,
+      "current_cfs": 117.0,
+      "gauge_ft": 1.02,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-21T23:20:54Z"
+      "last_updated": "2026-03-22T01:55:32Z"
     }
   ],
-  "last_updated": "2026-03-21T23:20:54Z"
+  "last_updated": "2026-03-22T01:55:32Z"
 }
