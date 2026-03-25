@@ -53,7 +53,7 @@
       "gauge_ft": 2.1,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-25T14:55:46Z"
+      "last_updated": "2026-03-25T16:08:40Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 125.0,
-      "gauge_ft": 1.88,
+      "current_cfs": 122.0,
+      "gauge_ft": 1.87,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-25T14:55:46Z"
+      "last_updated": "2026-03-25T16:08:40Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -170,7 +170,7 @@
       "gauge_ft": 42.49,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-25T14:55:46Z"
+      "last_updated": "2026-03-25T16:08:40Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -285,7 +285,7 @@
       "gauge_ft": 1.1,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-03-25T14:55:46Z"
+      "last_updated": "2026-03-25T16:08:40Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -344,12 +344,12 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 93.8,
-      "gauge_ft": 0.94,
+      "current_cfs": 91.2,
+      "gauge_ft": 0.93,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-25T14:55:46Z"
+      "last_updated": "2026-03-25T16:08:40Z"
     }
   ],
-  "last_updated": "2026-03-25T14:55:46Z"
+  "last_updated": "2026-03-25T16:08:40Z"
 }
