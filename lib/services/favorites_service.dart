@@ -34,7 +34,13 @@ class FavoritesService extends ChangeNotifier {
   Future<void> load() async {
     final prefs = await SharedPreferences.getInstance();
     final saved = prefs.getString(_prefsKey);
-    _favorites = (saved ?? defaultFavorites).split(',');
+    final loaded = (saved ?? defaultFavorites)
+        .split(',')
+        .where((id) => _canonicalOrder.contains(id))
+        .toList();
+    // If nothing valid survived (e.g. stale data from a previous build),
+    // fall back to the default set.
+    _favorites = loaded.isNotEmpty ? loaded : defaultFavorites.split(',');
     _loaded = true;
     notifyListeners();
   }
