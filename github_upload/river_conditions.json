@@ -1,0 +1,113 @@
+{
+  "last_updated": "2026-03-16T00:00:00Z",
+  "rivers": [
+    {
+      "id": "new_river_nc",
+      "name": "New River",
+      "region": "High Country NC",
+      "usgs_site_id": "03165000",
+      "latitude": 36.4354,
+      "longitude": -81.8032,
+      "current_cfs": null,
+      "gauge_ft": null,
+      "trend": "unknown",
+      "condition": "unknown",
+      "last_updated": "",
+      "description": "Popular paddling river flowing through the NC High Country. Great for kayaking and tubing in the Boone area.",
+      "put_ins": [
+        "Zaloo's Canoes — Hwy 16, Jefferson NC",
+        "New River State Park — Wagoner Access"
+      ]
+    },
+    {
+      "id": "watauga_river",
+      "name": "Watauga River",
+      "region": "High Country NC",
+      "usgs_site_id": "03484000",
+      "latitude": 36.2090,
+      "longitude": -81.6743,
+      "current_cfs": null,
+      "gauge_ft": null,
+      "trend": "unknown",
+      "condition": "unknown",
+      "last_updated": "",
+      "description": "Cold tailwater below Watauga Lake Dam. World-class trout fishery and technical whitewater near Elizabethton, TN.",
+      "put_ins": [
+        "Siam — USFS Access off Hwy 19E",
+        "Crandull Access — below the dam"
+      ]
+    },
+    {
+      "id": "nolichucky_river",
+      "name": "Nolichucky River",
+      "region": "Eastern TN",
+      "usgs_site_id": "03470500",
+      "latitude": 36.1643,
+      "longitude": -82.6271,
+      "current_cfs": null,
+      "gauge_ft": null,
+      "trend": "unknown",
+      "condition": "unknown",
+      "last_updated": "",
+      "description": "One of the Southeast's best whitewater runs through the Unaka Mountains gorge. Class III-IV rapids.",
+      "put_ins": [
+        "Poplar, NC — Hwy 197 Access",
+        "Erwin, TN — Railroad Access"
+      ]
+    },
+    {
+      "id": "wilson_creek",
+      "name": "Wilson Creek",
+      "region": "High Country NC",
+      "usgs_site_id": "02052000",
+      "latitude": 36.0107,
+      "longitude": -81.7443,
+      "current_cfs": null,
+      "gauge_ft": null,
+      "trend": "unknown",
+      "condition": "unknown",
+      "last_updated": "",
+      "description": "Wild and Scenic river in the Pisgah National Forest. Technical Class IV-V kayaking when levels are up.",
+      "put_ins": [
+        "Edgemont — SR 1328 Bridge",
+        "Brown Mountain Beach — Hwy 181"
+      ]
+    },
+    {
+      "id": "elk_river",
+      "name": "Elk River",
+      "region": "Eastern TN",
+      "usgs_site_id": "03488000",
+      "latitude": 36.5293,
+      "longitude": -82.2109,
+      "current_cfs": null,
+      "gauge_ft": null,
+      "trend": "unknown",
+      "condition": "unknown",
+      "last_updated": "",
+      "description": "Excellent trout fishing in Carter County, TN. Fly fishing and spin fishing popular along Hwy 19E corridor.",
+      "put_ins": [
+        "Elk Mills — SR 91 Bridge",
+        "Hampton, TN — US 19E Access"
+      ]
+    },
+    {
+      "id": "south_toe_river",
+      "name": "South Toe River",
+      "region": "High Country NC",
+      "usgs_site_id": "03503000",
+      "latitude": 35.9040,
+      "longitude": -82.1754,
+      "current_cfs": null,
+      "gauge_ft": null,
+      "trend": "unknown",
+      "condition": "unknown",
+      "last_updated": "",
+      "description": "Crystal clear mountain stream at the base of Mt. Mitchell. Great swimming holes and trout fishing in Yancey County.",
+      "put_ins": [
+        "Black Mountain Campground — Blue Ridge Pkwy",
+        "NC 80 — Carolina Hemlocks Recreation Area"
+      ]
+    }
+  ]
+}
