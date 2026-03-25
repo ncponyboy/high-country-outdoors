@@ -8,15 +8,11 @@ import 'services/waterfall_service.dart';
 import 'services/location_service.dart';
 import 'services/store_service.dart';
 import 'services/favorites_service.dart';
-import 'services/event_service.dart';
-import 'services/specials_service.dart';
-import 'services/user_preferences_service.dart';
 import 'screens/explore_screen.dart';
 import 'screens/alerts_screen.dart';
 import 'screens/waterfalls_screen.dart';
 import 'screens/search_screen.dart';
 import 'screens/settings_screen.dart';
-import 'screens/events_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -41,9 +37,6 @@ class HighCountryOutdoorsApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => LocationService()),
         ChangeNotifierProvider(create: (_) => StoreService()),
         ChangeNotifierProvider(create: (_) => FavoritesService()),
-        ChangeNotifierProvider(create: (_) => EventService()),
-        ChangeNotifierProvider(create: (_) => SpecialsService()),
-        ChangeNotifierProvider(create: (_) => UserPreferencesService()),
       ],
       child: MaterialApp(
         title: 'High Country Outdoors',
@@ -118,8 +111,6 @@ class _AppStartupState extends State<_AppStartup> {
     final locationSvc = context.read<LocationService>();
     final waterfallSvc = context.read<WaterfallService>();
     final favoritesSvc = context.read<FavoritesService>();
-    final eventSvc = context.read<EventService>();
-    final specialsSvc = context.read<SpecialsService>();
 
     await Future.wait([
       trailSvc.fetchTrails(),
@@ -129,8 +120,6 @@ class _AppStartupState extends State<_AppStartup> {
       storeSvc.loadProducts(),
       locationSvc.requestLocation(),
       favoritesSvc.load(),
-      eventSvc.fetchEvents(),
-      specialsSvc.fetchSpecials(),
     ]);
     storeSvc.checkProStatus();
   }
@@ -474,7 +463,6 @@ enum AppTab {
   climbing,
   skiing,
   rivers,
-  events,
   search,
   ;
 
@@ -489,7 +477,6 @@ enum AppTab {
       case AppTab.climbing:   return 'Climbing';
       case AppTab.skiing:     return 'Skiing';
       case AppTab.rivers:     return 'Rivers';
-      case AppTab.events:     return 'Events';
       case AppTab.search:     return 'Search';
     }
   }
@@ -505,7 +492,6 @@ enum AppTab {
       case AppTab.climbing:   return Icons.terrain;
       case AppTab.skiing:     return Icons.downhill_skiing;
       case AppTab.rivers:     return Icons.kayaking;
-      case AppTab.events:     return Icons.event_outlined;
       case AppTab.search:     return Icons.search_outlined;
     }
   }
@@ -521,7 +507,6 @@ enum AppTab {
       case AppTab.climbing:   return Icons.terrain;
       case AppTab.skiing:     return Icons.downhill_skiing;
       case AppTab.rivers:     return Icons.kayaking;
-      case AppTab.events:     return Icons.event;
       case AppTab.search:     return Icons.search;
     }
   }
@@ -531,7 +516,6 @@ enum AppTab {
       case AppTab.explore:    return const ExploreScreen();
       case AppTab.waterfalls: return const WaterfallsScreen();
       case AppTab.alerts:     return const AlertsScreen();
-      case AppTab.events:     return const EventsScreen();
       case AppTab.search:     return const SearchScreen();
       case AppTab.hiking:
       case AppTab.running:
@@ -543,7 +527,7 @@ enum AppTab {
     }
   }
 
-  static const String defaultFavorites = 'explore,events,alerts,search';
+  static const String defaultFavorites = 'explore,waterfalls,alerts,search';
 }
 
 // ---------------------------------------------------------------------------

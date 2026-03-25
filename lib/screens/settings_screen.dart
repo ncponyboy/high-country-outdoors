@@ -3,8 +3,6 @@ import 'package:provider/provider.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../services/store_service.dart';
 import '../services/favorites_service.dart';
-import '../services/user_preferences_service.dart';
-import '../models/app_region.dart';
 import '../main.dart' show AppTab;
 import 'pro_upgrade_screen.dart';
 
@@ -34,20 +32,14 @@ class SettingsScreen extends StatelessWidget {
         ),
         elevation: 0,
       ),
-      body: Consumer3<StoreService, FavoritesService, UserPreferencesService>(
-        builder: (context, storeSvc, favoritesSvc, prefs, _) {
+      body: Consumer2<StoreService, FavoritesService>(
+        builder: (context, storeSvc, favoritesSvc, _) {
           return ListView(
             padding: const EdgeInsets.symmetric(vertical: 20),
             children: [
               // Pro section
               _SectionHeader(label: 'HIGH COUNTRY OUTDOORS PRO'),
               _ProSection(storeSvc: storeSvc),
-
-              const SizedBox(height: 20),
-
-              // Coverage Area section
-              _SectionHeader(label: 'COVERAGE AREA'),
-              _CoverageAreaSection(prefs: prefs),
 
               const SizedBox(height: 20),
 
@@ -399,128 +391,6 @@ class _SettingsDivider extends StatelessWidget {
       thickness: 1,
       indent: 48,
       color: Colors.grey.shade200,
-    );
-  }
-}
-
-// ---------------------------------------------------------------------------
-// Coverage Area Section
-// ---------------------------------------------------------------------------
-
-class _CoverageAreaSection extends StatelessWidget {
-  final UserPreferencesService prefs;
-  const _CoverageAreaSection({required this.prefs});
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      margin: const EdgeInsets.symmetric(horizontal: 16),
-      decoration: BoxDecoration(
-        color: Colors.white,
-        borderRadius: BorderRadius.circular(12),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withOpacity(0.05),
-            blurRadius: 4,
-            offset: const Offset(0, 2),
-          ),
-        ],
-      ),
-      child: Column(
-        children: [
-          // Description
-          Padding(
-            padding: const EdgeInsets.fromLTRB(16, 14, 16, 8),
-            child: Text(
-              'Choose which counties to include when browsing events.',
-              style: TextStyle(
-                fontSize: 13,
-                color: Colors.grey.shade500,
-                height: 1.4,
-              ),
-            ),
-          ),
-          Divider(height: 1, thickness: 1, color: Colors.grey.shade200),
-
-          // County rows
-          ...AppRegion.values.asMap().entries.map((entry) {
-            final isLast = entry.key == AppRegion.values.length - 1;
-            final region = entry.value;
-            final selected = prefs.selectedRegions.contains(region);
-
-            return Column(
-              children: [
-                Material(
-                  color: Colors.transparent,
-                  child: InkWell(
-                    onTap: () => prefs.toggleRegion(region),
-                    borderRadius: BorderRadius.vertical(
-                      bottom: isLast ? const Radius.circular(12) : Radius.zero,
-                    ),
-                    child: Padding(
-                      padding: const EdgeInsets.symmetric(
-                          horizontal: 16, vertical: 12),
-                      child: Row(
-                        children: [
-                          Container(
-                            width: 32,
-                            height: 32,
-                            decoration: BoxDecoration(
-                              color: region.color.withOpacity(0.12),
-                              shape: BoxShape.circle,
-                            ),
-                            child: Icon(region.icon,
-                                size: 15, color: region.color),
-                          ),
-                          const SizedBox(width: 12),
-                          Expanded(
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
-                                Text(
-                                  region.shortName,
-                                  style: const TextStyle(
-                                    fontSize: 15,
-                                    fontWeight: FontWeight.w600,
-                                    color: Colors.black87,
-                                  ),
-                                ),
-                                Text(
-                                  region.rawValue,
-                                  style: TextStyle(
-                                    fontSize: 12,
-                                    color: Colors.grey.shade500,
-                                  ),
-                                ),
-                              ],
-                            ),
-                          ),
-                          Icon(
-                            selected
-                                ? Icons.check_box
-                                : Icons.check_box_outline_blank,
-                            color: selected
-                                ? region.color
-                                : Colors.grey.shade400,
-                            size: 22,
-                          ),
-                        ],
-                      ),
-                    ),
-                  ),
-                ),
-                if (!isLast)
-                  Divider(
-                    height: 1,
-                    thickness: 1,
-                    indent: 60,
-                    color: Colors.grey.shade200,
-                  ),
-              ],
-            );
-          }),
-        ],
-      ),
     );
   }
 }
