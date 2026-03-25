@@ -1,0 +1,7 @@
+# Copy this file to key.properties and fill in your values.
+# key.properties is in .gitignore and will NEVER be committed.
+MAPS_API_KEY=YOUR_NEW_GOOGLE_MAPS_API_KEY_HERE
+keyAlias=YOUR_KEY_ALIAS
+keyPassword=YOUR_KEY_PASSWORD
+storeFile=YOUR_KEYSTORE_PATH
+storePassword=YOUR_STORE_PASSWORD
