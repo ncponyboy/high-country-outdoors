@@ -53,7 +53,7 @@
       "gauge_ft": 2.04,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-29T14:30:51Z"
+      "last_updated": "2026-03-29T15:27:57Z"
     },
     {
       "id": "watauga-river-nc",
@@ -116,7 +116,7 @@
       "gauge_ft": 1.78,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-03-29T14:30:51Z"
+      "last_updated": "2026-03-29T15:27:57Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -166,11 +166,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 1360.0,
-      "gauge_ft": 42.34,
+      "current_cfs": 1340.0,
+      "gauge_ft": 42.33,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-03-29T14:30:51Z"
+      "last_updated": "2026-03-29T15:27:57Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 3.02,
+      "gauge_ft": 3.03,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 58.6,
-      "gauge_ft": 1.04,
+      "current_cfs": 56.8,
+      "gauge_ft": 1.03,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-03-29T14:30:51Z"
+      "last_updated": "2026-03-29T15:27:57Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -344,12 +344,12 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 81.0,
-      "gauge_ft": 0.89,
+      "current_cfs": 78.5,
+      "gauge_ft": 0.88,
       "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-03-29T14:30:51Z"
+      "condition": "low",
+      "last_updated": "2026-03-29T15:27:57Z"
     }
   ],
-  "last_updated": "2026-03-29T14:30:51Z"
+  "last_updated": "2026-03-29T15:27:57Z"
 }
