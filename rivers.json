@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 257.0,
-      "gauge_ft": 2.01,
+      "current_cfs": 261.0,
+      "gauge_ft": 2.02,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-01T17:49:56Z"
+      "last_updated": "2026-04-01T18:56:28Z"
     },
     {
       "id": "watauga-river-nc",
@@ -116,7 +116,7 @@
       "gauge_ft": 1.75,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-01T17:49:56Z"
+      "last_updated": "2026-04-01T18:56:28Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -166,11 +166,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 1190.0,
-      "gauge_ft": 42.24,
+      "current_cfs": 1210.0,
+      "gauge_ft": 42.25,
       "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-04-01T17:49:56Z"
+      "condition": "high",
+      "last_updated": "2026-04-01T18:56:28Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 3.01,
+      "gauge_ft": 2.97,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -285,7 +285,7 @@
       "gauge_ft": 1.04,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-01T17:49:56Z"
+      "last_updated": "2026-04-01T18:56:28Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -344,12 +344,12 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 76.1,
-      "gauge_ft": 0.87,
+      "current_cfs": 73.8,
+      "gauge_ft": 0.86,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-01T17:49:56Z"
+      "last_updated": "2026-04-01T18:56:28Z"
     }
   ],
-  "last_updated": "2026-04-01T17:49:56Z"
+  "last_updated": "2026-04-01T18:56:28Z"
 }
