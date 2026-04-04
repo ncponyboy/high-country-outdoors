@@ -1,0 +1,272 @@
+{
+  "fishing_spots": [
+    {
+      "id": "watauga-river-trophy",
+      "name": "Watauga River — Valle Crucis",
+      "description": "One of the most celebrated trophy trout streams in the Southeast. The Valle Crucis section is managed as a catch-and-release trophy fishery, holding large wild brown and rainbow trout. Exceptional year-round fishing with hatches of BWOs, sulphurs, and caddis.",
+      "region": "High Country NC",
+      "latitude": 36.2198,
+      "longitude": -81.7721,
+      "usgs_gauge_id": "03479000",
+      "fishing_type": "Trophy Trout",
+      "species": ["Brown Trout", "Rainbow Trout"],
+      "regulations": "Catch-and-release only in trophy section. Artificial lures and flies only. No bait fishing. NC fishing license required.",
+      "license": "NC Fishing License",
+      "hatchery_stocked": false,
+      "wild_trout": true,
+      "best_season": "Year-round; spring hatches (Apr–Jun) and fall (Sep–Nov) are peak",
+      "access": "Multiple roadside pullouts along NC-105 and SR-1112 through Valle Crucis",
+      "website_url": "https://www.ncwildlife.org/fishing",
+      "access_points": [
+        {
+          "id": "watauga-fishing-trophy-1",
+          "name": "Valle Crucis Fly Fishing Access",
+          "type": "fishing",
+          "latitude": 36.2198,
+          "longitude": -81.7721,
+          "description": "Primary public wading access for the Valle Crucis trophy section. Deep pools hold large brown trout.",
+          "notes": "Catch-and-release only. Artificial flies and lures only. Watch for other anglers."
+        },
+        {
+          "id": "watauga-fishing-trophy-2",
+          "name": "Mast Farm Inn Pool",
+          "type": "fishing",
+          "latitude": 36.2241,
+          "longitude": -81.7698,
+          "description": "Scenic stretch near the historic Mast Farm Inn. Good dry fly water with long flat runs.",
+          "notes": "Public access along the road. Respect private property boundaries."
+        }
+      ]
+    },
+    {
+      "id": "new-river-nc-fishing",
+      "name": "New River — Smallmouth & Musky",
+      "description": "The ancient New River — one of the oldest on Earth — offers exceptional smallmouth bass and muskellunge fishing. The lower sections near Sparta and Jefferson hold trophy-class musky. The upper reaches near the state park are excellent for bass on poppers and streamers.",
+      "region": "High Country NC",
+      "latitude": 36.4132,
+      "longitude": -81.4764,
+      "usgs_gauge_id": "03161000",
+      "fishing_type": "Bass & Musky",
+      "species": ["Smallmouth Bass", "Muskellunge", "Rock Bass", "Bluegill"],
+      "regulations": "NC fishing license required. Check NCWRC for current musky size and bag limits (typically 36\" minimum).",
+      "license": "NC Fishing License",
+      "hatchery_stocked": false,
+      "wild_trout": false,
+      "best_season": "Late spring through fall; musky peak in Oct–Nov",
+      "access": "New River State Park offers the best public access. Multiple canoe access points along the river.",
+      "website_url": "https://www.ncparks.gov/new-river-state-park",
+      "access_points": [
+        {
+          "id": "new-river-fishing-bass-1",
+          "name": "New River State Park Fishing",
+          "type": "fishing",
+          "latitude": 36.4138,
+          "longitude": -81.4768,
+          "description": "Fish from the canoe launch area or wade downstream. Smallmouth bass hold near the rocky shoals. Evening topwater action can be explosive.",
+          "notes": "NC fishing license required. Day use fee for state park. Musky: check current size limits."
+        },
+        {
+          "id": "new-river-fishing-musky-1",
+          "name": "Tessentee Creek Confluence",
+          "type": "fishing",
+          "latitude": 36.4088,
+          "longitude": -81.4901,
+          "description": "Productive musky and smallmouth spot at the creek confluence. Deep pools and slack water off the main current hold fish.",
+          "notes": "Best accessed by canoe or kayak. Musky fishing peaks in fall. Use large suckers or musky plugs."
+        }
+      ]
+    },
+    {
+      "id": "wilson-creek-trophy",
+      "name": "Wilson Creek — Trophy Trout",
+      "description": "A wild and scenic designated river managed as a catch-and-release trophy trout fishery. Wilson Creek holds some of the largest wild brown trout in western North Carolina. The gorge section is remote and provides a true wilderness fishing experience.",
+      "region": "High Country NC",
+      "latitude": 35.9580,
+      "longitude": -81.7195,
+      "usgs_gauge_id": "02140510",
+      "fishing_type": "Trophy Trout",
+      "species": ["Brown Trout", "Rainbow Trout"],
+      "regulations": "Catch-and-release only. Artificial flies and lures only. NC fishing license required. Trophy section has special regulations — verify boundaries with NCWRC.",
+      "license": "NC Fishing License",
+      "hatchery_stocked": false,
+      "wild_trout": true,
+      "best_season": "Spring (Mar–Jun) and fall (Sep–Nov); summer evenings for dry flies",
+      "access": "USFS Forest Road 981 runs along the creek. Parking at several pull-offs. Remote — plan accordingly.",
+      "website_url": "https://www.ncwildlife.org/fishing",
+      "access_points": [
+        {
+          "id": "wilson-fishing-trophy-1",
+          "name": "Wilson Creek Trophy Section",
+          "type": "fishing",
+          "latitude": 35.9580,
+          "longitude": -81.7195,
+          "description": "Prime trophy section managed for wild brown trout. Challenging technical water with large fish. Streamers and nymphs produce year-round.",
+          "notes": "Catch-and-release only. Artificial only. Waders recommended — water is cold year-round."
+        },
+        {
+          "id": "wilson-fishing-mortimer-1",
+          "name": "Mortimer Area Trout Water",
+          "type": "fishing",
+          "latitude": 35.9612,
+          "longitude": -81.7318,
+          "description": "Upper Wilson Creek near Mortimer Campground. Good stocked rainbow trout water with pocket pools and riffles.",
+          "notes": "Some sections are hatchery-supported. Check NCWRC for stocking schedules. Camping available nearby."
+        }
+      ]
+    },
+    {
+      "id": "elk-creek-brook-trout",
+      "name": "Elk Creek — Native Brook Trout",
+      "description": "A pristine high-elevation tributary of the Watauga River near Elk Park. The upper reaches are home to native Appalachian brook trout, the only trout species native to western NC. Small stream fishing at its best — short casts, stealthy approach, and beautiful fish.",
+      "region": "High Country NC",
+      "latitude": 36.1612,
+      "longitude": -81.9788,
+      "usgs_gauge_id": "02111180",
+      "fishing_type": "Native Brook Trout",
+      "species": ["Brook Trout", "Rainbow Trout"],
+      "regulations": "NC fishing license required. Check NCWRC for any Heritage Trout Water designations — artificial only, special bag limits in some sections.",
+      "license": "NC Fishing License",
+      "hatchery_stocked": true,
+      "wild_trout": true,
+      "best_season": "Spring and fall; summer mornings on the upper creek",
+      "access": "Roadside access along Elk Creek Road. Some sections require short hikes.",
+      "website_url": "https://www.ncwildlife.org/fishing",
+      "access_points": [
+        {
+          "id": "elk-fishing-brook-1",
+          "name": "Upper Elk Creek Brook Trout Water",
+          "type": "fishing",
+          "latitude": 36.1612,
+          "longitude": -81.9788,
+          "description": "Upper reaches hold native brook trout in classic pocket water. Small dry flies and nymphs work best. Trout are 6–10\" but striking in color.",
+          "notes": "Check for Heritage Trout Water status — may be artificial only with reduced bag limits."
+        }
+      ]
+    },
+    {
+      "id": "linville-river-trout",
+      "name": "Linville River — Gorge Trout",
+      "description": "Flowing through Linville Gorge Wilderness, the Linville River offers wild trout fishing in one of the most spectacular settings in the Southern Appalachians. Remote hike-in access keeps fishing pressure low and trout sizes up. The river holds wild brown and rainbow trout in its deep gorge pools.",
+      "region": "High Country NC",
+      "latitude": 35.9050,
+      "longitude": -81.9255,
+      "usgs_gauge_id": null,
+      "fishing_type": "Wild Trout",
+      "species": ["Brown Trout", "Rainbow Trout", "Brook Trout"],
+      "regulations": "NC fishing license required. Check NCWRC for Linville Gorge special regulations — portions may be catch-and-release or artificial only.",
+      "license": "NC Fishing License",
+      "hatchery_stocked": false,
+      "wild_trout": true,
+      "best_season": "Spring through fall; summer can be productive in the deep gorge",
+      "access": "Hike-in only via Linville Gorge Trail (~3–5 miles one way). Wilderness permit may be required on weekends May–October.",
+      "website_url": "https://www.fs.usda.gov/recarea/nfsnc/recreation/recarea/?recid=48975",
+      "access_points": [
+        {
+          "id": "linville-fishing-gorge-1",
+          "name": "Linville Gorge River Access",
+          "type": "fishing",
+          "latitude": 35.9050,
+          "longitude": -81.9255,
+          "description": "Remote wild trout fishing deep in the gorge. Minimal fishing pressure, large wild trout. The hike makes it well worth it.",
+          "notes": "Hike-in only, 3–5 miles each way. Weekend wilderness permit required May–Oct. Pack out everything."
+        }
+      ]
+    },
+    {
+      "id": "south-fork-new-river",
+      "name": "South Fork New River",
+      "description": "A smaller tributary of the New River system running through Ashe and Alleghany counties. Excellent stocked trout water in the upper reaches and smallmouth bass in the lower sections. More accessible than many High Country streams with good roadside access.",
+      "region": "High Country NC",
+      "latitude": 36.4201,
+      "longitude": -81.4623,
+      "usgs_gauge_id": null,
+      "fishing_type": "Trout & Bass",
+      "species": ["Rainbow Trout", "Brown Trout", "Smallmouth Bass"],
+      "regulations": "NC fishing license required. Standard mountain trout regulations apply in most sections.",
+      "license": "NC Fishing License",
+      "hatchery_stocked": true,
+      "wild_trout": false,
+      "best_season": "Spring stocking season (March–May) and fall; summer smallmouth",
+      "access": "Multiple roadside access points along US-221 and secondary roads through West Jefferson and Jefferson.",
+      "website_url": "https://www.ncwildlife.org/fishing",
+      "access_points": [
+        {
+          "id": "south-fork-fishing-1",
+          "name": "Jefferson Area Trout Access",
+          "type": "fishing",
+          "latitude": 36.4201,
+          "longitude": -81.4623,
+          "description": "Regularly stocked trout water near Jefferson. Multiple wading spots along secondary roads. Good family fishing.",
+          "notes": "NCWRC stocks rainbow trout March through May. Early morning fishing before crowds arrive."
+        }
+      ]
+    },
+    {
+      "id": "south-toe-river-fishing",
+      "name": "South Toe River — Mount Mitchell Area",
+      "description": "Flowing from the flanks of Mount Mitchell, the South Toe is one of the coldest mountain rivers in the region. The headwaters near Black Mountain Campground offer exceptional native brook trout fishing, while lower sections hold stocked rainbow and brown trout.",
+      "region": "Western NC",
+      "latitude": 35.7919,
+      "longitude": -82.2047,
+      "usgs_gauge_id": "03463300",
+      "fishing_type": "Brook & Rainbow Trout",
+      "species": ["Brook Trout", "Rainbow Trout", "Brown Trout"],
+      "regulations": "NC fishing license required. Upper headwater sections near Mount Mitchell may have special regulations — verify with NCWRC.",
+      "license": "NC Fishing License",
+      "hatchery_stocked": true,
+      "wild_trout": true,
+      "best_season": "Spring and early summer; the high elevation keeps it fishable even in August",
+      "access": "USFS Road 472 and the Black Mountain Campground provide access to upper sections. Lower sections accessible via NC-80.",
+      "website_url": "https://www.fs.usda.gov/recarea/nfsnc/recreation/recarea/?recid=48978",
+      "access_points": [
+        {
+          "id": "south-toe-fishing-brook-1",
+          "name": "Black Mountain Campground Brook Trout",
+          "type": "fishing",
+          "latitude": 35.7919,
+          "longitude": -82.2047,
+          "description": "Native brook trout in the cold headwaters below Mount Mitchell. Small stream with pocket pools. An Appalachian classic.",
+          "notes": "Artificial lures only in designated sections. USFS day-use fee. Very cold water — felt-sole waders recommended."
+        },
+        {
+          "id": "south-toe-fishing-campground-1",
+          "name": "Toecane River Access — Lower Section",
+          "type": "fishing",
+          "latitude": 35.8453,
+          "longitude": -82.1823,
+          "description": "Lower South Toe with regularly stocked rainbow trout. Good wading water with riffles and pools.",
+          "notes": "NCWRC stocking schedule available online. Standard mountain trout regulations."
+        }
+      ]
+    },
+    {
+      "id": "nolichucky-river-fishing",
+      "name": "Nolichucky River — Erwin TN",
+      "description": "Below the dramatic Nolichucky Gorge, the river opens up near Erwin, TN into excellent smallmouth bass and stocked rainbow trout water. The Tennessee Wildlife Resources Agency regularly stocks trout in accessible sections, and the bass fishing in the lower gorge tailwater is outstanding.",
+      "region": "Eastern TN",
+      "latitude": 36.1501,
+      "longitude": -82.4223,
+      "usgs_gauge_id": "03466500",
+      "fishing_type": "Trout & Smallmouth",
+      "species": ["Rainbow Trout", "Brown Trout", "Smallmouth Bass"],
+      "regulations": "Tennessee fishing license required. Check TWRA for stocked trout section boundaries and special regulations.",
+      "license": "TN Fishing License",
+      "hatchery_stocked": true,
+      "wild_trout": false,
+      "best_season": "Year-round; trout stocking March–May and fall; bass peak summer",
+      "access": "Chestoa Recreation Area in Erwin provides excellent river access with parking and facilities.",
+      "website_url": "https://www.tn.gov/twra/fishing.html",
+      "access_points": [
+        {
+          "id": "nolichucky-fishing-erwin-1",
+          "name": "Chestoa Recreation Area Fishing",
+          "type": "fishing",
+          "latitude": 36.1501,
+          "longitude": -82.4223,
+          "description": "Excellent stocked trout and smallmouth bass water below the gorge. Chestoa has a boat ramp, parking, and river access.",
+          "notes": "Tennessee fishing license required. TWRA stocks rainbow trout regularly. Good smallmouth bass water in summer."
+        }
+      ]
+    }
+  ]
+}
