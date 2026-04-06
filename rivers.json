@@ -53,7 +53,7 @@
       "gauge_ft": 2.06,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-06T11:44:44Z"
+      "last_updated": "2026-04-06T13:02:09Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 104.0,
-      "gauge_ft": 1.79,
+      "current_cfs": 101.0,
+      "gauge_ft": 1.78,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-06T11:44:44Z"
+      "last_updated": "2026-04-06T13:02:09Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -166,11 +166,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 1300.0,
-      "gauge_ft": 42.31,
+      "current_cfs": 1320.0,
+      "gauge_ft": 42.32,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-04-06T11:44:44Z"
+      "last_updated": "2026-04-06T13:02:09Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 62.4,
-      "gauge_ft": 1.06,
+      "current_cfs": 58.6,
+      "gauge_ft": 1.04,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-06T11:44:44Z"
+      "last_updated": "2026-04-06T13:02:09Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -344,12 +344,12 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 88.5,
-      "gauge_ft": 0.92,
+      "current_cfs": 86.0,
+      "gauge_ft": 0.91,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-06T11:44:44Z"
+      "last_updated": "2026-04-06T13:02:09Z"
     }
   ],
-  "last_updated": "2026-04-06T11:44:44Z"
+  "last_updated": "2026-04-06T13:02:09Z"
 }
