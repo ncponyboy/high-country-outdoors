@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 276.0,
-      "gauge_ft": 2.06,
+      "current_cfs": 280.0,
+      "gauge_ft": 2.07,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-06T17:41:08Z"
+      "last_updated": "2026-04-06T18:53:26Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 101.0,
-      "gauge_ft": 1.78,
+      "current_cfs": 99.2,
+      "gauge_ft": 1.77,
       "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-04-06T17:41:08Z"
+      "condition": "low",
+      "last_updated": "2026-04-06T18:53:26Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -166,11 +166,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 1370.0,
-      "gauge_ft": 42.35,
+      "current_cfs": 1390.0,
+      "gauge_ft": 42.36,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-04-06T17:41:08Z"
+      "last_updated": "2026-04-06T18:53:26Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 58.6,
-      "gauge_ft": 1.04,
+      "current_cfs": 56.8,
+      "gauge_ft": 1.03,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-06T17:41:08Z"
+      "last_updated": "2026-04-06T18:53:26Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -348,8 +348,8 @@
       "gauge_ft": 0.89,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-06T17:41:08Z"
+      "last_updated": "2026-04-06T18:53:26Z"
     }
   ],
-  "last_updated": "2026-04-06T17:41:08Z"
+  "last_updated": "2026-04-06T18:53:26Z"
 }
