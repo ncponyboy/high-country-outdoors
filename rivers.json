@@ -53,7 +53,7 @@
       "gauge_ft": 1.96,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-08T19:11:09Z"
+      "last_updated": "2026-04-08T20:38:35Z"
     },
     {
       "id": "watauga-river-nc",
@@ -116,7 +116,7 @@
       "gauge_ft": 1.71,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-08T19:11:09Z"
+      "last_updated": "2026-04-08T20:38:35Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -170,7 +170,7 @@
       "gauge_ft": 42.25,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-04-08T19:11:09Z"
+      "last_updated": "2026-04-08T20:38:35Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -285,7 +285,7 @@
       "gauge_ft": 1.01,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-08T19:11:09Z"
+      "last_updated": "2026-04-08T20:38:35Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -348,8 +348,8 @@
       "gauge_ft": 0.84,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-08T19:11:09Z"
+      "last_updated": "2026-04-08T20:38:35Z"
     }
   ],
-  "last_updated": "2026-04-08T19:11:09Z"
+  "last_updated": "2026-04-08T20:38:35Z"
 }
