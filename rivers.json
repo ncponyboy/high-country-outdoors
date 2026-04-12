@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 216.0,
-      "gauge_ft": 1.9,
+      "current_cfs": 219.0,
+      "gauge_ft": 1.91,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-12T13:58:10Z"
+      "last_updated": "2026-04-12T14:43:37Z"
     },
     {
       "id": "watauga-river-nc",
@@ -116,7 +116,7 @@
       "gauge_ft": 1.67,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-12T13:58:10Z"
+      "last_updated": "2026-04-12T14:43:37Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -170,7 +170,7 @@
       "gauge_ft": 42.11,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-12T13:58:10Z"
+      "last_updated": "2026-04-12T14:43:37Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -285,7 +285,7 @@
       "gauge_ft": 0.98,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-12T13:58:10Z"
+      "last_updated": "2026-04-12T14:43:37Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -344,12 +344,12 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 69.2,
-      "gauge_ft": 0.84,
-      "trend": "steady",
+      "current_cfs": 64.8,
+      "gauge_ft": 0.82,
+      "trend": "falling",
       "condition": "low",
-      "last_updated": "2026-04-12T13:58:10Z"
+      "last_updated": "2026-04-12T14:43:37Z"
     }
   ],
-  "last_updated": "2026-04-12T13:58:10Z"
+  "last_updated": "2026-04-12T14:43:37Z"
 }
