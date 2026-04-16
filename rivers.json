@@ -53,7 +53,7 @@
       "gauge_ft": 1.86,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-16T10:59:10Z"
+      "last_updated": "2026-04-16T12:02:45Z"
     },
     {
       "id": "watauga-river-nc",
@@ -116,7 +116,7 @@
       "gauge_ft": 1.63,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-16T10:59:10Z"
+      "last_updated": "2026-04-16T12:02:45Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -170,7 +170,7 @@
       "gauge_ft": 42.04,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-16T10:59:10Z"
+      "last_updated": "2026-04-16T12:02:45Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 45.1,
-      "gauge_ft": 0.96,
+      "current_cfs": 46.7,
+      "gauge_ft": 0.97,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-16T10:59:10Z"
+      "last_updated": "2026-04-16T12:02:45Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -348,8 +348,8 @@
       "gauge_ft": 0.79,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-16T10:59:10Z"
+      "last_updated": "2026-04-16T12:02:45Z"
     }
   ],
-  "last_updated": "2026-04-16T10:59:10Z"
+  "last_updated": "2026-04-16T12:02:45Z"
 }
