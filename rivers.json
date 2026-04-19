@@ -50,10 +50,10 @@
         }
       ],
       "current_cfs": 198.0,
-      "gauge_ft": 1.85,
+      "gauge_ft": 1.84,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-19T18:42:43Z"
+      "last_updated": "2026-04-19T19:38:38Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 77.2,
-      "gauge_ft": 1.66,
+      "current_cfs": 75.4,
+      "gauge_ft": 1.65,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-19T18:42:43Z"
+      "last_updated": "2026-04-19T19:38:38Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -170,7 +170,7 @@
       "gauge_ft": 42.03,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-19T18:42:43Z"
+      "last_updated": "2026-04-19T19:38:38Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.82,
+      "gauge_ft": 2.85,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -285,7 +285,7 @@
       "gauge_ft": 0.95,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-19T18:42:43Z"
+      "last_updated": "2026-04-19T19:38:38Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -348,8 +348,8 @@
       "gauge_ft": 0.78,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-19T18:42:43Z"
+      "last_updated": "2026-04-19T19:38:38Z"
     }
   ],
-  "last_updated": "2026-04-19T18:42:43Z"
+  "last_updated": "2026-04-19T19:38:38Z"
 }
