@@ -53,7 +53,7 @@
       "gauge_ft": 1.84,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-19T09:43:07Z"
+      "last_updated": "2026-04-19T10:35:46Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 79.1,
-      "gauge_ft": 1.67,
+      "current_cfs": 77.2,
+      "gauge_ft": 1.66,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-19T09:43:07Z"
+      "last_updated": "2026-04-19T10:35:46Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -170,7 +170,7 @@
       "gauge_ft": 42.02,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-19T09:43:07Z"
+      "last_updated": "2026-04-19T10:35:46Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.85,
+      "gauge_ft": 2.86,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 42.1,
-      "gauge_ft": 0.94,
+      "current_cfs": 43.6,
+      "gauge_ft": 0.95,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-19T09:43:07Z"
+      "last_updated": "2026-04-19T10:35:46Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -348,8 +348,8 @@
       "gauge_ft": 0.78,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-19T09:43:07Z"
+      "last_updated": "2026-04-19T10:35:46Z"
     }
   ],
-  "last_updated": "2026-04-19T09:43:07Z"
+  "last_updated": "2026-04-19T10:35:46Z"
 }
