@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 181.0,
-      "gauge_ft": 1.8,
+      "current_cfs": 188.0,
+      "gauge_ft": 1.82,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-25T20:34:30Z"
+      "last_updated": "2026-04-25T21:33:25Z"
     },
     {
       "id": "watauga-river-nc",
@@ -116,7 +116,7 @@
       "gauge_ft": 1.6,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-25T20:34:30Z"
+      "last_updated": "2026-04-25T21:33:25Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -170,7 +170,7 @@
       "gauge_ft": 41.93,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-25T20:34:30Z"
+      "last_updated": "2026-04-25T21:33:25Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.82,
+      "gauge_ft": 2.83,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 36.5,
-      "gauge_ft": 0.9,
+      "current_cfs": 37.9,
+      "gauge_ft": 0.91,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-25T20:34:30Z"
+      "last_updated": "2026-04-25T21:33:25Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -344,12 +344,12 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 52.6,
-      "gauge_ft": 0.76,
+      "current_cfs": 54.5,
+      "gauge_ft": 0.77,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-25T20:34:30Z"
+      "last_updated": "2026-04-25T21:33:25Z"
     }
   ],
-  "last_updated": "2026-04-25T20:34:30Z"
+  "last_updated": "2026-04-25T21:33:25Z"
 }
