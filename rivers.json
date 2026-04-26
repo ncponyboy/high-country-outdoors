@@ -53,7 +53,7 @@
       "gauge_ft": 1.91,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-26T22:34:12Z"
+      "last_updated": "2026-04-26T23:35:35Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 71.8,
-      "gauge_ft": 1.63,
+      "current_cfs": 70.0,
+      "gauge_ft": 1.62,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-26T22:34:12Z"
+      "last_updated": "2026-04-26T23:35:35Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -166,11 +166,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 775.0,
-      "gauge_ft": 41.96,
+      "current_cfs": 762.0,
+      "gauge_ft": 41.95,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-26T22:34:12Z"
+      "last_updated": "2026-04-26T23:35:35Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.87,
+      "gauge_ft": 2.86,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 42.1,
-      "gauge_ft": 0.94,
+      "current_cfs": 40.7,
+      "gauge_ft": 0.93,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-26T22:34:12Z"
+      "last_updated": "2026-04-26T23:35:35Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -348,8 +348,8 @@
       "gauge_ft": 0.76,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-26T22:34:12Z"
+      "last_updated": "2026-04-26T23:35:35Z"
     }
   ],
-  "last_updated": "2026-04-26T22:34:12Z"
+  "last_updated": "2026-04-26T23:35:35Z"
 }
