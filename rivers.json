@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 272.0,
-      "gauge_ft": 2.05,
+      "current_cfs": 265.0,
+      "gauge_ft": 2.03,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-27T05:49:54Z"
+      "last_updated": "2026-04-27T08:15:40Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 66.6,
-      "gauge_ft": 1.6,
+      "current_cfs": 64.9,
+      "gauge_ft": 1.59,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-27T05:49:54Z"
+      "last_updated": "2026-04-27T08:15:40Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -170,7 +170,7 @@
       "gauge_ft": 41.97,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-27T05:49:54Z"
+      "last_updated": "2026-04-27T08:15:40Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.85,
+      "gauge_ft": 2.84,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -285,7 +285,7 @@
       "gauge_ft": 0.91,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-27T05:49:54Z"
+      "last_updated": "2026-04-27T08:15:40Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -344,12 +344,12 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 50.7,
-      "gauge_ft": 0.75,
+      "current_cfs": 48.9,
+      "gauge_ft": 0.74,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-27T05:49:54Z"
+      "last_updated": "2026-04-27T08:15:40Z"
     }
   ],
-  "last_updated": "2026-04-27T05:49:54Z"
+  "last_updated": "2026-04-27T08:15:40Z"
 }
