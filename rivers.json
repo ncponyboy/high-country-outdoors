@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 348.0,
-      "gauge_ft": 2.23,
+      "current_cfs": 326.0,
+      "gauge_ft": 2.18,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-29T19:19:20Z"
+      "last_updated": "2026-04-29T20:59:41Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 86.8,
-      "gauge_ft": 1.71,
+      "current_cfs": 84.8,
+      "gauge_ft": 1.7,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-29T19:19:20Z"
+      "last_updated": "2026-04-29T20:59:41Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -166,11 +166,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 1240.0,
-      "gauge_ft": 42.27,
+      "current_cfs": 1270.0,
+      "gauge_ft": 42.29,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-04-29T19:19:20Z"
+      "last_updated": "2026-04-29T20:59:41Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.95,
+      "gauge_ft": 2.92,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -285,7 +285,7 @@
       "gauge_ft": 0.93,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-29T19:19:20Z"
+      "last_updated": "2026-04-29T20:59:41Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -344,12 +344,12 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 62.7,
-      "gauge_ft": 0.81,
+      "current_cfs": 60.6,
+      "gauge_ft": 0.8,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-29T19:19:20Z"
+      "last_updated": "2026-04-29T20:59:41Z"
     }
   ],
-  "last_updated": "2026-04-29T19:19:20Z"
+  "last_updated": "2026-04-29T20:59:41Z"
 }
