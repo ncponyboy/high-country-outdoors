@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 241.0,
-      "gauge_ft": 1.97,
+      "current_cfs": 253.0,
+      "gauge_ft": 2.0,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-29T02:35:34Z"
+      "last_updated": "2026-04-29T05:51:06Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 106.0,
-      "gauge_ft": 1.8,
+      "current_cfs": 90.8,
+      "gauge_ft": 1.73,
       "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-04-29T02:35:34Z"
+      "condition": "low",
+      "last_updated": "2026-04-29T05:51:06Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -170,7 +170,7 @@
       "gauge_ft": 42.07,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-29T02:35:34Z"
+      "last_updated": "2026-04-29T05:51:06Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 3.08,
+      "gauge_ft": 3.09,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 58.6,
-      "gauge_ft": 1.04,
+      "current_cfs": 55.0,
+      "gauge_ft": 1.02,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-29T02:35:34Z"
+      "last_updated": "2026-04-29T05:51:06Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -344,12 +344,12 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 93.8,
-      "gauge_ft": 0.94,
+      "current_cfs": 78.5,
+      "gauge_ft": 0.88,
       "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-04-29T02:35:34Z"
+      "condition": "low",
+      "last_updated": "2026-04-29T05:51:06Z"
     }
   ],
-  "last_updated": "2026-04-29T02:35:34Z"
+  "last_updated": "2026-04-29T05:51:06Z"
 }
