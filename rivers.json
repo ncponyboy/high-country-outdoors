@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 234.0,
-      "gauge_ft": 1.95,
+      "current_cfs": 241.0,
+      "gauge_ft": 1.97,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-28T23:52:24Z"
+      "last_updated": "2026-04-29T02:35:34Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 115.0,
-      "gauge_ft": 1.84,
+      "current_cfs": 106.0,
+      "gauge_ft": 1.8,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-28T23:52:24Z"
+      "last_updated": "2026-04-29T02:35:34Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -166,11 +166,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 959.0,
-      "gauge_ft": 42.09,
+      "current_cfs": 930.0,
+      "gauge_ft": 42.07,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-28T23:52:24Z"
+      "last_updated": "2026-04-29T02:35:34Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 3.02,
+      "gauge_ft": 3.08,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 55.0,
-      "gauge_ft": 1.02,
+      "current_cfs": 58.6,
+      "gauge_ft": 1.04,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-04-28T23:52:24Z"
+      "last_updated": "2026-04-29T02:35:34Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -344,12 +344,12 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 102.0,
-      "gauge_ft": 0.97,
+      "current_cfs": 93.8,
+      "gauge_ft": 0.94,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-04-28T23:52:24Z"
+      "last_updated": "2026-04-29T02:35:34Z"
     }
   ],
-  "last_updated": "2026-04-28T23:52:24Z"
+  "last_updated": "2026-04-29T02:35:34Z"
 }
