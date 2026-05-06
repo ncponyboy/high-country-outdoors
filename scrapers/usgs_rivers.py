@@ -12,6 +12,7 @@ Requires: requests (pip install requests)
 
 import json
 import os
+import sys
 import requests
 from datetime import datetime, timezone
 
@@ -166,6 +167,10 @@ def main():
     site_ids = [r["usgs_gauge_id"] for r in rivers if r.get("usgs_gauge_id")]
     print(f"Fetching USGS data for {len(site_ids)} gauges...")
     usgs_data = fetch_usgs(site_ids)
+
+    if site_ids and not usgs_data:
+        print("[WARNING] USGS API returned no data for any gauge — keeping existing rivers.json unchanged")
+        sys.exit(0)
 
     now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
