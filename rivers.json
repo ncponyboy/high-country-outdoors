@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 172.0,
-      "gauge_ft": 1.77,
+      "current_cfs": 169.0,
+      "gauge_ft": 1.76,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-08T07:24:14Z"
+      "last_updated": "2026-05-08T09:14:08Z"
     },
     {
       "id": "watauga-river-nc",
@@ -112,11 +112,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 57.0,
-      "gauge_ft": 1.54,
+      "current_cfs": 55.5,
+      "gauge_ft": 1.53,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-08T07:24:14Z"
+      "last_updated": "2026-05-08T09:14:08Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -166,11 +166,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 762.0,
-      "gauge_ft": 41.95,
+      "current_cfs": 775.0,
+      "gauge_ft": 41.96,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-08T07:24:14Z"
+      "last_updated": "2026-05-08T09:14:08Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -229,7 +229,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.81,
+      "gauge_ft": 2.8,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 31.4,
-      "gauge_ft": 0.88,
+      "current_cfs": 30.2,
+      "gauge_ft": 0.87,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-08T07:24:14Z"
+      "last_updated": "2026-05-08T09:14:08Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -348,8 +348,8 @@
       "gauge_ft": 0.77,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-08T07:24:14Z"
+      "last_updated": "2026-05-08T09:14:08Z"
     }
   ],
-  "last_updated": "2026-05-08T07:24:14Z"
+  "last_updated": "2026-05-08T09:14:08Z"
 }
