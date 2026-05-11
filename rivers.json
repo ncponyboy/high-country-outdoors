@@ -49,11 +49,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 156.0,
-      "gauge_ft": 1.72,
+      "current_cfs": 153.0,
+      "gauge_ft": 1.71,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-11T06:35:51Z"
+      "last_updated": "2026-05-11T10:35:02Z"
     },
     {
       "id": "watauga-river-nc",
@@ -116,7 +116,7 @@
       "gauge_ft": 1.47,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-11T06:35:51Z"
+      "last_updated": "2026-05-11T10:35:02Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -166,11 +166,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 644.0,
-      "gauge_ft": 41.86,
+      "current_cfs": 631.0,
+      "gauge_ft": 41.85,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-11T06:35:51Z"
+      "last_updated": "2026-05-11T10:35:02Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -281,11 +281,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 27.9,
-      "gauge_ft": 0.85,
+      "current_cfs": 26.8,
+      "gauge_ft": 0.84,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-11T06:35:51Z"
+      "last_updated": "2026-05-11T10:35:02Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -348,8 +348,8 @@
       "gauge_ft": 0.71,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-11T06:35:51Z"
+      "last_updated": "2026-05-11T10:35:02Z"
     }
   ],
-  "last_updated": "2026-05-11T06:35:51Z"
+  "last_updated": "2026-05-11T10:35:02Z"
 }
