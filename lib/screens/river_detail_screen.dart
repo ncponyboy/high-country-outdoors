@@ -1,3 +1,4 @@
+import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:provider/provider.dart';
@@ -18,7 +19,8 @@ class RiverDetailScreen extends StatelessWidget {
     final String gaugeLabel =
         river.gaugeFt != null ? '${river.gaugeFt!.toStringAsFixed(2)} ft' : '—';
 
-    return Scaffold(
+    return Consumer<StoreService>(
+      builder: (context, storeSvc, _) => Scaffold(
       backgroundColor: Colors.grey.shade100,
       body: CustomScrollView(
         slivers: [
@@ -45,10 +47,18 @@ class RiverDetailScreen extends StatelessWidget {
 
               const SizedBox(height: 12),
 
-              // Live flow data (only shown when USGS data is available)
+              // Live flow data — Pro only
               if (river.currentCfs != null || river.gaugeFt != null)
-                _SectionCard(
+                _ProLockedCard(
+                  isPro: storeSvc.isPro,
                   title: 'Live Flow Data',
+                  lockedLabel: 'Live flow data is a Pro feature',
+                  onUpgrade: () => showModalBottomSheet(
+                    context: context,
+                    isScrollControlled: true,
+                    backgroundColor: Colors.transparent,
+                    builder: (_) => const ProUpgradeScreen(),
+                  ),
                   child: Column(
                     children: [
                       if (river.currentCfs != null) ...[
@@ -68,6 +78,14 @@ class RiverDetailScreen extends StatelessWidget {
                         const Divider(height: 1, thickness: 1),
                       ],
                       _TrendRow(river: river),
+                      if (river.gaugeLocation != null) ...[
+                        const Divider(height: 1, thickness: 1),
+                        _InfoRow(
+                          label: 'Gauge Location',
+                          value: river.gaugeLocation!,
+                          icon: Icons.place_outlined,
+                        ),
+                      ],
                       if (river.lastUpdated.isNotEmpty) ...[
                         const Divider(height: 1, thickness: 1),
                         _InfoRow(
@@ -106,7 +124,7 @@ class RiverDetailScreen extends StatelessWidget {
 
               const SizedBox(height: 12),
 
-              // River info
+              // River info — free
               _SectionCard(
                 title: 'River Info',
                 child: Column(
@@ -140,7 +158,7 @@ class RiverDetailScreen extends StatelessWidget {
 
               const SizedBox(height: 12),
 
-              // Description
+              // About — free
               if (river.description.isNotEmpty)
                 _SectionCard(
                   title: 'About',
@@ -231,7 +249,7 @@ class RiverDetailScreen extends StatelessWidget {
           ),
         ],
       ),
-    );
+    ));
   }
 }
 
@@ -699,6 +717,117 @@ class _InfoRow extends StatelessWidget {
     );
   }
 }
+
+// ---------------------------------------------------------------------------
+// Pro Locked Card
+// ---------------------------------------------------------------------------
+
+class _ProLockedCard extends StatelessWidget {
+  final bool isPro;
+  final String title;
+  final String lockedLabel;
+  final Widget child;
+  final VoidCallback onUpgrade;
+
+  const _ProLockedCard({
+    required this.isPro,
+    required this.title,
+    required this.lockedLabel,
+    required this.child,
+    required this.onUpgrade,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    if (isPro) return _SectionCard(title: title, child: child);
+
+    return Container(
+      margin: const EdgeInsets.symmetric(horizontal: 16),
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(12),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(0.05),
+            blurRadius: 4,
+            offset: const Offset(0, 2),
+          ),
+        ],
+      ),
+      child: ClipRRect(
+        borderRadius: BorderRadius.circular(12),
+        child: Stack(
+          children: [
+            // Blurred content behind
+            ImageFiltered(
+              imageFilter: ImageFilter.blur(sigmaX: 5, sigmaY: 5),
+              child: Opacity(
+                opacity: 0.25,
+                child: Padding(
+                  padding: const EdgeInsets.all(16),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(title,
+                          style: const TextStyle(
+                              fontSize: 14,
+                              fontWeight: FontWeight.w700,
+                              color: Colors.black54,
+                              letterSpacing: 0.5)),
+                      const SizedBox(height: 12),
+                      child,
+                    ],
+                  ),
+                ),
+              ),
+            ),
+            // Lock overlay
+            Positioned.fill(
+              child: Container(
+                decoration: BoxDecoration(
+                  color: Colors.white.withOpacity(0.55),
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    const Icon(Icons.lock_outline,
+                        size: 28, color: Color(0xFF0D3A1A)),
+                    const SizedBox(height: 8),
+                    Text(
+                      lockedLabel,
+                      style: const TextStyle(
+                          fontSize: 13,
+                          fontWeight: FontWeight.w600,
+                          color: Colors.black87),
+                    ),
+                    const SizedBox(height: 12),
+                    ElevatedButton(
+                      onPressed: onUpgrade,
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: const Color(0xFF0D3A1A),
+                        foregroundColor: Colors.white,
+                        padding: const EdgeInsets.symmetric(
+                            horizontal: 20, vertical: 10),
+                        shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(10)),
+                      ),
+                      child: const Text('Upgrade to Pro',
+                          style: TextStyle(
+                              fontWeight: FontWeight.w700, fontSize: 13)),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+// ---------------------------------------------------------------------------
 
 class _SectionCard extends StatelessWidget {
   final String title;

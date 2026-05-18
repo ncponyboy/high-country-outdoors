@@ -205,6 +205,7 @@ class River {
   final List<String> putIns;
   final String? difficulty;
   final String? websiteUrl;
+  final String? gaugeLocation;
   final List<String> activities;
   final List<AccessPoint> accessPoints;
 
@@ -223,6 +224,7 @@ class River {
     required this.putIns,
     this.difficulty,
     this.websiteUrl,
+    this.gaugeLocation,
     this.activities = const [],
     this.accessPoints = const [],
   });
@@ -270,6 +272,7 @@ class River {
       putIns: putIns,
       difficulty: json['difficulty'] as String?,
       websiteUrl: json['website_url'] as String?,
+      gaugeLocation: json['gauge_location'] as String?,
       activities: activities,
       accessPoints: accessPoints,
     );
