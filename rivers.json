@@ -3,7 +3,7 @@
     {
       "id": "new-river-nc",
       "name": "South Fork New River",
-      "description": "One of the oldest rivers in the world. The South Fork flows through the NC High Country — gentle and scenic, perfect for tubing and canoeing.",
+      "description": "One of the oldest rivers in the world. The South Fork flows through the NC High Country \u2014 gentle and scenic, perfect for tubing and canoeing.",
       "region": "High Country NC",
       "latitude": 36.4132,
       "longitude": -81.4764,
@@ -54,7 +54,7 @@
       "gauge_ft": 1.65,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-18T21:07:28Z"
+      "last_updated": "2026-05-18T22:56:53Z"
     },
     {
       "id": "new-river-galax-va",
@@ -83,8 +83,8 @@
           "id": "new-river-galax-kayak-1",
           "name": "Cliffview Access Put-In",
           "type": "kayak",
-          "latitude": 36.6580,
-          "longitude": -80.9310,
+          "latitude": 36.658,
+          "longitude": -80.931,
           "description": "Primary put-in near Galax with access to the New River Trail corridor. Parking and restrooms available.",
           "notes": "New River Trail State Park. Day use fee applies. Shuttle service available seasonally."
         },
@@ -95,7 +95,7 @@
           "latitude": 36.7178,
           "longitude": -80.9752,
           "description": "Popular take-out at Fries Junction where the New River Trail crosses. Road access and parking on site.",
-          "notes": "Roughly 7 miles from Cliffview. Active rail-trail — watch for cyclists."
+          "notes": "Roughly 7 miles from Cliffview. Active rail-trail \u2014 watch for cyclists."
         },
         {
           "id": "new-river-galax-fishing-1",
@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": null,
-      "gauge_ft": null,
-      "trend": "unknown",
-      "condition": "unknown",
-      "last_updated": ""
+      "current_cfs": 555.0,
+      "gauge_ft": 1.02,
+      "trend": "steady",
+      "condition": "optimal",
+      "last_updated": "2026-05-18T22:56:53Z"
     },
     {
       "id": "watauga-river-nc",
@@ -171,11 +171,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 40.4,
-      "gauge_ft": 1.42,
+      "current_cfs": 39.1,
+      "gauge_ft": 1.41,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-18T21:07:28Z"
+      "last_updated": "2026-05-18T22:56:53Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -226,11 +226,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 511.0,
-      "gauge_ft": 41.75,
+      "current_cfs": 523.0,
+      "gauge_ft": 41.76,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-18T21:07:28Z"
+      "last_updated": "2026-05-18T22:56:53Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -290,7 +290,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.67,
+      "gauge_ft": 2.66,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -347,7 +347,7 @@
       "gauge_ft": 0.81,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-18T21:07:28Z"
+      "last_updated": "2026-05-18T22:56:53Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -411,9 +411,8 @@
       "gauge_ft": 0.66,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-18T21:07:28Z"
-    }
-    ,
+      "last_updated": "2026-05-18T22:56:53Z"
+    },
     {
       "id": "nantahala-river-nc",
       "name": "Nantahala River",
@@ -443,7 +442,7 @@
           "latitude": 35.3512,
           "longitude": -83.5841,
           "description": "Main put-in for the classic Nantahala gorge run. Roadside access off US-19 with ample parking.",
-          "notes": "Most popular section is 8 miles to NOC. Outfitter shuttles available. Water is cold year-round — wetsuit recommended."
+          "notes": "Most popular section is 8 miles to NOC. Outfitter shuttles available. Water is cold year-round \u2014 wetsuit recommended."
         },
         {
           "id": "nantahala-kayak-2",
@@ -452,23 +451,23 @@
           "latitude": 35.3341,
           "longitude": -83.5973,
           "description": "Take-out at the Nantahala Outdoor Center in Wesser. Ends directly below Nantahala Falls (Class IV). Full outfitter services on site.",
-          "notes": "Nantahala Falls is Class IV — scout or portage if uncertain. NOC has rentals, shuttles, food, and lodging."
+          "notes": "Nantahala Falls is Class IV \u2014 scout or portage if uncertain. NOC has rentals, shuttles, food, and lodging."
         },
         {
           "id": "nantahala-fishing-1",
           "name": "Nantahala Gorge Trout Fishing",
           "type": "fishing",
-          "latitude": 35.3480,
-          "longitude": -83.5900,
+          "latitude": 35.348,
+          "longitude": -83.59,
           "description": "Cold, clear tailwater fishery below Nantahala Lake dam. Excellent stocked and wild rainbow and brown trout throughout the gorge.",
-          "notes": "NC fishing license required. Check NCWRC for delayed harvest and catch-and-release sections. Waders essential — water stays around 50°F year-round."
+          "notes": "NC fishing license required. Check NCWRC for delayed harvest and catch-and-release sections. Waders essential \u2014 water stays around 50\u00b0F year-round."
         }
       ],
-      "current_cfs": null,
-      "gauge_ft": null,
-      "trend": "unknown",
-      "condition": "unknown",
-      "last_updated": ""
+      "current_cfs": 222.0,
+      "gauge_ft": 1.85,
+      "trend": "falling",
+      "condition": "low",
+      "last_updated": "2026-05-18T22:56:53Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -531,18 +530,18 @@
           "notes": "Fee required for resort pools. Some free natural seeps accessible from the river. Open year-round."
         }
       ],
-      "current_cfs": null,
-      "gauge_ft": null,
-      "trend": "unknown",
-      "condition": "unknown",
-      "last_updated": ""
+      "current_cfs": 653.0,
+      "gauge_ft": 2.55,
+      "trend": "steady",
+      "condition": "optimal",
+      "last_updated": "2026-05-18T22:56:53Z"
     },
     {
       "id": "pigeon-river-nc",
       "name": "Pigeon River",
       "description": "The Pigeon River Gorge is one of the Southeast's premier whitewater runs. Consistent Class III-IV rapids through a spectacular gorge on the NC/TN border, fed by controlled releases from the Waterville power plant.",
       "region": "Western NC / Eastern TN",
-      "latitude": 35.7990,
+      "latitude": 35.799,
       "longitude": -83.1282,
       "usgs_gauge_id": "03460795",
       "gauge_location": "Below Waterville power plant, NC",
@@ -565,7 +564,7 @@
           "latitude": 35.8021,
           "longitude": -83.1354,
           "description": "Primary put-in for the Gorge run below the Waterville power plant. Large gravel bar with easy river access.",
-          "notes": "Flow depends on power plant releases — check levels before launching. Outfitters in Hartford offer shuttles."
+          "notes": "Flow depends on power plant releases \u2014 check levels before launching. Outfitters in Hartford offer shuttles."
         },
         {
           "id": "pigeon-kayak-2",
@@ -583,14 +582,14 @@
           "latitude": 35.8063,
           "longitude": -83.1401,
           "description": "Good rainbow and brown trout fishing in the tailwater section below the power plant. Cold, clear water holds fish year-round.",
-          "notes": "NC/TN state line runs through this section — check which license applies. Wading can be dangerous during releases."
+          "notes": "NC/TN state line runs through this section \u2014 check which license applies. Wading can be dangerous during releases."
         }
       ],
-      "current_cfs": null,
-      "gauge_ft": null,
-      "trend": "unknown",
-      "condition": "unknown",
-      "last_updated": ""
+      "current_cfs": 152.0,
+      "gauge_ft": 6.99,
+      "trend": "steady",
+      "condition": "low",
+      "last_updated": "2026-05-18T22:56:53Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -622,7 +621,7 @@
           "latitude": 35.2011,
           "longitude": -84.5298,
           "description": "Primary put-in at Reliance, TN. Large USFS parking area with restrooms and easy river access.",
-          "notes": "Flow is dam-controlled — check TVA releases before launching. Most popular section runs to Patty Bridge."
+          "notes": "Flow is dam-controlled \u2014 check TVA releases before launching. Most popular section runs to Patty Bridge."
         },
         {
           "id": "hiwassee-kayak-2",
@@ -640,7 +639,7 @@
           "latitude": 35.1994,
           "longitude": -84.5334,
           "description": "World-class tailwater trout fishery below Apalachia Dam. Consistent cold water supports large wild brown and rainbow trout year-round.",
-          "notes": "TN fishing license required. Check TWRA for catch-and-release sections. Wading can be hazardous during releases — watch for TVA warnings."
+          "notes": "TN fishing license required. Check TWRA for catch-and-release sections. Wading can be hazardous during releases \u2014 watch for TVA warnings."
         }
       ],
       "current_cfs": null,
@@ -652,7 +651,7 @@
     {
       "id": "ocoee-river-tn",
       "name": "Ocoee River",
-      "description": "The Middle Ocoee is one of America's most famous whitewater runs — non-stop Class III-IV action that hosted the 1996 Olympic whitewater events. TVA-controlled releases through the Ocoee Gorge deliver consistent, exciting rapids.",
+      "description": "The Middle Ocoee is one of America's most famous whitewater runs \u2014 non-stop Class III-IV action that hosted the 1996 Olympic whitewater events. TVA-controlled releases through the Ocoee Gorge deliver consistent, exciting rapids.",
       "region": "Polk County TN",
       "latitude": 35.0743,
       "longitude": -84.5571,
@@ -677,7 +676,7 @@
           "latitude": 35.0762,
           "longitude": -84.5543,
           "description": "The Olympic Whitewater Center built for the 1996 Games. Official put-in for the Middle Ocoee run. Large parking area with full facilities.",
-          "notes": "Water runs when TVA releases from the flume — typically weekends and holidays in season. Check TVA schedule before going."
+          "notes": "Water runs when TVA releases from the flume \u2014 typically weekends and holidays in season. Check TVA schedule before going."
         },
         {
           "id": "ocoee-kayak-2",
@@ -686,7 +685,7 @@
           "latitude": 35.0681,
           "longitude": -84.5812,
           "description": "Take-out at the Ocoee No. 2 powerhouse. Ends the classic 5-mile Middle Ocoee run.",
-          "notes": "About 5 miles of continuous Class III-IV. Dozens of commercial outfitters operate on the Ocoee — shuttle services widely available."
+          "notes": "About 5 miles of continuous Class III-IV. Dozens of commercial outfitters operate on the Ocoee \u2014 shuttle services widely available."
         },
         {
           "id": "ocoee-kayak-3",
@@ -705,5 +704,5 @@
       "last_updated": ""
     }
   ],
-  "last_updated": "2026-05-18T21:07:28Z"
+  "last_updated": "2026-05-18T22:56:53Z"
 }
