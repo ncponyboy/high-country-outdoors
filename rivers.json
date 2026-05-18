@@ -350,6 +350,62 @@
       "condition": "low",
       "last_updated": "2026-05-18T21:07:28Z"
     }
+    ,
+    {
+      "id": "nantahala-river-nc",
+      "name": "Nantahala River",
+      "description": "One of the Southeast's most popular whitewater destinations. This dam-release gorge run offers consistent Class II-III paddling and culminates at the iconic Class IV Nantahala Falls just above the Nantahala Outdoor Center.",
+      "region": "Western NC",
+      "latitude": 35.3427,
+      "longitude": -83.5932,
+      "usgs_gauge_id": "03500000",
+      "activities": [
+        "kayaking",
+        "rafting",
+        "fishing"
+      ],
+      "difficulty": "Class II-IV",
+      "optimal_cfs_low": 600,
+      "optimal_cfs_high": 1000,
+      "high_cfs_threshold": 1500,
+      "flood_cfs_threshold": 2500,
+      "put_in": "Patton's Run, Wesser NC (above NOC)",
+      "website_url": "https://www.noc.com",
+      "access_points": [
+        {
+          "id": "nantahala-kayak-1",
+          "name": "Patton's Run Put-In",
+          "type": "kayak",
+          "latitude": 35.3512,
+          "longitude": -83.5841,
+          "description": "Main put-in for the classic Nantahala gorge run. Roadside access off US-19 with ample parking.",
+          "notes": "Most popular section is 8 miles to NOC. Outfitter shuttles available. Water is cold year-round — wetsuit recommended."
+        },
+        {
+          "id": "nantahala-kayak-2",
+          "name": "NOC Take-Out / Wesser",
+          "type": "kayak",
+          "latitude": 35.3341,
+          "longitude": -83.5973,
+          "description": "Take-out at the Nantahala Outdoor Center in Wesser. Ends directly below Nantahala Falls (Class IV). Full outfitter services on site.",
+          "notes": "Nantahala Falls is Class IV — scout or portage if uncertain. NOC has rentals, shuttles, food, and lodging."
+        },
+        {
+          "id": "nantahala-fishing-1",
+          "name": "Nantahala Gorge Trout Fishing",
+          "type": "fishing",
+          "latitude": 35.3480,
+          "longitude": -83.5900,
+          "description": "Cold, clear tailwater fishery below Nantahala Lake dam. Excellent stocked and wild rainbow and brown trout throughout the gorge.",
+          "notes": "NC fishing license required. Check NCWRC for delayed harvest and catch-and-release sections. Waders essential — water stays around 50°F year-round."
+        }
+      ],
+      "current_cfs": null,
+      "gauge_ft": null,
+      "trend": "unknown",
+      "condition": "unknown",
+      "last_updated": ""
+    }
   ],
   "last_updated": "2026-05-18T21:07:28Z"
 }
