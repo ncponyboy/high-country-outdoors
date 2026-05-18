@@ -2,8 +2,8 @@
   "rivers": [
     {
       "id": "new-river-nc",
-      "name": "New River",
-      "description": "One of the oldest rivers in the world. Gentle and scenic, perfect for tubing and canoeing through the High Country.",
+      "name": "South Fork New River",
+      "description": "One of the oldest rivers in the world. The South Fork flows through the NC High Country — gentle and scenic, perfect for tubing and canoeing.",
       "region": "High Country NC",
       "latitude": 36.4132,
       "longitude": -81.4764,
@@ -55,6 +55,63 @@
       "trend": "steady",
       "condition": "low",
       "last_updated": "2026-05-18T21:07:28Z"
+    },
+    {
+      "id": "new-river-galax-va",
+      "name": "New River",
+      "description": "The main stem New River flows through the Virginia Blue Ridge near Galax. One of the oldest rivers on Earth, offering classic flatwater paddling, excellent smallmouth bass fishing, and scenic mountain views.",
+      "region": "New River Valley VA",
+      "latitude": 36.6612,
+      "longitude": -80.9237,
+      "usgs_gauge_id": "03164000",
+      "gauge_location": "Near Galax, VA",
+      "activities": [
+        "kayaking",
+        "tubing",
+        "canoeing",
+        "fishing"
+      ],
+      "difficulty": "Class I-II",
+      "optimal_cfs_low": 300,
+      "optimal_cfs_high": 1500,
+      "high_cfs_threshold": 3000,
+      "flood_cfs_threshold": 6000,
+      "put_in": "Cliffview Access, Galax VA",
+      "website_url": "https://www.dcr.virginia.gov/state-parks/new-river-trail",
+      "access_points": [
+        {
+          "id": "new-river-galax-kayak-1",
+          "name": "Cliffview Access Put-In",
+          "type": "kayak",
+          "latitude": 36.6580,
+          "longitude": -80.9310,
+          "description": "Primary put-in near Galax with access to the New River Trail corridor. Parking and restrooms available.",
+          "notes": "New River Trail State Park. Day use fee applies. Shuttle service available seasonally."
+        },
+        {
+          "id": "new-river-galax-kayak-2",
+          "name": "Fries Junction Take-Out",
+          "type": "kayak",
+          "latitude": 36.7178,
+          "longitude": -80.9752,
+          "description": "Popular take-out at Fries Junction where the New River Trail crosses. Road access and parking on site.",
+          "notes": "Roughly 7 miles from Cliffview. Active rail-trail — watch for cyclists."
+        },
+        {
+          "id": "new-river-galax-fishing-1",
+          "name": "Galax Riverside Fishing",
+          "type": "fishing",
+          "latitude": 36.6621,
+          "longitude": -80.9198,
+          "description": "Excellent smallmouth bass and musky fishing along the Galax section. Deep pools and rocky structure hold big fish.",
+          "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
+        }
+      ],
+      "current_cfs": null,
+      "gauge_ft": null,
+      "trend": "unknown",
+      "condition": "unknown",
+      "last_updated": ""
     },
     {
       "id": "watauga-river-nc",
