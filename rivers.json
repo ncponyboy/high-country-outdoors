@@ -53,7 +53,7 @@
       "gauge_ft": 1.64,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-18T15:21:29Z"
+      "last_updated": "2026-05-18T17:56:36Z"
     },
     {
       "id": "watauga-river-nc",
@@ -116,7 +116,7 @@
       "gauge_ft": 1.42,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-18T15:21:29Z"
+      "last_updated": "2026-05-18T17:56:36Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -170,7 +170,7 @@
       "gauge_ft": 41.75,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-18T15:21:29Z"
+      "last_updated": "2026-05-18T17:56:36Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -285,7 +285,7 @@
       "gauge_ft": 0.81,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-18T15:21:29Z"
+      "last_updated": "2026-05-18T17:56:36Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -344,12 +344,12 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 35.5,
-      "gauge_ft": 0.66,
+      "current_cfs": 37.1,
+      "gauge_ft": 0.67,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-18T15:21:29Z"
+      "last_updated": "2026-05-18T17:56:36Z"
     }
   ],
-  "last_updated": "2026-05-18T15:21:29Z"
+  "last_updated": "2026-05-18T17:56:36Z"
 }
