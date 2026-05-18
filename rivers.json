@@ -8,6 +8,7 @@
       "latitude": 36.4132,
       "longitude": -81.4764,
       "usgs_gauge_id": "03161000",
+      "gauge_location": "South Fork near Jefferson, NC",
       "activities": [
         "kayaking",
         "tubing",
@@ -63,6 +64,7 @@
       "latitude": 36.234,
       "longitude": -81.806,
       "usgs_gauge_id": "03479000",
+      "gauge_location": "Near Sugar Grove, NC",
       "activities": [
         "kayaking",
         "fishing"
@@ -126,6 +128,7 @@
       "latitude": 36.1584,
       "longitude": -82.5485,
       "usgs_gauge_id": "03466500",
+      "gauge_location": "At Embreeville, TN (below gorge)",
       "activities": [
         "kayaking",
         "rafting"
@@ -180,6 +183,7 @@
       "latitude": 35.9547,
       "longitude": -81.723,
       "usgs_gauge_id": "02140510",
+      "gauge_location": "Near Mortimer, NC",
       "activities": [
         "kayaking"
       ],
@@ -242,6 +246,7 @@
       "latitude": 36.1589,
       "longitude": -81.983,
       "usgs_gauge_id": "02111180",
+      "gauge_location": "Near Elk Park, NC",
       "activities": [
         "kayaking"
       ],
@@ -295,6 +300,7 @@
       "latitude": 35.8453,
       "longitude": -82.1823,
       "usgs_gauge_id": "03463300",
+      "gauge_location": "Near Celo, NC",
       "activities": [
         "kayaking",
         "fishing"
@@ -359,6 +365,7 @@
       "latitude": 35.3427,
       "longitude": -83.5932,
       "usgs_gauge_id": "03505550",
+      "gauge_location": "Near Hewitt, NC (below gorge)",
       "activities": [
         "kayaking",
         "rafting",
