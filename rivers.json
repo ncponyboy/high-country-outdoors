@@ -469,6 +469,240 @@
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
+    },
+    {
+      "id": "french-broad-river-nc",
+      "name": "French Broad River",
+      "description": "A beloved river flowing from the NC mountains through Asheville and into Tennessee. The Hot Springs section offers scenic Class II-III paddling through a stunning gorge with natural hot springs nearby.",
+      "region": "Western NC",
+      "latitude": 35.8987,
+      "longitude": -82.8271,
+      "usgs_gauge_id": "03454500",
+      "gauge_location": "At Hot Springs, NC",
+      "activities": [
+        "kayaking",
+        "rafting",
+        "tubing",
+        "fishing",
+        "canoeing"
+      ],
+      "difficulty": "Class I-III",
+      "optimal_cfs_low": 500,
+      "optimal_cfs_high": 3000,
+      "high_cfs_threshold": 6000,
+      "flood_cfs_threshold": 12000,
+      "put_in": "Hot Springs River Access, Hot Springs NC",
+      "website_url": "https://www.paddling.com/plan/locations/french-broad-river",
+      "access_points": [
+        {
+          "id": "french-broad-kayak-1",
+          "name": "Hot Springs Put-In",
+          "type": "kayak",
+          "latitude": 35.8964,
+          "longitude": -82.8255,
+          "description": "Main put-in at the town of Hot Springs. Easy river access with parking adjacent to the Appalachian Trail crossing.",
+          "notes": "The gorge section upstream offers Class II-III. Below Hot Springs mellows to Class I-II toward TN."
+        },
+        {
+          "id": "french-broad-kayak-2",
+          "name": "Stackhouse Take-Out",
+          "type": "kayak",
+          "latitude": 35.9311,
+          "longitude": -82.8601,
+          "description": "Take-out at Stackhouse, NC. Ends the classic Hot Springs gorge run. Roadside access off US-25.",
+          "notes": "About 5 miles from the Hot Springs put-in. Shuttle required."
+        },
+        {
+          "id": "french-broad-fishing-1",
+          "name": "Hot Springs Riverside Fishing",
+          "type": "fishing",
+          "latitude": 35.8979,
+          "longitude": -82.8243,
+          "description": "Excellent smallmouth bass and musky fishing along the Hot Springs section. Deeper pools hold big fish year-round.",
+          "notes": "NC fishing license required. Check NCWRC for regulations. Wading is productive in summer low water."
+        },
+        {
+          "id": "french-broad-swimming-1",
+          "name": "Hot Springs Natural Pools",
+          "type": "swimming",
+          "latitude": 35.8991,
+          "longitude": -82.8267,
+          "description": "Natural geothermal hot springs along the riverbank managed by Hot Springs Resort. A unique soaking experience right on the river.",
+          "notes": "Fee required for resort pools. Some free natural seeps accessible from the river. Open year-round."
+        }
+      ],
+      "current_cfs": null,
+      "gauge_ft": null,
+      "trend": "unknown",
+      "condition": "unknown",
+      "last_updated": ""
+    },
+    {
+      "id": "pigeon-river-nc",
+      "name": "Pigeon River",
+      "description": "The Pigeon River Gorge is one of the Southeast's premier whitewater runs. Consistent Class III-IV rapids through a spectacular gorge on the NC/TN border, fed by controlled releases from the Waterville power plant.",
+      "region": "Western NC / Eastern TN",
+      "latitude": 35.7990,
+      "longitude": -83.1282,
+      "usgs_gauge_id": "03460795",
+      "gauge_location": "Below Waterville power plant, NC",
+      "activities": [
+        "kayaking",
+        "rafting"
+      ],
+      "difficulty": "Class III-IV",
+      "optimal_cfs_low": 400,
+      "optimal_cfs_high": 900,
+      "high_cfs_threshold": 1500,
+      "flood_cfs_threshold": 3000,
+      "put_in": "Waterville Put-In, Hartford TN",
+      "website_url": "https://www.nantahala-river.com/pigeon-river",
+      "access_points": [
+        {
+          "id": "pigeon-kayak-1",
+          "name": "Waterville Put-In",
+          "type": "kayak",
+          "latitude": 35.8021,
+          "longitude": -83.1354,
+          "description": "Primary put-in for the Gorge run below the Waterville power plant. Large gravel bar with easy river access.",
+          "notes": "Flow depends on power plant releases — check levels before launching. Outfitters in Hartford offer shuttles."
+        },
+        {
+          "id": "pigeon-kayak-2",
+          "name": "Hartford Take-Out",
+          "type": "kayak",
+          "latitude": 35.8143,
+          "longitude": -83.1487,
+          "description": "Main take-out at Hartford, TN near the I-40 exit. Multiple outfitters and parking along the river.",
+          "notes": "About 5 miles of Class III-IV whitewater from Waterville. Commercial rafting operations run daily in season."
+        },
+        {
+          "id": "pigeon-fishing-1",
+          "name": "Pigeon River Gorge Fishing",
+          "type": "fishing",
+          "latitude": 35.8063,
+          "longitude": -83.1401,
+          "description": "Good rainbow and brown trout fishing in the tailwater section below the power plant. Cold, clear water holds fish year-round.",
+          "notes": "NC/TN state line runs through this section — check which license applies. Wading can be dangerous during releases."
+        }
+      ],
+      "current_cfs": null,
+      "gauge_ft": null,
+      "trend": "unknown",
+      "condition": "unknown",
+      "last_updated": ""
+    },
+    {
+      "id": "hiwassee-river-tn",
+      "name": "Hiwassee River",
+      "description": "A beautiful dam-release river flowing through Cherokee National Forest in Tennessee. Known for excellent trout fishing and scenic flatwater paddling below Apalachia Dam, with the Hiwassee Scenic Railroad running alongside.",
+      "region": "Polk County TN",
+      "latitude": 35.1982,
+      "longitude": -84.5371,
+      "usgs_gauge_id": "03566000",
+      "gauge_location": "At Charleston, TN (below Apalachia Dam)",
+      "activities": [
+        "kayaking",
+        "rafting",
+        "tubing",
+        "fishing"
+      ],
+      "difficulty": "Class II-III",
+      "optimal_cfs_low": 900,
+      "optimal_cfs_high": 2500,
+      "high_cfs_threshold": 5000,
+      "flood_cfs_threshold": 10000,
+      "put_in": "Reliance Access, Reliance TN",
+      "website_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=35059",
+      "access_points": [
+        {
+          "id": "hiwassee-kayak-1",
+          "name": "Reliance Put-In",
+          "type": "kayak",
+          "latitude": 35.2011,
+          "longitude": -84.5298,
+          "description": "Primary put-in at Reliance, TN. Large USFS parking area with restrooms and easy river access.",
+          "notes": "Flow is dam-controlled — check TVA releases before launching. Most popular section runs to Patty Bridge."
+        },
+        {
+          "id": "hiwassee-kayak-2",
+          "name": "Patty Bridge Take-Out",
+          "type": "kayak",
+          "latitude": 35.1823,
+          "longitude": -84.5512,
+          "description": "Popular take-out at Patty Bridge. Ends the classic Reliance to Patty Bridge run through Cherokee National Forest.",
+          "notes": "About 5 miles from Reliance. Shuttle required. The Hiwassee Scenic Railroad runs alongside this section."
+        },
+        {
+          "id": "hiwassee-fishing-1",
+          "name": "Hiwassee Tailwater Trout Fishing",
+          "type": "fishing",
+          "latitude": 35.1994,
+          "longitude": -84.5334,
+          "description": "World-class tailwater trout fishery below Apalachia Dam. Consistent cold water supports large wild brown and rainbow trout year-round.",
+          "notes": "TN fishing license required. Check TWRA for catch-and-release sections. Wading can be hazardous during releases — watch for TVA warnings."
+        }
+      ],
+      "current_cfs": null,
+      "gauge_ft": null,
+      "trend": "unknown",
+      "condition": "unknown",
+      "last_updated": ""
+    },
+    {
+      "id": "ocoee-river-tn",
+      "name": "Ocoee River",
+      "description": "The Middle Ocoee is one of America's most famous whitewater runs — non-stop Class III-IV action that hosted the 1996 Olympic whitewater events. TVA-controlled releases through the Ocoee Gorge deliver consistent, exciting rapids.",
+      "region": "Polk County TN",
+      "latitude": 35.0743,
+      "longitude": -84.5571,
+      "usgs_gauge_id": "03563000",
+      "gauge_location": "Middle Ocoee at EMF, TN",
+      "activities": [
+        "kayaking",
+        "rafting"
+      ],
+      "difficulty": "Class III-IV",
+      "optimal_cfs_low": 1200,
+      "optimal_cfs_high": 2500,
+      "high_cfs_threshold": 4000,
+      "flood_cfs_threshold": 8000,
+      "put_in": "Ocoee Whitewater Center, Ocoee TN",
+      "website_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=35029",
+      "access_points": [
+        {
+          "id": "ocoee-kayak-1",
+          "name": "Ocoee Whitewater Center Put-In",
+          "type": "kayak",
+          "latitude": 35.0762,
+          "longitude": -84.5543,
+          "description": "The Olympic Whitewater Center built for the 1996 Games. Official put-in for the Middle Ocoee run. Large parking area with full facilities.",
+          "notes": "Water runs when TVA releases from the flume — typically weekends and holidays in season. Check TVA schedule before going."
+        },
+        {
+          "id": "ocoee-kayak-2",
+          "name": "Ocoee No. 2 Take-Out",
+          "type": "kayak",
+          "latitude": 35.0681,
+          "longitude": -84.5812,
+          "description": "Take-out at the Ocoee No. 2 powerhouse. Ends the classic 5-mile Middle Ocoee run.",
+          "notes": "About 5 miles of continuous Class III-IV. Dozens of commercial outfitters operate on the Ocoee — shuttle services widely available."
+        },
+        {
+          "id": "ocoee-kayak-3",
+          "name": "Upper Ocoee Olympic Course",
+          "type": "kayak",
+          "latitude": 35.0798,
+          "longitude": -84.5487,
+          "description": "The constructed Olympic slalom course used in the 1996 Atlanta Games. Still used for competition and training. Artificial course adjacent to the natural river.",
+          "notes": "Check USFS for public access and event schedules. Competition events may restrict public use."
+        }
+      ],
+      "current_cfs": null,
+      "gauge_ft": null,
+      "trend": "unknown",
+      "condition": "unknown",
+      "last_updated": ""
     }
   ],
   "last_updated": "2026-05-18T21:07:28Z"
