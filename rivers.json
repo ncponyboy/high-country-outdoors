@@ -598,8 +598,8 @@
       "region": "Polk County TN",
       "latitude": 35.1982,
       "longitude": -84.5371,
-      "usgs_gauge_id": "03566000",
-      "gauge_location": "At Charleston, TN (below Apalachia Dam)",
+      "usgs_gauge_id": "03544970",
+      "gauge_location": "Near Hiawassee, GA (upper section)",
       "activities": [
         "kayaking",
         "rafting",
@@ -655,8 +655,8 @@
       "region": "Polk County TN",
       "latitude": 35.0743,
       "longitude": -84.5571,
-      "usgs_gauge_id": "03563000",
-      "gauge_location": "Middle Ocoee at EMF, TN",
+      "usgs_gauge_id": "03559500",
+      "gauge_location": "At Copperhill, TN (below the gorge)",
       "activities": [
         "kayaking",
         "rafting"
