@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T12:03:34Z",
+  "last_updated": "2026-05-19T13:58:09Z",
   "resorts": [
     {
       "id": "sugar-mountain-resort",
@@ -7,18 +7,18 @@
       "region": "High Country NC",
       "latitude": 36.1156,
       "longitude": -81.8687,
+      "website_url": "https://www.sugarmtn.com",
+      "onthesnow_url": "https://www.onthesnow.com/north-carolina/sugar-mountain-resort/skireport",
       "status": "closed",
       "base_depth_low": null,
       "base_depth_high": null,
       "new_snow_72h": 0.0,
       "open_trails": 0,
-      "total_trails": 20,
+      "total_trails": 0,
       "open_lifts": 0,
-      "total_lifts": 7,
+      "total_lifts": 0,
       "surface": null,
-      "last_updated": "2026-05-19T12:03:34Z",
-      "website_url": "https://www.sugarmtn.com",
-      "onthesnow_url": "https://www.onthesnow.com/north-carolina/sugar-mountain-resort/skireport"
+      "last_updated": "2026-05-19T13:58:09Z"
     },
     {
       "id": "beech-mountain-resort",
@@ -26,18 +26,18 @@
       "region": "High Country NC",
       "latitude": 36.1901,
       "longitude": -81.8782,
+      "website_url": "https://www.skibeechmountain.com",
+      "onthesnow_url": "https://www.onthesnow.com/north-carolina/beech-mountain-resort/skireport",
       "status": "closed",
       "base_depth_low": null,
       "base_depth_high": null,
       "new_snow_72h": 0.0,
       "open_trails": 0,
-      "total_trails": 17,
+      "total_trails": 0,
       "open_lifts": 0,
-      "total_lifts": 10,
+      "total_lifts": 0,
       "surface": null,
-      "last_updated": "2026-05-19T12:03:34Z",
-      "website_url": "https://www.skibeechmountain.com",
-      "onthesnow_url": "https://www.onthesnow.com/north-carolina/beech-mountain-resort/skireport"
+      "last_updated": "2026-05-19T13:58:09Z"
     },
     {
       "id": "appalachian-ski-mountain",
@@ -45,18 +45,18 @@
       "region": "High Country NC",
       "latitude": 36.1353,
       "longitude": -81.6832,
+      "website_url": "https://www.appskimtn.com",
+      "onthesnow_url": "https://www.onthesnow.com/north-carolina/appalachian-ski-mountain/skireport",
       "status": "closed",
       "base_depth_low": null,
       "base_depth_high": null,
       "new_snow_72h": 0.0,
       "open_trails": 0,
-      "total_trails": 9,
+      "total_trails": 0,
       "open_lifts": 0,
-      "total_lifts": 6,
+      "total_lifts": 0,
       "surface": null,
-      "last_updated": "2026-05-19T12:03:34Z",
-      "website_url": "https://www.appskimtn.com",
-      "onthesnow_url": "https://www.onthesnow.com/north-carolina/appalachian-ski-mountain/skireport"
+      "last_updated": "2026-05-19T13:58:09Z"
     },
     {
       "id": "ober-mountain",
@@ -64,18 +64,18 @@
       "region": "Great Smoky Mountains TN",
       "latitude": 35.7143,
       "longitude": -83.5102,
+      "website_url": "https://www.obergatlinburg.com",
+      "onthesnow_url": "https://www.onthesnow.com/tennessee/ober-mountain/skireport",
       "status": "closed",
       "base_depth_low": null,
       "base_depth_high": null,
       "new_snow_72h": 0.0,
       "open_trails": 0,
-      "total_trails": 10,
+      "total_trails": 0,
       "open_lifts": 0,
-      "total_lifts": 4,
+      "total_lifts": 0,
       "surface": null,
-      "last_updated": "2026-05-19T12:03:34Z",
-      "website_url": "https://www.obergatlinburg.com",
-      "onthesnow_url": "https://www.onthesnow.com/tennessee/ober-mountain/skireport"
+      "last_updated": "2026-05-19T13:58:09Z"
     }
   ]
 }
