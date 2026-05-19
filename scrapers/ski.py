@@ -372,6 +372,11 @@ def scrape_all() -> list[dict]:
     return results
 
 
+def is_ski_season() -> bool:
+    """Ski season for NC/TN: November through March."""
+    return datetime.now(timezone.utc).month in (11, 12, 1, 2, 3)
+
+
 def main():
     parser = argparse.ArgumentParser(description="High Country Outdoors — Ski Conditions Scraper")
     parser.add_argument("--dry-run", action="store_true", help="Print output without writing to disk")
@@ -380,7 +385,11 @@ def main():
     print("🎿 High Country Outdoors — Ski Conditions Scraper")
     print(f"   Output: {OUTPUT_PATH}")
 
-    resorts = scrape_all()
+    if not is_ski_season():
+        print("  ℹ Off-season (Apr–Oct) — marking all resorts closed without scraping.")
+        resorts = [closed_resort(entry) for entry in RESORT_REGISTRY.values()]
+    else:
+        resorts = scrape_all()
 
     output = {
         "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
