@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T13:35:25Z",
+  "last_updated": "2026-05-24T12:06:01Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -120,14 +120,7 @@
         "last_updated": "2026-03-13T07:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [
-        {
-          "id": "6d1932ad-2a77-4484-9e73-bb7453d8a36b",
-          "type": "flood",
-          "message": "Recent heavy rain (1.6\") \u2014 water crossings may be elevated",
-          "posted": "2026-05-22T13:33:16Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48970"
     },
     {
@@ -240,14 +233,7 @@
         "last_updated": "2026-03-13T08:30:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [
-        {
-          "id": "f0376643-246b-4b8b-982e-5b4ac377166a",
-          "type": "flood",
-          "message": "Recent heavy rain (1.3\") \u2014 water crossings may be elevated",
-          "posted": "2026-05-22T13:33:18Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48960"
     },
     {
@@ -360,14 +346,7 @@
         "last_updated": "2026-03-14T07:30:00Z",
         "source": "USFS Cherokee"
       },
-      "alerts": [
-        {
-          "id": "81457ac2-17a9-47b9-beb6-334ddf879d11",
-          "type": "flood",
-          "message": "Recent heavy rain (1.3\") \u2014 water crossings may be elevated",
-          "posted": "2026-05-22T13:33:21Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34850"
     },
     {
