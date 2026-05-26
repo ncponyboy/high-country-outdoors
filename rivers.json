@@ -50,11 +50,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 443.0,
-      "gauge_ft": 2.43,
+      "current_cfs": 423.0,
+      "gauge_ft": 2.39,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-26T16:38:59Z"
+      "last_updated": "2026-05-26T19:15:14Z"
     },
     {
       "id": "new-river-galax-va",
@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 2180.0,
-      "gauge_ft": 2.06,
+      "current_cfs": 2100.0,
+      "gauge_ft": 2.02,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-05-26T16:38:59Z"
+      "last_updated": "2026-05-26T19:15:14Z"
     },
     {
       "id": "watauga-river-nc",
@@ -171,11 +171,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 130.0,
-      "gauge_ft": 1.9,
+      "current_cfs": 125.0,
+      "gauge_ft": 1.88,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-26T16:38:59Z"
+      "last_updated": "2026-05-26T19:15:14Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -226,11 +226,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 2330.0,
-      "gauge_ft": 42.84,
+      "current_cfs": 2350.0,
+      "gauge_ft": 42.85,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-05-26T16:38:59Z"
+      "last_updated": "2026-05-26T19:15:14Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -290,7 +290,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 4.28,
+      "gauge_ft": 4.12,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -343,11 +343,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 93.1,
-      "gauge_ft": 1.22,
+      "current_cfs": 88.2,
+      "gauge_ft": 1.2,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-26T16:38:59Z"
+      "last_updated": "2026-05-26T19:15:14Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -407,11 +407,11 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 273.0,
-      "gauge_ft": 1.41,
+      "current_cfs": 283.0,
+      "gauge_ft": 1.43,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-26T16:38:59Z"
+      "last_updated": "2026-05-26T19:15:14Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -463,11 +463,11 @@
           "notes": "NC fishing license required. Check NCWRC for delayed harvest and catch-and-release sections. Waders essential \u2014 water stays around 50\u00b0F year-round."
         }
       ],
-      "current_cfs": 692.0,
-      "gauge_ft": 2.79,
+      "current_cfs": 679.0,
+      "gauge_ft": 2.77,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-26T16:38:59Z"
+      "last_updated": "2026-05-26T19:15:14Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -534,7 +534,7 @@
       "gauge_ft": 5.0,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-05-26T16:38:59Z"
+      "last_updated": "2026-05-26T19:15:14Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -585,11 +585,11 @@
           "notes": "NC/TN state line runs through this section \u2014 check which license applies. Wading can be dangerous during releases."
         }
       ],
-      "current_cfs": 2280.0,
-      "gauge_ft": 9.73,
+      "current_cfs": 2260.0,
+      "gauge_ft": 9.72,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-05-26T16:38:59Z"
+      "last_updated": "2026-05-26T19:15:14Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -642,11 +642,11 @@
           "notes": "TN fishing license required. Check TWRA for catch-and-release sections. Wading can be hazardous during releases \u2014 watch for TVA warnings."
         }
       ],
-      "current_cfs": 118.0,
-      "gauge_ft": 3.2,
+      "current_cfs": 114.0,
+      "gauge_ft": 3.17,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-26T16:38:59Z"
+      "last_updated": "2026-05-26T19:15:14Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -697,12 +697,12 @@
           "notes": "Check USFS for public access and event schedules. Competition events may restrict public use."
         }
       ],
-      "current_cfs": 347.0,
-      "gauge_ft": 2.73,
+      "current_cfs": 329.0,
+      "gauge_ft": 2.7,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-26T16:38:59Z"
+      "last_updated": "2026-05-26T19:15:14Z"
     }
   ],
-  "last_updated": "2026-05-26T16:38:59Z"
+  "last_updated": "2026-05-26T19:15:14Z"
 }
