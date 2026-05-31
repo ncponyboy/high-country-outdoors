@@ -50,11 +50,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 234.0,
-      "gauge_ft": 1.95,
+      "current_cfs": 230.0,
+      "gauge_ft": 1.94,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-31T17:58:06Z"
+      "last_updated": "2026-05-31T19:21:58Z"
     },
     {
       "id": "new-river-galax-va",
@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 987.0,
-      "gauge_ft": 1.37,
+      "current_cfs": 973.0,
+      "gauge_ft": 1.36,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-31T17:58:06Z"
+      "last_updated": "2026-05-31T19:21:58Z"
     },
     {
       "id": "watauga-river-nc",
@@ -175,7 +175,7 @@
       "gauge_ft": 1.63,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-31T17:58:06Z"
+      "last_updated": "2026-05-31T19:21:58Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -226,11 +226,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 1370.0,
-      "gauge_ft": 42.35,
+      "current_cfs": 1360.0,
+      "gauge_ft": 42.34,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-05-31T17:58:06Z"
+      "last_updated": "2026-05-31T19:21:58Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -290,7 +290,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 3.08,
+      "gauge_ft": 3.09,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -345,9 +345,9 @@
       ],
       "current_cfs": 43.6,
       "gauge_ft": 0.97,
-      "trend": "falling",
+      "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-31T17:58:06Z"
+      "last_updated": "2026-05-31T19:21:58Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -407,11 +407,11 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 96.5,
-      "gauge_ft": 0.95,
+      "current_cfs": 93.8,
+      "gauge_ft": 0.94,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-31T17:58:06Z"
+      "last_updated": "2026-05-31T19:21:58Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -467,7 +467,7 @@
       "gauge_ft": 2.76,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-05-31T17:58:06Z"
+      "last_updated": "2026-05-31T19:21:58Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -534,7 +534,7 @@
       "gauge_ft": 3.52,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-05-31T17:58:06Z"
+      "last_updated": "2026-05-31T19:21:58Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -585,11 +585,11 @@
           "notes": "NC/TN state line runs through this section \u2014 check which license applies. Wading can be dangerous during releases."
         }
       ],
-      "current_cfs": 326.0,
-      "gauge_ft": 7.5,
+      "current_cfs": 322.0,
+      "gauge_ft": 7.49,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-31T17:58:06Z"
+      "last_updated": "2026-05-31T19:21:58Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -642,11 +642,11 @@
           "notes": "TN fishing license required. Check TWRA for catch-and-release sections. Wading can be hazardous during releases \u2014 watch for TVA warnings."
         }
       ],
-      "current_cfs": 84.3,
-      "gauge_ft": 2.95,
+      "current_cfs": 85.5,
+      "gauge_ft": 2.96,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-31T17:58:06Z"
+      "last_updated": "2026-05-31T19:21:58Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -701,8 +701,8 @@
       "gauge_ft": 2.6,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-05-31T17:58:06Z"
+      "last_updated": "2026-05-31T19:21:58Z"
     }
   ],
-  "last_updated": "2026-05-31T17:58:06Z"
+  "last_updated": "2026-05-31T19:21:58Z"
 }
