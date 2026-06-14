@@ -50,11 +50,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 150.0,
-      "gauge_ft": 1.7,
+      "current_cfs": 147.0,
+      "gauge_ft": 1.69,
       "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-06-14T08:12:19Z"
+      "condition": "low",
+      "last_updated": "2026-06-14T11:27:04Z"
     },
     {
       "id": "new-river-galax-va",
@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 608.0,
-      "gauge_ft": 1.07,
+      "current_cfs": 586.0,
+      "gauge_ft": 1.05,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-14T08:12:19Z"
+      "last_updated": "2026-06-14T11:27:04Z"
     },
     {
       "id": "watauga-river-nc",
@@ -171,11 +171,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 41.6,
-      "gauge_ft": 1.43,
+      "current_cfs": 40.4,
+      "gauge_ft": 1.42,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-14T08:12:19Z"
+      "last_updated": "2026-06-14T11:27:04Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -230,7 +230,7 @@
       "gauge_ft": 41.85,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-14T08:12:19Z"
+      "last_updated": "2026-06-14T11:27:04Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -290,7 +290,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.78,
+      "gauge_ft": 2.77,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -343,11 +343,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 29.1,
-      "gauge_ft": 0.86,
+      "current_cfs": 30.2,
+      "gauge_ft": 0.87,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-14T08:12:19Z"
+      "last_updated": "2026-06-14T11:27:04Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -411,7 +411,7 @@
       "gauge_ft": 0.71,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-14T08:12:19Z"
+      "last_updated": "2026-06-14T11:27:04Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -467,7 +467,7 @@
       "gauge_ft": 1.25,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-14T08:12:19Z"
+      "last_updated": "2026-06-14T11:27:04Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -530,11 +530,11 @@
           "notes": "Fee required for resort pools. Some free natural seeps accessible from the river. Open year-round."
         }
       ],
-      "current_cfs": 1730.0,
-      "gauge_ft": 3.06,
+      "current_cfs": 1600.0,
+      "gauge_ft": 3.01,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-14T08:12:19Z"
+      "last_updated": "2026-06-14T11:27:04Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -589,7 +589,7 @@
       "gauge_ft": 6.92,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-14T08:12:19Z"
+      "last_updated": "2026-06-14T11:27:04Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -646,7 +646,7 @@
       "gauge_ft": 2.71,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-14T08:12:19Z"
+      "last_updated": "2026-06-14T11:27:04Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -697,12 +697,12 @@
           "notes": "Check USFS for public access and event schedules. Competition events may restrict public use."
         }
       ],
-      "current_cfs": 484.0,
-      "gauge_ft": 2.9,
-      "trend": "falling",
+      "current_cfs": 276.0,
+      "gauge_ft": 2.55,
+      "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-14T08:12:19Z"
+      "last_updated": "2026-06-14T11:27:04Z"
     }
   ],
-  "last_updated": "2026-06-14T08:12:19Z"
+  "last_updated": "2026-06-14T11:27:04Z"
 }
