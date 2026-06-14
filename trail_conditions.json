@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T12:55:07Z",
+  "last_updated": "2026-06-14T13:02:38Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -317,7 +317,14 @@
         "last_updated": "2026-03-12T12:00:00Z",
         "source": "USFS Cherokee"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "73182f48-d8e2-4a01-b711-a8c08c84e676",
+          "type": "flood",
+          "message": "Recent heavy rain (1.6\") \u2014 water crossings may be elevated",
+          "posted": "2026-06-14T13:00:34Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34830"
     },
     {
