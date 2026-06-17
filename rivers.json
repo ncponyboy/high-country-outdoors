@@ -50,11 +50,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 141.0,
-      "gauge_ft": 1.67,
+      "current_cfs": 138.0,
+      "gauge_ft": 1.66,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-17T16:36:18Z"
+      "last_updated": "2026-06-17T19:22:52Z"
     },
     {
       "id": "new-river-galax-va",
@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 586.0,
-      "gauge_ft": 1.05,
+      "current_cfs": 565.0,
+      "gauge_ft": 1.03,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-17T16:36:18Z"
+      "last_updated": "2026-06-17T19:22:52Z"
     },
     {
       "id": "watauga-river-nc",
@@ -171,11 +171,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 44.2,
-      "gauge_ft": 1.45,
+      "current_cfs": 45.5,
+      "gauge_ft": 1.46,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-17T16:36:18Z"
+      "last_updated": "2026-06-17T19:22:52Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -226,11 +226,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 594.0,
-      "gauge_ft": 41.82,
+      "current_cfs": 582.0,
+      "gauge_ft": 41.81,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-17T16:36:18Z"
+      "last_updated": "2026-06-17T19:22:52Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -290,7 +290,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.73,
+      "gauge_ft": 2.74,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -343,11 +343,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 26.8,
-      "gauge_ft": 0.84,
+      "current_cfs": 22.7,
+      "gauge_ft": 0.8,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-17T16:36:18Z"
+      "last_updated": "2026-06-17T19:22:52Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -407,11 +407,11 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 41.9,
-      "gauge_ft": 0.7,
+      "current_cfs": 40.2,
+      "gauge_ft": 0.69,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-17T16:36:18Z"
+      "last_updated": "2026-06-17T19:22:52Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -467,7 +467,7 @@
       "gauge_ft": 2.71,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-17T16:36:18Z"
+      "last_updated": "2026-06-17T19:22:52Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -530,11 +530,11 @@
           "notes": "Fee required for resort pools. Some free natural seeps accessible from the river. Open year-round."
         }
       ],
-      "current_cfs": 1110.0,
-      "gauge_ft": 2.78,
+      "current_cfs": 1090.0,
+      "gauge_ft": 2.77,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-17T16:36:18Z"
+      "last_updated": "2026-06-17T19:22:52Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -589,7 +589,7 @@
       "gauge_ft": 8.88,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-06-17T16:36:18Z"
+      "last_updated": "2026-06-17T19:22:52Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -646,7 +646,7 @@
       "gauge_ft": 2.67,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-17T16:36:18Z"
+      "last_updated": "2026-06-17T19:22:52Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -701,8 +701,8 @@
       "gauge_ft": 2.52,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-17T16:36:18Z"
+      "last_updated": "2026-06-17T19:22:52Z"
     }
   ],
-  "last_updated": "2026-06-17T16:36:18Z"
+  "last_updated": "2026-06-17T19:22:52Z"
 }
