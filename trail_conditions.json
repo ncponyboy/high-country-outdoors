@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T14:28:59Z",
+  "last_updated": "2026-06-18T14:15:13Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -604,7 +604,14 @@
         "last_updated": "2026-03-13T09:30:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "0ff97e0a-19a9-4cf5-bbb1-6432323fdddc",
+          "type": "flood",
+          "message": "Recent heavy rain (2.4\") \u2014 water crossings may be elevated",
+          "posted": "2026-06-18T14:15:11Z"
+        }
+      ],
       "source_url": "https://vacreepertrail.com"
     },
     {
@@ -660,7 +667,14 @@
         "last_updated": "2026-03-13T10:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "2f585f4b-ae7f-4e3b-906b-a9087e6e8e8b",
+          "type": "flood",
+          "message": "Recent heavy rain (1.5\") \u2014 water crossings may be elevated",
+          "posted": "2026-06-18T14:15:12Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7085"
     },
     {
