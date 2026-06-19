@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T14:15:13Z",
+  "last_updated": "2026-06-19T14:16:19Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -575,7 +575,14 @@
         "last_updated": "2026-03-14T08:30:00Z",
         "source": "VA DCR Grayson Highlands"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "90ad6817-cc20-46a7-ae5e-100ed0df8d80",
+          "type": "flood",
+          "message": "Recent heavy rain (1.0\") \u2014 water crossings may be elevated",
+          "posted": "2026-06-19T14:16:16Z"
+        }
+      ],
       "source_url": "https://www.dcr.virginia.gov/state-parks/grayson-highlands"
     },
     {
@@ -604,14 +611,7 @@
         "last_updated": "2026-03-13T09:30:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [
-        {
-          "id": "0ff97e0a-19a9-4cf5-bbb1-6432323fdddc",
-          "type": "flood",
-          "message": "Recent heavy rain (2.4\") \u2014 water crossings may be elevated",
-          "posted": "2026-06-18T14:15:11Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://vacreepertrail.com"
     },
     {
@@ -669,10 +669,10 @@
       },
       "alerts": [
         {
-          "id": "2f585f4b-ae7f-4e3b-906b-a9087e6e8e8b",
+          "id": "5eb0eda9-4f93-46cd-83de-b7a2153af552",
           "type": "flood",
-          "message": "Recent heavy rain (1.5\") \u2014 water crossings may be elevated",
-          "posted": "2026-06-18T14:15:12Z"
+          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
+          "posted": "2026-06-19T14:16:18Z"
         }
       ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7085"
@@ -702,7 +702,14 @@
         "last_updated": "2026-03-12T09:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "8b4ba5ce-c898-48b3-a92a-ab23f5e608c0",
+          "type": "flood",
+          "message": "Recent heavy rain (1.8\") \u2014 water crossings may be elevated",
+          "posted": "2026-06-19T14:16:18Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7095"
     },
     {
