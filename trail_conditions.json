@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T14:16:19Z",
+  "last_updated": "2026-06-20T12:55:14Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -575,14 +575,7 @@
         "last_updated": "2026-03-14T08:30:00Z",
         "source": "VA DCR Grayson Highlands"
       },
-      "alerts": [
-        {
-          "id": "90ad6817-cc20-46a7-ae5e-100ed0df8d80",
-          "type": "flood",
-          "message": "Recent heavy rain (1.0\") \u2014 water crossings may be elevated",
-          "posted": "2026-06-19T14:16:16Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.dcr.virginia.gov/state-parks/grayson-highlands"
     },
     {
@@ -667,14 +660,7 @@
         "last_updated": "2026-03-13T10:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [
-        {
-          "id": "5eb0eda9-4f93-46cd-83de-b7a2153af552",
-          "type": "flood",
-          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
-          "posted": "2026-06-19T14:16:18Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7085"
     },
     {
@@ -702,14 +688,7 @@
         "last_updated": "2026-03-12T09:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [
-        {
-          "id": "8b4ba5ce-c898-48b3-a92a-ab23f5e608c0",
-          "type": "flood",
-          "message": "Recent heavy rain (1.8\") \u2014 water crossings may be elevated",
-          "posted": "2026-06-19T14:16:18Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7095"
     },
     {
