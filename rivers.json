@@ -50,11 +50,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 135.0,
-      "gauge_ft": 1.75,
+      "current_cfs": 132.0,
+      "gauge_ft": 1.74,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-20T15:43:28Z"
+      "last_updated": "2026-06-20T17:21:51Z"
     },
     {
       "id": "new-river-galax-va",
@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 1270.0,
-      "gauge_ft": 1.55,
+      "current_cfs": 1220.0,
+      "gauge_ft": 1.52,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-20T15:43:28Z"
+      "last_updated": "2026-06-20T17:21:51Z"
     },
     {
       "id": "watauga-river-nc",
@@ -175,7 +175,7 @@
       "gauge_ft": 1.46,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-20T15:43:28Z"
+      "last_updated": "2026-06-20T17:21:51Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -230,7 +230,7 @@
       "gauge_ft": 42.06,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-20T15:43:28Z"
+      "last_updated": "2026-06-20T17:21:51Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -343,11 +343,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 22.7,
-      "gauge_ft": 0.82,
+      "current_cfs": 23.7,
+      "gauge_ft": 0.83,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-20T15:43:28Z"
+      "last_updated": "2026-06-20T17:21:51Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -407,11 +407,11 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 38.6,
-      "gauge_ft": 0.68,
+      "current_cfs": 40.2,
+      "gauge_ft": 0.69,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-20T15:43:28Z"
+      "last_updated": "2026-06-20T17:21:51Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -463,11 +463,11 @@
           "notes": "NC fishing license required. Check NCWRC for delayed harvest and catch-and-release sections. Waders essential \u2014 water stays around 50\u00b0F year-round."
         }
       ],
-      "current_cfs": 639.0,
-      "gauge_ft": 2.71,
+      "current_cfs": 646.0,
+      "gauge_ft": 2.72,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-20T15:43:28Z"
+      "last_updated": "2026-06-20T17:21:51Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -534,7 +534,7 @@
       "gauge_ft": 2.88,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-20T15:43:28Z"
+      "last_updated": "2026-06-20T17:21:51Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -585,11 +585,11 @@
           "notes": "NC/TN state line runs through this section \u2014 check which license applies. Wading can be dangerous during releases."
         }
       ],
-      "current_cfs": 147.0,
-      "gauge_ft": 6.95,
+      "current_cfs": 1340.0,
+      "gauge_ft": 8.94,
       "trend": "steady",
-      "condition": "low",
-      "last_updated": "2026-06-20T15:43:28Z"
+      "condition": "high",
+      "last_updated": "2026-06-20T17:21:51Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -642,11 +642,11 @@
           "notes": "TN fishing license required. Check TWRA for catch-and-release sections. Wading can be hazardous during releases \u2014 watch for TVA warnings."
         }
       ],
-      "current_cfs": 63.1,
-      "gauge_ft": 2.76,
+      "current_cfs": 64.2,
+      "gauge_ft": 2.77,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-20T15:43:28Z"
+      "last_updated": "2026-06-20T17:21:51Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -701,8 +701,8 @@
       "gauge_ft": 2.53,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-20T15:43:28Z"
+      "last_updated": "2026-06-20T17:21:51Z"
     }
   ],
-  "last_updated": "2026-06-20T15:43:28Z"
+  "last_updated": "2026-06-20T17:21:51Z"
 }
