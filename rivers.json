@@ -54,7 +54,7 @@
       "gauge_ft": 1.66,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-21T20:21:27Z"
+      "last_updated": "2026-06-22T00:06:56Z"
     },
     {
       "id": "new-river-galax-va",
@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 721.0,
-      "gauge_ft": 1.17,
+      "current_cfs": 698.0,
+      "gauge_ft": 1.15,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-21T20:21:27Z"
+      "last_updated": "2026-06-22T00:06:56Z"
     },
     {
       "id": "watauga-river-nc",
@@ -171,11 +171,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 41.6,
-      "gauge_ft": 1.43,
+      "current_cfs": 40.4,
+      "gauge_ft": 1.42,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-21T20:21:27Z"
+      "last_updated": "2026-06-22T00:06:56Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -230,7 +230,7 @@
       "gauge_ft": 41.89,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-21T20:21:27Z"
+      "last_updated": "2026-06-22T00:06:56Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -290,7 +290,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.72,
+      "gauge_ft": 2.7,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -347,7 +347,7 @@
       "gauge_ft": 0.77,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-21T20:21:27Z"
+      "last_updated": "2026-06-22T00:06:56Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -407,11 +407,11 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 37.1,
-      "gauge_ft": 0.67,
+      "current_cfs": 35.5,
+      "gauge_ft": 0.66,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-21T20:21:27Z"
+      "last_updated": "2026-06-22T00:06:56Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -463,11 +463,11 @@
           "notes": "NC fishing license required. Check NCWRC for delayed harvest and catch-and-release sections. Waders essential \u2014 water stays around 50\u00b0F year-round."
         }
       ],
-      "current_cfs": 639.0,
-      "gauge_ft": 2.71,
-      "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-06-21T20:21:27Z"
+      "current_cfs": 94.4,
+      "gauge_ft": 1.37,
+      "trend": "falling",
+      "condition": "low",
+      "last_updated": "2026-06-22T00:06:56Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -530,11 +530,11 @@
           "notes": "Fee required for resort pools. Some free natural seeps accessible from the river. Open year-round."
         }
       ],
-      "current_cfs": 1140.0,
-      "gauge_ft": 2.8,
+      "current_cfs": 1090.0,
+      "gauge_ft": 2.77,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-06-21T20:21:27Z"
+      "last_updated": "2026-06-22T00:06:56Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -585,11 +585,11 @@
           "notes": "NC/TN state line runs through this section \u2014 check which license applies. Wading can be dangerous during releases."
         }
       ],
-      "current_cfs": 135.0,
-      "gauge_ft": 6.9,
+      "current_cfs": 1280.0,
+      "gauge_ft": 8.88,
       "trend": "steady",
-      "condition": "low",
-      "last_updated": "2026-06-21T20:21:27Z"
+      "condition": "high",
+      "last_updated": "2026-06-22T00:06:56Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -642,11 +642,11 @@
           "notes": "TN fishing license required. Check TWRA for catch-and-release sections. Wading can be hazardous during releases \u2014 watch for TVA warnings."
         }
       ],
-      "current_cfs": 56.2,
-      "gauge_ft": 2.69,
+      "current_cfs": 54.3,
+      "gauge_ft": 2.67,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-06-21T20:21:27Z"
+      "last_updated": "2026-06-22T00:06:56Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -697,12 +697,12 @@
           "notes": "Check USFS for public access and event schedules. Competition events may restrict public use."
         }
       ],
-      "current_cfs": 259.0,
-      "gauge_ft": 2.5,
-      "trend": "steady",
-      "condition": "low",
-      "last_updated": "2026-06-21T20:21:27Z"
+      "current_cfs": 1430.0,
+      "gauge_ft": 3.79,
+      "trend": "rising",
+      "condition": "optimal",
+      "last_updated": "2026-06-22T00:06:56Z"
     }
   ],
-  "last_updated": "2026-06-21T20:21:27Z"
+  "last_updated": "2026-06-22T00:06:56Z"
 }
