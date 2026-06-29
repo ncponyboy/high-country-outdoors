@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T12:20:15Z",
+  "last_updated": "2026-06-29T14:51:16Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -662,10 +662,10 @@
       },
       "alerts": [
         {
-          "id": "c64dff20-767f-4698-a8d4-cfe46404cfdc",
+          "id": "d6c11efd-fab5-418c-8b84-ec4b12c2899a",
           "type": "flood",
-          "message": "Recent heavy rain (1.9\") \u2014 water crossings may be elevated",
-          "posted": "2026-06-28T12:20:14Z"
+          "message": "Recent heavy rain (1.4\") \u2014 water crossings may be elevated",
+          "posted": "2026-06-29T14:51:15Z"
         }
       ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7085"
@@ -695,14 +695,7 @@
         "last_updated": "2026-03-12T09:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [
-        {
-          "id": "6d646d69-7460-4422-9b22-06cfa035420b",
-          "type": "flood",
-          "message": "Recent heavy rain (1.0\") \u2014 water crossings may be elevated",
-          "posted": "2026-06-28T12:20:15Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7095"
     },
     {
