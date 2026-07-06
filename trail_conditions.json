@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T12:21:49Z",
+  "last_updated": "2026-07-06T14:32:02Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -34,7 +34,14 @@
         "last_updated": "2026-03-13T08:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "534f25d8-7800-46a4-9a95-acded2a36a7c",
+          "type": "flood",
+          "message": "Recent heavy rain (1.6\") \u2014 water crossings may be elevated",
+          "posted": "2026-07-06T14:29:52Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48952"
     },
     {
@@ -63,7 +70,14 @@
         "last_updated": "2026-03-12T14:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "e8abe521-0291-419a-b006-efe7eaf18438",
+          "type": "flood",
+          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
+          "posted": "2026-07-06T14:29:53Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48910"
     },
     {
@@ -120,14 +134,7 @@
         "last_updated": "2026-03-13T07:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [
-        {
-          "id": "2d0f7ae0-542e-4a5d-8e54-c88134162199",
-          "type": "flood",
-          "message": "Recent heavy rain (1.2\") \u2014 water crossings may be elevated",
-          "posted": "2026-07-05T12:19:39Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48970"
     },
     {
@@ -184,7 +191,14 @@
         "last_updated": "2026-03-13T10:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "64b67e5c-6a7e-4989-90a6-e401ccd470ee",
+          "type": "flood",
+          "message": "Recent heavy rain (3.0\") \u2014 water crossings may be elevated",
+          "posted": "2026-07-06T14:29:55Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=49001"
     },
     {
