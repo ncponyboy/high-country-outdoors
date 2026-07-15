@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 1030.0,
-      "gauge_ft": 1.4,
+      "current_cfs": 1020.0,
+      "gauge_ft": 1.39,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-15T22:55:25Z"
+      "last_updated": "2026-07-15T23:56:04Z"
     },
     {
       "id": "watauga-river-nc",
@@ -530,11 +530,11 @@
           "notes": "Fee required for resort pools. Some free natural seeps accessible from the river. Open year-round."
         }
       ],
-      "current_cfs": 1460.0,
-      "gauge_ft": 2.95,
+      "current_cfs": 1430.0,
+      "gauge_ft": 2.94,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-15T22:55:25Z"
+      "last_updated": "2026-07-15T23:56:04Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -585,11 +585,11 @@
           "notes": "NC/TN state line runs through this section \u2014 check which license applies. Wading can be dangerous during releases."
         }
       ],
-      "current_cfs": 1450.0,
-      "gauge_ft": 9.04,
+      "current_cfs": null,
+      "gauge_ft": null,
       "trend": "unknown",
-      "condition": "high",
-      "last_updated": "2026-07-15T22:55:25Z"
+      "condition": "unknown",
+      "last_updated": ""
     },
     {
       "id": "hiwassee-river-tn",
@@ -704,5 +704,5 @@
       "last_updated": ""
     }
   ],
-  "last_updated": "2026-07-15T22:55:25Z"
+  "last_updated": "2026-07-15T23:56:04Z"
 }
