@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T12:19:14Z",
+  "last_updated": "2026-07-15T12:21:02Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -63,14 +63,7 @@
         "last_updated": "2026-03-12T14:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [
-        {
-          "id": "ee8d5bfa-6d7d-4dc9-897e-2e1ef8205551",
-          "type": "flood",
-          "message": "Recent heavy rain (1.2\") \u2014 water crossings may be elevated",
-          "posted": "2026-07-14T12:17:06Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48910"
     },
     {
