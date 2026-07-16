@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 987.0,
-      "gauge_ft": 1.37,
+      "current_cfs": 930.0,
+      "gauge_ft": 1.33,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-16T02:27:29Z"
+      "last_updated": "2026-07-16T05:35:44Z"
     },
     {
       "id": "watauga-river-nc",
@@ -226,11 +226,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 3130.0,
-      "gauge_ft": 43.19,
+      "current_cfs": 3060.0,
+      "gauge_ft": 43.16,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-07-16T02:27:29Z"
+      "last_updated": "2026-07-16T05:35:44Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -530,11 +530,11 @@
           "notes": "Fee required for resort pools. Some free natural seeps accessible from the river. Open year-round."
         }
       ],
-      "current_cfs": 1410.0,
-      "gauge_ft": 2.93,
+      "current_cfs": 1370.0,
+      "gauge_ft": 2.91,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-16T02:27:29Z"
+      "last_updated": "2026-07-16T05:35:44Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -704,5 +704,5 @@
       "last_updated": ""
     }
   ],
-  "last_updated": "2026-07-16T02:27:29Z"
+  "last_updated": "2026-07-16T05:35:44Z"
 }
