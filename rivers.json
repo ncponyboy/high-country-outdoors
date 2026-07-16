@@ -111,7 +111,7 @@
       "gauge_ft": 1.28,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-16T10:54:36Z"
+      "last_updated": "2026-07-16T12:17:53Z"
     },
     {
       "id": "watauga-river-nc",
@@ -230,7 +230,7 @@
       "gauge_ft": 42.97,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-07-16T10:54:36Z"
+      "last_updated": "2026-07-16T12:17:53Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -530,11 +530,11 @@
           "notes": "Fee required for resort pools. Some free natural seeps accessible from the river. Open year-round."
         }
       ],
-      "current_cfs": 1300.0,
-      "gauge_ft": 2.88,
+      "current_cfs": 1280.0,
+      "gauge_ft": 2.87,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-16T10:54:36Z"
+      "last_updated": "2026-07-16T12:17:53Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -704,5 +704,5 @@
       "last_updated": ""
     }
   ],
-  "last_updated": "2026-07-16T10:54:36Z"
+  "last_updated": "2026-07-16T12:17:53Z"
 }
