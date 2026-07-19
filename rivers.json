@@ -54,7 +54,7 @@
       "gauge_ft": 1.64,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-07-19T14:50:57Z"
+      "last_updated": "2026-07-19T15:53:20Z"
     },
     {
       "id": "new-river-galax-va",
@@ -111,7 +111,7 @@
       "gauge_ft": 0.99,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-19T14:50:57Z"
+      "last_updated": "2026-07-19T15:53:20Z"
     },
     {
       "id": "watauga-river-nc",
@@ -175,7 +175,7 @@
       "gauge_ft": 1.58,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-07-19T14:50:57Z"
+      "last_updated": "2026-07-19T15:53:20Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -230,7 +230,7 @@
       "gauge_ft": 42.23,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-19T14:50:57Z"
+      "last_updated": "2026-07-19T15:53:20Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -290,7 +290,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.93,
+      "gauge_ft": 2.92,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -347,7 +347,7 @@
       "gauge_ft": 0.89,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-07-19T14:50:57Z"
+      "last_updated": "2026-07-19T15:53:20Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -411,7 +411,7 @@
       "gauge_ft": 0.92,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-19T14:50:57Z"
+      "last_updated": "2026-07-19T15:53:20Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -465,9 +465,9 @@
       ],
       "current_cfs": 639.0,
       "gauge_ft": 2.71,
-      "trend": "rising",
+      "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-19T14:50:57Z"
+      "last_updated": "2026-07-19T15:53:20Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -534,7 +534,7 @@
       "gauge_ft": 2.73,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-19T14:50:57Z"
+      "last_updated": "2026-07-19T15:53:20Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -589,7 +589,7 @@
       "gauge_ft": 7.21,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-07-19T14:50:57Z"
+      "last_updated": "2026-07-19T15:53:20Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -646,7 +646,7 @@
       "gauge_ft": 2.52,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-07-19T14:50:57Z"
+      "last_updated": "2026-07-19T15:53:20Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -701,8 +701,8 @@
       "gauge_ft": 2.48,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-07-19T14:50:57Z"
+      "last_updated": "2026-07-19T15:53:20Z"
     }
   ],
-  "last_updated": "2026-07-19T14:50:57Z"
+  "last_updated": "2026-07-19T15:53:20Z"
 }
