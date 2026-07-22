@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T12:26:40Z",
+  "last_updated": "2026-07-22T12:29:18Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -205,7 +205,14 @@
         "last_updated": "2026-03-12T08:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "1a123700-75bd-4fed-a072-05beffdb241e",
+          "type": "flood",
+          "message": "Recent heavy rain (1.0\") \u2014 water crossings may be elevated",
+          "posted": "2026-07-22T12:27:10Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48915"
     },
     {
@@ -546,7 +553,14 @@
         "last_updated": "2026-03-14T08:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "a7c9570d-35a1-421c-9363-a8fcf33149df",
+          "type": "flood",
+          "message": "Recent heavy rain (1.5\") \u2014 water crossings may be elevated",
+          "posted": "2026-07-22T12:29:14Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7075"
     },
     {
@@ -575,7 +589,14 @@
         "last_updated": "2026-03-14T08:30:00Z",
         "source": "VA DCR Grayson Highlands"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "01490fda-a482-4cfc-b5fb-09283755ec34",
+          "type": "flood",
+          "message": "Recent heavy rain (2.7\") \u2014 water crossings may be elevated",
+          "posted": "2026-07-22T12:29:15Z"
+        }
+      ],
       "source_url": "https://www.dcr.virginia.gov/state-parks/grayson-highlands"
     },
     {
@@ -632,7 +653,14 @@
         "last_updated": "2026-03-12T11:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "8f731fd7-49a2-4fab-89f5-91f5960ef82b",
+          "type": "flood",
+          "message": "Recent heavy rain (2.2\") \u2014 water crossings may be elevated",
+          "posted": "2026-07-22T12:29:16Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7090"
     },
     {
@@ -660,7 +688,14 @@
         "last_updated": "2026-03-13T10:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "2af9ce4f-a296-4c6b-8353-a9e543f07ed1",
+          "type": "flood",
+          "message": "Recent heavy rain (1.6\") \u2014 water crossings may be elevated",
+          "posted": "2026-07-22T12:29:17Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7085"
     },
     {
@@ -688,7 +723,14 @@
         "last_updated": "2026-03-12T09:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "58e2c08f-c266-4c96-80ed-dd5615c452f3",
+          "type": "flood",
+          "message": "Recent heavy rain (2.4\") \u2014 water crossings may be elevated",
+          "posted": "2026-07-22T12:29:17Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7095"
     },
     {
@@ -716,7 +758,14 @@
         "last_updated": "2026-03-13T08:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "73d98d42-885c-4a88-ac40-a9c031632977",
+          "type": "flood",
+          "message": "Recent heavy rain (1.8\") \u2014 water crossings may be elevated",
+          "posted": "2026-07-22T12:29:18Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7100"
     }
   ]
