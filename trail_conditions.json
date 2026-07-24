@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T12:27:49Z",
+  "last_updated": "2026-07-24T12:24:39Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -65,10 +65,10 @@
       },
       "alerts": [
         {
-          "id": "74a83100-e875-4673-9c4d-4708fcacb561",
+          "id": "7c012e5f-3a3d-4306-b370-bb0257e28ffa",
           "type": "flood",
-          "message": "Recent heavy rain (1.9\") \u2014 water crossings may be elevated",
-          "posted": "2026-07-23T12:25:38Z"
+          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
+          "posted": "2026-07-24T12:22:27Z"
         }
       ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48910"
@@ -127,14 +127,7 @@
         "last_updated": "2026-03-13T07:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [
-        {
-          "id": "f36fd88f-0835-4d0a-93da-1f1b35f96377",
-          "type": "flood",
-          "message": "Recent heavy rain (2.4\") \u2014 water crossings may be elevated",
-          "posted": "2026-07-23T12:25:40Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48970"
     },
     {
@@ -193,10 +186,10 @@
       },
       "alerts": [
         {
-          "id": "ab1a38eb-0236-40b9-8d26-cb21a3d37702",
+          "id": "a1d9c26e-8d60-4c82-bd7d-76e30373450c",
           "type": "flood",
-          "message": "Recent heavy rain (1.2\") \u2014 water crossings may be elevated",
-          "posted": "2026-07-23T12:25:41Z"
+          "message": "Recent heavy rain (2.8\") \u2014 water crossings may be elevated",
+          "posted": "2026-07-24T12:22:30Z"
         }
       ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=49001"
@@ -226,14 +219,7 @@
         "last_updated": "2026-03-12T08:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [
-        {
-          "id": "7e8a567b-f7f2-46c2-a306-1dc0c448d697",
-          "type": "flood",
-          "message": "Recent heavy rain (2.0\") \u2014 water crossings may be elevated",
-          "posted": "2026-07-23T12:25:41Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48915"
     },
     {
@@ -632,14 +618,7 @@
         "last_updated": "2026-03-13T09:30:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [
-        {
-          "id": "d02b21e9-30ab-4bd0-b6c1-65f42d68726f",
-          "type": "flood",
-          "message": "Recent heavy rain (1.4\") \u2014 water crossings may be elevated",
-          "posted": "2026-07-23T12:27:46Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://vacreepertrail.com"
     },
     {
@@ -667,14 +646,7 @@
         "last_updated": "2026-03-12T11:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [
-        {
-          "id": "f27c8b4c-885c-4d17-b779-a1945ce3ba67",
-          "type": "flood",
-          "message": "Recent heavy rain (1.4\") \u2014 water crossings may be elevated",
-          "posted": "2026-07-23T12:27:47Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7090"
     },
     {
@@ -702,14 +674,7 @@
         "last_updated": "2026-03-13T10:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [
-        {
-          "id": "359876bd-f03c-45d4-9c65-a72d551ca840",
-          "type": "flood",
-          "message": "Recent heavy rain (2.1\") \u2014 water crossings may be elevated",
-          "posted": "2026-07-23T12:27:48Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7085"
     },
     {
@@ -737,14 +702,7 @@
         "last_updated": "2026-03-12T09:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [
-        {
-          "id": "1c30e4e4-cad4-4287-94b5-8875685cb8b6",
-          "type": "flood",
-          "message": "Recent heavy rain (1.4\") \u2014 water crossings may be elevated",
-          "posted": "2026-07-23T12:27:48Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7095"
     },
     {
@@ -772,14 +730,7 @@
         "last_updated": "2026-03-13T08:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [
-        {
-          "id": "10ad57ee-627e-4877-b47a-cb8e4ccafa5b",
-          "type": "flood",
-          "message": "Recent heavy rain (1.9\") \u2014 water crossings may be elevated",
-          "posted": "2026-07-23T12:27:49Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7100"
     }
   ]
