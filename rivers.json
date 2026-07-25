@@ -50,11 +50,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 230.0,
-      "gauge_ft": 2.04,
+      "current_cfs": 227.0,
+      "gauge_ft": 2.03,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-25T14:58:37Z"
+      "last_updated": "2026-07-25T16:07:06Z"
     },
     {
       "id": "new-river-galax-va",
@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 1120.0,
-      "gauge_ft": 1.46,
+      "current_cfs": 1110.0,
+      "gauge_ft": 1.45,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-25T14:58:37Z"
+      "last_updated": "2026-07-25T16:07:06Z"
     },
     {
       "id": "watauga-river-nc",
@@ -175,7 +175,7 @@
       "gauge_ft": 1.69,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-07-25T14:58:37Z"
+      "last_updated": "2026-07-25T16:07:06Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -226,11 +226,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 2660.0,
-      "gauge_ft": 42.99,
+      "current_cfs": 2600.0,
+      "gauge_ft": 42.96,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-07-25T14:58:37Z"
+      "last_updated": "2026-07-25T16:07:06Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -290,7 +290,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 3.38,
+      "gauge_ft": 3.37,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -347,7 +347,7 @@
       "gauge_ft": 0.96,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-07-25T14:58:37Z"
+      "last_updated": "2026-07-25T16:07:06Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -407,11 +407,11 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 293.0,
-      "gauge_ft": 1.45,
+      "current_cfs": 299.0,
+      "gauge_ft": 1.46,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-25T14:58:37Z"
+      "last_updated": "2026-07-25T16:07:06Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -467,7 +467,7 @@
       "gauge_ft": 2.83,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-25T14:58:37Z"
+      "last_updated": "2026-07-25T16:07:06Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -530,11 +530,11 @@
           "notes": "Fee required for resort pools. Some free natural seeps accessible from the river. Open year-round."
         }
       ],
-      "current_cfs": 3800.0,
-      "gauge_ft": 3.58,
+      "current_cfs": 3520.0,
+      "gauge_ft": 3.52,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-07-25T14:58:37Z"
+      "last_updated": "2026-07-25T16:07:06Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -585,11 +585,11 @@
           "notes": "NC/TN state line runs through this section \u2014 check which license applies. Wading can be dangerous during releases."
         }
       ],
-      "current_cfs": 897.0,
-      "gauge_ft": 8.44,
+      "current_cfs": 1550.0,
+      "gauge_ft": 9.14,
       "trend": "steady",
-      "condition": "optimal",
-      "last_updated": "2026-07-25T14:58:37Z"
+      "condition": "high",
+      "last_updated": "2026-07-25T16:07:06Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -646,7 +646,7 @@
       "gauge_ft": 2.66,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-07-25T14:58:37Z"
+      "last_updated": "2026-07-25T16:07:06Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -697,12 +697,12 @@
           "notes": "Check USFS for public access and event schedules. Competition events may restrict public use."
         }
       ],
-      "current_cfs": 1540.0,
-      "gauge_ft": 3.88,
-      "trend": "rising",
+      "current_cfs": 1770.0,
+      "gauge_ft": 4.08,
+      "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-07-25T14:58:37Z"
+      "last_updated": "2026-07-25T16:07:06Z"
     }
   ],
-  "last_updated": "2026-07-25T14:58:37Z"
+  "last_updated": "2026-07-25T16:07:06Z"
 }
