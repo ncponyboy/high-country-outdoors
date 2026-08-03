@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T12:07:45Z",
+  "last_updated": "2026-08-03T13:45:20Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -34,14 +34,7 @@
         "last_updated": "2026-03-13T08:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [
-        {
-          "id": "7520d5da-92cf-4e52-95f9-df55d080ca94",
-          "type": "flood",
-          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-02T12:05:37Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48952"
     },
     {
@@ -70,14 +63,7 @@
         "last_updated": "2026-03-12T14:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [
-        {
-          "id": "c5b9be61-2f58-475f-ae1a-414254d40e62",
-          "type": "flood",
-          "message": "Recent heavy rain (3.7\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-02T12:05:37Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48910"
     },
     {
@@ -107,10 +93,10 @@
       },
       "alerts": [
         {
-          "id": "188542dc-64c9-413d-bc5c-0f94833002a5",
+          "id": "630d3e71-86fd-4c2b-bac6-c2a697c50661",
           "type": "flood",
-          "message": "Recent heavy rain (1.7\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-02T12:05:38Z"
+          "message": "Recent heavy rain (1.8\") \u2014 water crossings may be elevated",
+          "posted": "2026-08-03T13:43:12Z"
         }
       ],
       "source_url": "https://www.nps.gov/blri/planyourvisit/beacon-heights.htm"
@@ -171,10 +157,10 @@
       },
       "alerts": [
         {
-          "id": "32afc623-dcab-43ff-af8f-4a27fdadfc16",
+          "id": "d066f7db-e24e-4af6-a95f-5cbf0ad13286",
           "type": "flood",
-          "message": "Recent heavy rain (1.9\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-02T12:05:38Z"
+          "message": "Recent heavy rain (1.6\") \u2014 water crossings may be elevated",
+          "posted": "2026-08-03T13:43:13Z"
         }
       ],
       "source_url": "https://grandfathermtn.com/grandfather-trail/"
@@ -233,14 +219,7 @@
         "last_updated": "2026-03-12T08:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [
-        {
-          "id": "cf9ef483-153c-4668-88e9-2d53256a6245",
-          "type": "flood",
-          "message": "Recent heavy rain (3.4\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-02T12:05:39Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48915"
     },
     {
@@ -270,10 +249,10 @@
       },
       "alerts": [
         {
-          "id": "1657ef56-3f14-4d16-9f5a-5a1ade301ef5",
+          "id": "fc17dbc5-07fd-4596-b278-4c87413f54cd",
           "type": "flood",
-          "message": "Recent heavy rain (1.0\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-02T12:05:40Z"
+          "message": "Recent heavy rain (1.2\") \u2014 water crossings may be elevated",
+          "posted": "2026-08-03T13:43:14Z"
         }
       ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48960"
@@ -305,10 +284,10 @@
       },
       "alerts": [
         {
-          "id": "094ad18f-0cb1-44f9-a7b8-818b1bf876d7",
+          "id": "6095de34-21ea-460a-8f45-202969a98e60",
           "type": "flood",
-          "message": "Recent heavy rain (1.9\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-02T12:05:40Z"
+          "message": "Recent heavy rain (1.6\") \u2014 water crossings may be elevated",
+          "posted": "2026-08-03T13:43:15Z"
         }
       ],
       "source_url": "https://www.nps.gov/blri/planyourvisit/linn-cove-viaduct.htm"
@@ -339,14 +318,7 @@
         "last_updated": "2026-03-11T16:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [
-        {
-          "id": "cefa8df1-7d30-4970-bebc-d510f2c31cc5",
-          "type": "flood",
-          "message": "Recent heavy rain (1.8\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-02T12:05:40Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48930"
     },
     {
@@ -375,10 +347,10 @@
       },
       "alerts": [
         {
-          "id": "54544349-0c79-4369-95cb-8c4b2d5acb49",
+          "id": "2e6ca1f4-bc03-4c71-86b3-8e6b772589d5",
           "type": "flood",
-          "message": "Recent heavy rain (1.9\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-02T12:05:41Z"
+          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
+          "posted": "2026-08-03T13:43:16Z"
         }
       ],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34830"
@@ -411,10 +383,10 @@
       },
       "alerts": [
         {
-          "id": "24af7877-7b63-4a65-936d-bd4074cedd82",
+          "id": "e957dbdf-728f-46d6-9b5b-40adeaf711ed",
           "type": "flood",
-          "message": "Recent heavy rain (1.0\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-02T12:05:41Z"
+          "message": "Recent heavy rain (1.2\") \u2014 water crossings may be elevated",
+          "posted": "2026-08-03T13:43:16Z"
         }
       ],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34850"
@@ -444,7 +416,14 @@
         "last_updated": "2026-03-13T09:00:00Z",
         "source": "USFS Cherokee"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "a72b1070-6587-4ced-a749-f08091a4c89d",
+          "type": "flood",
+          "message": "Recent heavy rain (1.2\") \u2014 water crossings may be elevated",
+          "posted": "2026-08-03T13:43:17Z"
+        }
+      ],
       "source_url": "https://www.appalachiantrail.org"
     },
     {
@@ -473,10 +452,10 @@
       },
       "alerts": [
         {
-          "id": "524a907a-bbc5-4724-be5b-e462fe09b784",
+          "id": "d5f2b324-6744-485e-9c0f-bcf91274e50c",
           "type": "flood",
-          "message": "Recent heavy rain (1.8\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-02T12:05:42Z"
+          "message": "Recent heavy rain (1.5\") \u2014 water crossings may be elevated",
+          "posted": "2026-08-03T13:43:17Z"
         }
       ],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34820"
