@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T13:06:40Z",
+  "last_updated": "2026-08-05T12:59:28Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -91,14 +91,7 @@
         "last_updated": "2026-03-13T09:00:00Z",
         "source": "NPS Blue Ridge Parkway"
       },
-      "alerts": [
-        {
-          "id": "164b33c6-74a6-4056-8497-8881326aa065",
-          "type": "flood",
-          "message": "Recent heavy rain (2.1\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-04T13:04:33Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.nps.gov/blri/planyourvisit/beacon-heights.htm"
     },
     {
@@ -127,14 +120,7 @@
         "last_updated": "2026-03-13T07:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [
-        {
-          "id": "7bfd6148-35b1-4c5e-ab2f-aa8fa4b4849e",
-          "type": "flood",
-          "message": "Recent heavy rain (1.9\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-04T13:04:33Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48970"
     },
     {
@@ -247,7 +233,14 @@
         "last_updated": "2026-03-13T08:30:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "f3cb6dd8-546c-40d9-a52a-52cda17286cd",
+          "type": "flood",
+          "message": "Recent heavy rain (3.7\") \u2014 water crossings may be elevated",
+          "posted": "2026-08-05T12:57:21Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48960"
     },
     {
