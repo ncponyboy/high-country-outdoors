@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T11:51:12Z",
+  "last_updated": "2026-08-08T11:34:35Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -34,14 +34,7 @@
         "last_updated": "2026-03-13T08:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [
-        {
-          "id": "f844eea4-744b-4eb5-b70b-5882e7d4d9e3",
-          "type": "flood",
-          "message": "Recent heavy rain (1.3\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-07T11:49:04Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48952"
     },
     {
@@ -98,14 +91,7 @@
         "last_updated": "2026-03-13T09:00:00Z",
         "source": "NPS Blue Ridge Parkway"
       },
-      "alerts": [
-        {
-          "id": "e68807ac-c09b-49ec-a479-53e6f013cce0",
-          "type": "flood",
-          "message": "Recent heavy rain (1.3\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-07T11:49:05Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.nps.gov/blri/planyourvisit/beacon-heights.htm"
     },
     {
@@ -162,14 +148,7 @@
         "last_updated": "2026-03-14T07:00:00Z",
         "source": "Grandfather Mountain State Park"
       },
-      "alerts": [
-        {
-          "id": "22f24c0d-521f-4400-a9f4-6e22a594431e",
-          "type": "flood",
-          "message": "Recent heavy rain (1.5\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-07T11:49:05Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://grandfathermtn.com/grandfather-trail/"
     },
     {
@@ -282,14 +261,7 @@
         "last_updated": "2026-03-14T09:00:00Z",
         "source": "NPS Blue Ridge Parkway"
       },
-      "alerts": [
-        {
-          "id": "9107a1c9-0072-4b4d-a51a-2e7ea372ab05",
-          "type": "flood",
-          "message": "Recent heavy rain (1.5\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-07T11:49:07Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.nps.gov/blri/planyourvisit/linn-cove-viaduct.htm"
     },
     {
