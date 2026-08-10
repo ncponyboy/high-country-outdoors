@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T11:36:05Z",
+  "last_updated": "2026-08-10T11:53:00Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -148,14 +148,7 @@
         "last_updated": "2026-03-14T07:00:00Z",
         "source": "Grandfather Mountain State Park"
       },
-      "alerts": [
-        {
-          "id": "9fb3c518-96b2-4749-a3b0-a727c43ec58a",
-          "type": "flood",
-          "message": "Recent heavy rain (1.3\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-09T11:33:12Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://grandfathermtn.com/grandfather-trail/"
     },
     {
@@ -184,14 +177,7 @@
         "last_updated": "2026-03-13T10:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [
-        {
-          "id": "1336adf6-2bfb-4ced-a45e-ca1e8de569b8",
-          "type": "flood",
-          "message": "Recent heavy rain (2.3\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-09T11:33:13Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=49001"
     },
     {
@@ -275,14 +261,7 @@
         "last_updated": "2026-03-14T09:00:00Z",
         "source": "NPS Blue Ridge Parkway"
       },
-      "alerts": [
-        {
-          "id": "3df0452b-0cef-4953-8753-222e6becda25",
-          "type": "flood",
-          "message": "Recent heavy rain (1.3\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-09T11:33:15Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.nps.gov/blri/planyourvisit/linn-cove-viaduct.htm"
     },
     {
