@@ -54,7 +54,7 @@
       "gauge_ft": 2.19,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-12T21:39:45Z"
+      "last_updated": "2026-08-12T22:35:00Z"
     },
     {
       "id": "new-river-galax-va",
@@ -111,7 +111,7 @@
       "gauge_ft": 1.45,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-12T21:39:45Z"
+      "last_updated": "2026-08-12T22:35:00Z"
     },
     {
       "id": "watauga-river-nc",
@@ -175,7 +175,7 @@
       "gauge_ft": 1.98,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-12T21:39:45Z"
+      "last_updated": "2026-08-12T22:35:00Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -230,7 +230,7 @@
       "gauge_ft": 42.61,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-08-12T21:39:45Z"
+      "last_updated": "2026-08-12T22:35:00Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -290,7 +290,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 3.39,
+      "gauge_ft": 3.37,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -343,11 +343,11 @@
           "notes": "Shallow entry \u2014 check depth before jumping. No facilities nearby."
         }
       ],
-      "current_cfs": 40.7,
-      "gauge_ft": 0.97,
+      "current_cfs": 39.3,
+      "gauge_ft": 0.96,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-12T21:39:45Z"
+      "last_updated": "2026-08-12T22:35:00Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -411,7 +411,7 @@
       "gauge_ft": 0.95,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-12T21:39:45Z"
+      "last_updated": "2026-08-12T22:35:00Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -464,10 +464,10 @@
         }
       ],
       "current_cfs": 692.0,
-      "gauge_ft": 2.79,
+      "gauge_ft": 2.78,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-12T21:39:45Z"
+      "last_updated": "2026-08-12T22:35:00Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -530,11 +530,11 @@
           "notes": "Fee required for resort pools. Some free natural seeps accessible from the river. Open year-round."
         }
       ],
-      "current_cfs": 1830.0,
-      "gauge_ft": 3.05,
+      "current_cfs": 1780.0,
+      "gauge_ft": 3.03,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-12T21:39:45Z"
+      "last_updated": "2026-08-12T22:35:00Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -642,11 +642,11 @@
           "notes": "TN fishing license required. Check TWRA for catch-and-release sections. Wading can be hazardous during releases \u2014 watch for TVA warnings."
         }
       ],
-      "current_cfs": 109.0,
-      "gauge_ft": 3.18,
+      "current_cfs": 105.0,
+      "gauge_ft": 3.15,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-12T21:39:45Z"
+      "last_updated": "2026-08-12T22:35:00Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -701,8 +701,8 @@
       "gauge_ft": 3.25,
       "trend": "rising",
       "condition": "low",
-      "last_updated": "2026-08-12T21:39:45Z"
+      "last_updated": "2026-08-12T22:35:00Z"
     }
   ],
-  "last_updated": "2026-08-12T21:39:45Z"
+  "last_updated": "2026-08-12T22:35:00Z"
 }
