@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T11:50:11Z",
+  "last_updated": "2026-08-15T11:26:01Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -120,14 +120,7 @@
         "last_updated": "2026-03-13T07:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [
-        {
-          "id": "de0d54f4-d1aa-4d13-8fa1-c1ab1e4ebaeb",
-          "type": "flood",
-          "message": "Recent heavy rain (1.0\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-14T11:47:59Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48970"
     },
     {
@@ -611,14 +604,7 @@
         "last_updated": "2026-03-13T09:30:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [
-        {
-          "id": "f618d6b6-38f5-4873-8d36-b832168c5e24",
-          "type": "flood",
-          "message": "Recent heavy rain (1.0\") \u2014 water crossings may be elevated",
-          "posted": "2026-08-14T11:50:08Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://vacreepertrail.com"
     },
     {
