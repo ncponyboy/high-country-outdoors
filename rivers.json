@@ -50,11 +50,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 195.0,
-      "gauge_ft": 1.92,
+      "current_cfs": 191.0,
+      "gauge_ft": 1.91,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-20T07:36:29Z"
+      "last_updated": "2026-08-20T08:31:50Z"
     },
     {
       "id": "new-river-galax-va",
@@ -111,7 +111,7 @@
       "gauge_ft": 1.28,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-20T07:36:29Z"
+      "last_updated": "2026-08-20T08:31:50Z"
     },
     {
       "id": "watauga-river-nc",
@@ -175,7 +175,7 @@
       "gauge_ft": 1.66,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-20T07:36:29Z"
+      "last_updated": "2026-08-20T08:31:50Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -230,7 +230,7 @@
       "gauge_ft": 42.24,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-20T07:36:29Z"
+      "last_updated": "2026-08-20T08:31:50Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -347,7 +347,7 @@
       "gauge_ft": 0.9,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-20T07:36:29Z"
+      "last_updated": "2026-08-20T08:31:50Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -411,7 +411,7 @@
       "gauge_ft": 0.84,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-20T07:36:29Z"
+      "last_updated": "2026-08-20T08:31:50Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -467,7 +467,7 @@
       "gauge_ft": 1.29,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-20T07:36:29Z"
+      "last_updated": "2026-08-20T08:31:50Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -534,7 +534,7 @@
       "gauge_ft": 2.81,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-20T07:36:29Z"
+      "last_updated": "2026-08-20T08:31:50Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -589,7 +589,7 @@
       "gauge_ft": 7.1,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-20T07:36:29Z"
+      "last_updated": "2026-08-20T08:31:50Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -642,11 +642,11 @@
           "notes": "TN fishing license required. Check TWRA for catch-and-release sections. Wading can be hazardous during releases \u2014 watch for TVA warnings."
         }
       ],
-      "current_cfs": 55.3,
-      "gauge_ft": 2.72,
+      "current_cfs": 56.2,
+      "gauge_ft": 2.73,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-20T07:36:29Z"
+      "last_updated": "2026-08-20T08:31:50Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -697,12 +697,12 @@
           "notes": "Check USFS for public access and event schedules. Competition events may restrict public use."
         }
       ],
-      "current_cfs": 411.0,
-      "gauge_ft": 2.79,
+      "current_cfs": 341.0,
+      "gauge_ft": 2.68,
       "trend": "falling",
       "condition": "low",
-      "last_updated": "2026-08-20T07:36:29Z"
+      "last_updated": "2026-08-20T08:31:50Z"
     }
   ],
-  "last_updated": "2026-08-20T07:36:29Z"
+  "last_updated": "2026-08-20T08:31:50Z"
 }
