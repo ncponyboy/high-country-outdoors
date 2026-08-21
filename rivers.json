@@ -54,7 +54,7 @@
       "gauge_ft": 1.9,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-21T02:57:49Z"
+      "last_updated": "2026-08-21T03:51:44Z"
     },
     {
       "id": "new-river-galax-va",
@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 822.0,
-      "gauge_ft": 1.25,
+      "current_cfs": 809.0,
+      "gauge_ft": 1.24,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-21T02:57:49Z"
+      "last_updated": "2026-08-21T03:51:44Z"
     },
     {
       "id": "watauga-river-nc",
@@ -175,7 +175,7 @@
       "gauge_ft": 1.65,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-21T02:57:49Z"
+      "last_updated": "2026-08-21T03:51:44Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -226,11 +226,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 1130.0,
-      "gauge_ft": 42.16,
+      "current_cfs": 1110.0,
+      "gauge_ft": 42.15,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-21T02:57:49Z"
+      "last_updated": "2026-08-21T03:51:44Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -347,7 +347,7 @@
       "gauge_ft": 0.9,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-21T02:57:49Z"
+      "last_updated": "2026-08-21T03:51:44Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -411,7 +411,7 @@
       "gauge_ft": 0.82,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-21T02:57:49Z"
+      "last_updated": "2026-08-21T03:51:44Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -463,11 +463,11 @@
           "notes": "NC fishing license required. Check NCWRC for delayed harvest and catch-and-release sections. Waders essential \u2014 water stays around 50\u00b0F year-round."
         }
       ],
-      "current_cfs": 212.0,
-      "gauge_ft": 1.82,
+      "current_cfs": 92.4,
+      "gauge_ft": 1.36,
       "trend": "falling",
       "condition": "low",
-      "last_updated": "2026-08-21T02:57:49Z"
+      "last_updated": "2026-08-21T03:51:44Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -530,11 +530,11 @@
           "notes": "Fee required for resort pools. Some free natural seeps accessible from the river. Open year-round."
         }
       ],
-      "current_cfs": 1160.0,
-      "gauge_ft": 2.76,
+      "current_cfs": 1140.0,
+      "gauge_ft": 2.75,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-21T02:57:49Z"
+      "last_updated": "2026-08-21T03:51:44Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -585,11 +585,11 @@
           "notes": "NC/TN state line runs through this section \u2014 check which license applies. Wading can be dangerous during releases."
         }
       ],
-      "current_cfs": 178.0,
-      "gauge_ft": 7.07,
+      "current_cfs": 175.0,
+      "gauge_ft": 7.06,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-21T02:57:49Z"
+      "last_updated": "2026-08-21T03:51:44Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -646,7 +646,7 @@
       "gauge_ft": 2.69,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-21T02:57:49Z"
+      "last_updated": "2026-08-21T03:51:44Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -697,12 +697,12 @@
           "notes": "Check USFS for public access and event schedules. Competition events may restrict public use."
         }
       ],
-      "current_cfs": 1720.0,
-      "gauge_ft": 4.03,
+      "current_cfs": 1260.0,
+      "gauge_ft": 3.64,
       "trend": "falling",
       "condition": "optimal",
-      "last_updated": "2026-08-21T02:57:49Z"
+      "last_updated": "2026-08-21T03:51:44Z"
     }
   ],
-  "last_updated": "2026-08-21T02:57:49Z"
+  "last_updated": "2026-08-21T03:51:44Z"
 }
