@@ -50,11 +50,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 276.0,
-      "gauge_ft": 2.15,
+      "current_cfs": 268.0,
+      "gauge_ft": 2.13,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-23T04:31:39Z"
+      "last_updated": "2026-08-23T05:24:09Z"
     },
     {
       "id": "new-river-galax-va",
@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 1140.0,
-      "gauge_ft": 1.47,
+      "current_cfs": 1120.0,
+      "gauge_ft": 1.46,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-23T04:31:39Z"
+      "last_updated": "2026-08-23T05:24:09Z"
     },
     {
       "id": "watauga-river-nc",
@@ -171,11 +171,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 84.8,
-      "gauge_ft": 1.7,
+      "current_cfs": 82.9,
+      "gauge_ft": 1.69,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-23T04:31:39Z"
+      "last_updated": "2026-08-23T05:24:09Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -230,7 +230,7 @@
       "gauge_ft": 42.29,
       "trend": "steady",
       "condition": "high",
-      "last_updated": "2026-08-23T04:31:39Z"
+      "last_updated": "2026-08-23T05:24:09Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -290,7 +290,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 3.32,
+      "gauge_ft": 3.31,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -347,7 +347,7 @@
       "gauge_ft": 0.97,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-23T04:31:39Z"
+      "last_updated": "2026-08-23T05:24:09Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -407,11 +407,11 @@
           "notes": "Popular on summer weekends. Water is very cold even in August \u2014 ideal for a quick dip after hiking."
         }
       ],
-      "current_cfs": 69.2,
-      "gauge_ft": 0.87,
+      "current_cfs": 67.0,
+      "gauge_ft": 0.86,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-23T04:31:39Z"
+      "last_updated": "2026-08-23T05:24:09Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -467,7 +467,7 @@
       "gauge_ft": 2.73,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-23T04:31:39Z"
+      "last_updated": "2026-08-23T05:24:09Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -534,7 +534,7 @@
       "gauge_ft": 3.19,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-23T04:31:39Z"
+      "last_updated": "2026-08-23T05:24:09Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -585,11 +585,11 @@
           "notes": "NC/TN state line runs through this section \u2014 check which license applies. Wading can be dangerous during releases."
         }
       ],
-      "current_cfs": 173.0,
-      "gauge_ft": 7.05,
+      "current_cfs": 170.0,
+      "gauge_ft": 7.04,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-23T04:31:39Z"
+      "last_updated": "2026-08-23T05:24:09Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -646,7 +646,7 @@
       "gauge_ft": 2.64,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-23T04:31:39Z"
+      "last_updated": "2026-08-23T05:24:09Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -697,12 +697,12 @@
           "notes": "Check USFS for public access and event schedules. Competition events may restrict public use."
         }
       ],
-      "current_cfs": 1800.0,
-      "gauge_ft": 4.1,
+      "current_cfs": 1780.0,
+      "gauge_ft": 4.09,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-23T04:31:39Z"
+      "last_updated": "2026-08-23T05:24:09Z"
     }
   ],
-  "last_updated": "2026-08-23T04:31:39Z"
+  "last_updated": "2026-08-23T05:24:09Z"
 }
