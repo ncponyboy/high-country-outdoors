@@ -54,7 +54,7 @@
       "gauge_ft": 1.9,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-24T18:32:55Z"
+      "last_updated": "2026-08-24T19:24:28Z"
     },
     {
       "id": "new-river-galax-va",
@@ -111,7 +111,7 @@
       "gauge_ft": 1.27,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-24T18:32:55Z"
+      "last_updated": "2026-08-24T19:24:28Z"
     },
     {
       "id": "watauga-river-nc",
@@ -175,7 +175,7 @@
       "gauge_ft": 1.62,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-24T18:32:55Z"
+      "last_updated": "2026-08-24T19:24:28Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -230,7 +230,7 @@
       "gauge_ft": 42.1,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-24T18:32:55Z"
+      "last_updated": "2026-08-24T19:24:28Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -347,7 +347,7 @@
       "gauge_ft": 0.9,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-24T18:32:55Z"
+      "last_updated": "2026-08-24T19:24:28Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -411,7 +411,7 @@
       "gauge_ft": 0.82,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-24T18:32:55Z"
+      "last_updated": "2026-08-24T19:24:28Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -467,7 +467,7 @@
       "gauge_ft": 2.73,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-24T18:32:55Z"
+      "last_updated": "2026-08-24T19:24:28Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -534,7 +534,7 @@
       "gauge_ft": 2.87,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-24T18:32:55Z"
+      "last_updated": "2026-08-24T19:24:28Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -585,11 +585,11 @@
           "notes": "NC/TN state line runs through this section \u2014 check which license applies. Wading can be dangerous during releases."
         }
       ],
-      "current_cfs": null,
-      "gauge_ft": null,
-      "trend": "unknown",
-      "condition": "unknown",
-      "last_updated": ""
+      "current_cfs": 162.0,
+      "gauge_ft": 7.01,
+      "trend": "steady",
+      "condition": "low",
+      "last_updated": "2026-08-24T19:24:28Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -642,11 +642,11 @@
           "notes": "TN fishing license required. Check TWRA for catch-and-release sections. Wading can be hazardous during releases \u2014 watch for TVA warnings."
         }
       ],
-      "current_cfs": 47.1,
-      "gauge_ft": 2.63,
+      "current_cfs": 48.9,
+      "gauge_ft": 2.65,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-24T18:32:55Z"
+      "last_updated": "2026-08-24T19:24:28Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -701,8 +701,8 @@
       "gauge_ft": 2.54,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-24T18:32:55Z"
+      "last_updated": "2026-08-24T19:24:28Z"
     }
   ],
-  "last_updated": "2026-08-24T18:32:55Z"
+  "last_updated": "2026-08-24T19:24:28Z"
 }
