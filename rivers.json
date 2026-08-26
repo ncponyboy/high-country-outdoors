@@ -50,11 +50,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 165.0,
-      "gauge_ft": 1.84,
+      "current_cfs": 162.0,
+      "gauge_ft": 1.83,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-26T08:37:00Z"
+      "last_updated": "2026-08-26T10:30:28Z"
     },
     {
       "id": "new-river-galax-va",
@@ -111,7 +111,7 @@
       "gauge_ft": 1.12,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-26T08:37:00Z"
+      "last_updated": "2026-08-26T10:30:28Z"
     },
     {
       "id": "watauga-river-nc",
@@ -175,7 +175,7 @@
       "gauge_ft": 1.57,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-26T08:37:00Z"
+      "last_updated": "2026-08-26T10:30:28Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -230,7 +230,7 @@
       "gauge_ft": 41.98,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-26T08:37:00Z"
+      "last_updated": "2026-08-26T10:30:28Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -347,7 +347,7 @@
       "gauge_ft": 0.88,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-26T08:37:00Z"
+      "last_updated": "2026-08-26T10:30:28Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -411,7 +411,7 @@
       "gauge_ft": 0.78,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-26T08:37:00Z"
+      "last_updated": "2026-08-26T10:30:28Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -467,7 +467,7 @@
       "gauge_ft": 1.27,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-26T08:37:00Z"
+      "last_updated": "2026-08-26T10:30:28Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -534,7 +534,7 @@
       "gauge_ft": 2.7,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-08-26T08:37:00Z"
+      "last_updated": "2026-08-26T10:30:28Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -589,7 +589,7 @@
       "gauge_ft": 6.97,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-26T08:37:00Z"
+      "last_updated": "2026-08-26T10:30:28Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -646,7 +646,7 @@
       "gauge_ft": 2.6,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-26T08:37:00Z"
+      "last_updated": "2026-08-26T10:30:28Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -701,8 +701,8 @@
       "gauge_ft": 2.52,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-08-26T08:37:00Z"
+      "last_updated": "2026-08-26T10:30:28Z"
     }
   ],
-  "last_updated": "2026-08-26T08:37:00Z"
+  "last_updated": "2026-08-26T10:30:28Z"
 }
