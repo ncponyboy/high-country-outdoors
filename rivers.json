@@ -50,11 +50,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 138.0,
-      "gauge_ft": 1.75,
+      "current_cfs": 141.0,
+      "gauge_ft": 1.76,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-09-04T05:24:28Z"
+      "last_updated": "2026-09-04T10:28:06Z"
     },
     {
       "id": "new-river-galax-va",
@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 515.0,
-      "gauge_ft": 0.99,
+      "current_cfs": 506.0,
+      "gauge_ft": 0.98,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-09-04T05:24:28Z"
+      "last_updated": "2026-09-04T10:28:06Z"
     },
     {
       "id": "watauga-river-nc",
@@ -171,11 +171,11 @@
           "notes": "Slippery rocks \u2014 water shoes recommended. No facilities."
         }
       ],
-      "current_cfs": 46.9,
-      "gauge_ft": 1.47,
+      "current_cfs": 45.5,
+      "gauge_ft": 1.46,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-09-04T05:24:28Z"
+      "last_updated": "2026-09-04T10:28:06Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -230,7 +230,7 @@
       "gauge_ft": 41.78,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-09-04T05:24:28Z"
+      "last_updated": "2026-09-04T10:28:06Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -347,7 +347,7 @@
       "gauge_ft": 0.84,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-09-04T05:24:28Z"
+      "last_updated": "2026-09-04T10:28:06Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -411,7 +411,7 @@
       "gauge_ft": 0.69,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-09-04T05:24:28Z"
+      "last_updated": "2026-09-04T10:28:06Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -463,11 +463,11 @@
           "notes": "NC fishing license required. Check NCWRC for delayed harvest and catch-and-release sections. Waders essential \u2014 water stays around 50\u00b0F year-round."
         }
       ],
-      "current_cfs": 74.1,
-      "gauge_ft": 1.26,
+      "current_cfs": 72.4,
+      "gauge_ft": 1.25,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-09-04T05:24:28Z"
+      "last_updated": "2026-09-04T10:28:06Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -530,11 +530,11 @@
           "notes": "Fee required for resort pools. Some free natural seeps accessible from the river. Open year-round."
         }
       ],
-      "current_cfs": 827.0,
-      "gauge_ft": 2.57,
+      "current_cfs": 812.0,
+      "gauge_ft": 2.56,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-09-04T05:24:28Z"
+      "last_updated": "2026-09-04T10:28:06Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -585,11 +585,11 @@
           "notes": "NC/TN state line runs through this section \u2014 check which license applies. Wading can be dangerous during releases."
         }
       ],
-      "current_cfs": 128.0,
-      "gauge_ft": 6.87,
+      "current_cfs": 131.0,
+      "gauge_ft": 6.88,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-09-04T05:24:28Z"
+      "last_updated": "2026-09-04T10:28:06Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -642,11 +642,11 @@
           "notes": "TN fishing license required. Check TWRA for catch-and-release sections. Wading can be hazardous during releases \u2014 watch for TVA warnings."
         }
       ],
-      "current_cfs": 36.3,
-      "gauge_ft": 2.5,
+      "current_cfs": 37.8,
+      "gauge_ft": 2.52,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-09-04T05:24:28Z"
+      "last_updated": "2026-09-04T10:28:06Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -697,12 +697,12 @@
           "notes": "Check USFS for public access and event schedules. Competition events may restrict public use."
         }
       ],
-      "current_cfs": 1210.0,
-      "gauge_ft": 3.6,
-      "trend": "falling",
-      "condition": "optimal",
-      "last_updated": "2026-09-04T05:24:28Z"
+      "current_cfs": 276.0,
+      "gauge_ft": 2.55,
+      "trend": "steady",
+      "condition": "low",
+      "last_updated": "2026-09-04T10:28:06Z"
     }
   ],
-  "last_updated": "2026-09-04T05:24:28Z"
+  "last_updated": "2026-09-04T10:28:06Z"
 }
