@@ -50,11 +50,11 @@
           "notes": "NC fishing license required. Check NCWRC regulations for size limits."
         }
       ],
-      "current_cfs": 127.0,
-      "gauge_ft": 1.71,
+      "current_cfs": 130.0,
+      "gauge_ft": 1.72,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-09-05T21:51:56Z"
+      "last_updated": "2026-09-05T23:30:15Z"
     },
     {
       "id": "new-river-galax-va",
@@ -107,11 +107,11 @@
           "notes": "VA fishing license required. Check VDWR regulations for size and bag limits."
         }
       ],
-      "current_cfs": 535.0,
-      "gauge_ft": 1.01,
+      "current_cfs": 545.0,
+      "gauge_ft": 1.02,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-09-05T21:51:56Z"
+      "last_updated": "2026-09-05T23:30:15Z"
     },
     {
       "id": "watauga-river-nc",
@@ -175,7 +175,7 @@
       "gauge_ft": 1.48,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-09-05T21:51:56Z"
+      "last_updated": "2026-09-05T23:30:15Z"
     },
     {
       "id": "nolichucky-river-tn",
@@ -226,11 +226,11 @@
           "notes": "TN fishing license required. Check TWRA regulations for stocked trout sections."
         }
       ],
-      "current_cfs": 582.0,
-      "gauge_ft": 41.77,
+      "current_cfs": 594.0,
+      "gauge_ft": 41.78,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-09-05T21:51:56Z"
+      "last_updated": "2026-09-05T23:30:15Z"
     },
     {
       "id": "wilson-creek-nc",
@@ -290,7 +290,7 @@
         }
       ],
       "current_cfs": null,
-      "gauge_ft": 2.88,
+      "gauge_ft": 2.87,
       "trend": "unknown",
       "condition": "unknown",
       "last_updated": ""
@@ -347,7 +347,7 @@
       "gauge_ft": 0.87,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-09-05T21:51:56Z"
+      "last_updated": "2026-09-05T23:30:15Z"
     },
     {
       "id": "south-toe-river-nc",
@@ -411,7 +411,7 @@
       "gauge_ft": 0.7,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-09-05T21:51:56Z"
+      "last_updated": "2026-09-05T23:30:15Z"
     },
     {
       "id": "nantahala-river-nc",
@@ -463,11 +463,11 @@
           "notes": "NC fishing license required. Check NCWRC for delayed harvest and catch-and-release sections. Waders essential \u2014 water stays around 50\u00b0F year-round."
         }
       ],
-      "current_cfs": 652.0,
-      "gauge_ft": 2.73,
+      "current_cfs": 646.0,
+      "gauge_ft": 2.72,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-09-05T21:51:56Z"
+      "last_updated": "2026-09-05T23:30:15Z"
     },
     {
       "id": "french-broad-river-nc",
@@ -534,7 +534,7 @@
       "gauge_ft": 2.53,
       "trend": "steady",
       "condition": "optimal",
-      "last_updated": "2026-09-05T21:51:56Z"
+      "last_updated": "2026-09-05T23:30:15Z"
     },
     {
       "id": "pigeon-river-nc",
@@ -585,11 +585,11 @@
           "notes": "NC/TN state line runs through this section \u2014 check which license applies. Wading can be dangerous during releases."
         }
       ],
-      "current_cfs": 1310.0,
-      "gauge_ft": 8.88,
-      "trend": "steady",
-      "condition": "high",
-      "last_updated": "2026-09-05T21:51:56Z"
+      "current_cfs": 140.0,
+      "gauge_ft": 6.92,
+      "trend": "falling",
+      "condition": "low",
+      "last_updated": "2026-09-05T23:30:15Z"
     },
     {
       "id": "hiwassee-river-tn",
@@ -646,7 +646,7 @@
       "gauge_ft": 2.52,
       "trend": "steady",
       "condition": "low",
-      "last_updated": "2026-09-05T21:51:56Z"
+      "last_updated": "2026-09-05T23:30:15Z"
     },
     {
       "id": "ocoee-river-tn",
@@ -697,12 +697,12 @@
           "notes": "Check USFS for public access and event schedules. Competition events may restrict public use."
         }
       ],
-      "current_cfs": 1230.0,
-      "gauge_ft": 3.62,
+      "current_cfs": 750.0,
+      "gauge_ft": 3.21,
       "trend": "falling",
-      "condition": "optimal",
-      "last_updated": "2026-09-05T21:51:56Z"
+      "condition": "low",
+      "last_updated": "2026-09-05T23:30:15Z"
     }
   ],
-  "last_updated": "2026-09-05T21:51:56Z"
+  "last_updated": "2026-09-05T23:30:15Z"
 }
