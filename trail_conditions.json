@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T13:58:03Z",
+  "last_updated": "2026-09-13T14:51:32Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -63,14 +63,7 @@
         "last_updated": "2026-03-12T14:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [
-        {
-          "id": "17d54420-9614-4ff1-9790-a94146bdb6d2",
-          "type": "flood",
-          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
-          "posted": "2026-09-12T13:55:56Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48910"
     },
     {
@@ -184,14 +177,7 @@
         "last_updated": "2026-03-13T10:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [
-        {
-          "id": "1f605e48-9a21-4767-ae3a-8efb91031c45",
-          "type": "flood",
-          "message": "Recent heavy rain (2.8\") \u2014 water crossings may be elevated",
-          "posted": "2026-09-12T13:55:58Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=49001"
     },
     {
@@ -618,7 +604,14 @@
         "last_updated": "2026-03-13T09:30:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "c70e6ef3-0418-4016-a484-05d46cfc7857",
+          "type": "flood",
+          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
+          "posted": "2026-09-13T14:51:31Z"
+        }
+      ],
       "source_url": "https://vacreepertrail.com"
     },
     {
