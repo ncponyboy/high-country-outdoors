@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T15:29:13Z",
+  "last_updated": "2026-09-23T15:23:56Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -63,7 +63,14 @@
         "last_updated": "2026-03-12T14:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "f6534697-7200-4206-b9b8-7d4ba7d79ed6",
+          "type": "flood",
+          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
+          "posted": "2026-09-23T15:21:49Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48910"
     },
     {
@@ -91,7 +98,14 @@
         "last_updated": "2026-03-13T09:00:00Z",
         "source": "NPS Blue Ridge Parkway"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "8494e29f-ff8e-4b2c-bb5e-ec1c30e9780d",
+          "type": "flood",
+          "message": "Recent heavy rain (1.4\") \u2014 water crossings may be elevated",
+          "posted": "2026-09-23T15:21:49Z"
+        }
+      ],
       "source_url": "https://www.nps.gov/blri/planyourvisit/beacon-heights.htm"
     },
     {
@@ -205,7 +219,14 @@
         "last_updated": "2026-03-12T08:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "4563ee98-ab79-4d59-a0a6-cab3d46e4071",
+          "type": "flood",
+          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
+          "posted": "2026-09-23T15:21:51Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48915"
     },
     {
@@ -233,14 +254,7 @@
         "last_updated": "2026-03-13T08:30:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [
-        {
-          "id": "314441b5-dce0-41e7-ab95-3c50957f46a0",
-          "type": "flood",
-          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
-          "posted": "2026-09-22T15:27:21Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48960"
     },
     {
@@ -326,10 +340,10 @@
       },
       "alerts": [
         {
-          "id": "7257576b-254c-4c8d-9325-77a35c8c1cb5",
+          "id": "ea0695a7-8616-4eca-9308-d49630d71313",
           "type": "flood",
           "message": "Recent heavy rain (2.5\") \u2014 water crossings may be elevated",
-          "posted": "2026-09-22T15:27:23Z"
+          "posted": "2026-09-23T15:21:53Z"
         }
       ],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34830"
@@ -415,7 +429,14 @@
         "last_updated": "2026-03-13T08:00:00Z",
         "source": "USFS Cherokee"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "b156a24a-68bf-4a26-ba2e-cc5d0e2beacb",
+          "type": "flood",
+          "message": "Recent heavy rain (1.9\") \u2014 water crossings may be elevated",
+          "posted": "2026-09-23T15:21:54Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34820"
     },
     {
@@ -444,7 +465,14 @@
         "last_updated": "2026-03-12T10:00:00Z",
         "source": "USFS Cherokee"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "01da3693-eb6f-47a6-bbea-8942c74da7c2",
+          "type": "flood",
+          "message": "Recent heavy rain (1.5\") \u2014 water crossings may be elevated",
+          "posted": "2026-09-23T15:21:54Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34890"
     },
     {
@@ -589,14 +617,7 @@
         "last_updated": "2026-03-14T08:30:00Z",
         "source": "VA DCR Grayson Highlands"
       },
-      "alerts": [
-        {
-          "id": "74fae5da-f9c7-4bab-a5ed-205ab7fa2e41",
-          "type": "flood",
-          "message": "Recent heavy rain (1.0\") \u2014 water crossings may be elevated",
-          "posted": "2026-09-22T15:29:11Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.dcr.virginia.gov/state-parks/grayson-highlands"
     },
     {
