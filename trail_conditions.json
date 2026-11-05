@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T18:32:38Z",
+  "last_updated": "2026-11-05T18:37:34Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -65,10 +65,10 @@
       },
       "alerts": [
         {
-          "id": "c140f209-6812-470f-a1fa-db9cae42ac6c",
+          "id": "56407dbd-2cdb-480a-baf2-8b102fe96807",
           "type": "flood",
           "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
-          "posted": "2026-11-04T18:30:30Z"
+          "posted": "2026-11-05T18:35:26Z"
         }
       ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48910"
@@ -129,10 +129,10 @@
       },
       "alerts": [
         {
-          "id": "e4c03782-e070-4514-a12a-8cec33b54019",
+          "id": "80dd5c4c-196f-4832-b79f-79ab41ea48c7",
           "type": "flood",
-          "message": "Recent heavy rain (1.5\") \u2014 water crossings may be elevated",
-          "posted": "2026-11-04T18:30:31Z"
+          "message": "Recent heavy rain (1.6\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-05T18:35:26Z"
         }
       ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48970"
@@ -162,14 +162,7 @@
         "last_updated": "2026-03-14T07:00:00Z",
         "source": "Grandfather Mountain State Park"
       },
-      "alerts": [
-        {
-          "id": "f5b7edb7-7f1b-404b-8a8a-928392ffe3d5",
-          "type": "flood",
-          "message": "Recent heavy rain (1.2\") \u2014 water crossings may be elevated",
-          "posted": "2026-11-04T18:30:31Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://grandfathermtn.com/grandfather-trail/"
     },
     {
@@ -226,14 +219,7 @@
         "last_updated": "2026-03-12T08:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [
-        {
-          "id": "a4384777-eaa8-4f37-ade1-91d9b00789a9",
-          "type": "flood",
-          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
-          "posted": "2026-11-04T18:30:32Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48915"
     },
     {
@@ -289,14 +275,7 @@
         "last_updated": "2026-03-14T09:00:00Z",
         "source": "NPS Blue Ridge Parkway"
       },
-      "alerts": [
-        {
-          "id": "c8536e59-5977-4245-882b-539be1a7e157",
-          "type": "flood",
-          "message": "Recent heavy rain (1.2\") \u2014 water crossings may be elevated",
-          "posted": "2026-11-04T18:30:33Z"
-        }
-      ],
+      "alerts": [],
       "source_url": "https://www.nps.gov/blri/planyourvisit/linn-cove-viaduct.htm"
     },
     {
