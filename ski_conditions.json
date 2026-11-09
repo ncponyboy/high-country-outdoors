@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T16:59:29Z",
+  "last_updated": "2026-11-09T21:21:56Z",
   "resorts": [
     {
       "id": "sugar-mountain-resort",
@@ -18,7 +18,7 @@
       "open_lifts": 0,
       "total_lifts": 0,
       "surface": null,
-      "last_updated": "2026-11-08T16:59:29Z"
+      "last_updated": "2026-11-09T21:21:56Z"
     },
     {
       "id": "beech-mountain-resort",
@@ -37,7 +37,7 @@
       "open_lifts": 0,
       "total_lifts": 0,
       "surface": null,
-      "last_updated": "2026-11-08T16:59:29Z"
+      "last_updated": "2026-11-09T21:21:56Z"
     },
     {
       "id": "appalachian-ski-mountain",
@@ -56,7 +56,7 @@
       "open_lifts": 0,
       "total_lifts": 0,
       "surface": null,
-      "last_updated": "2026-11-08T16:59:29Z"
+      "last_updated": "2026-11-09T21:21:56Z"
     },
     {
       "id": "ober-mountain",
@@ -75,7 +75,7 @@
       "open_lifts": 0,
       "total_lifts": 0,
       "surface": null,
-      "last_updated": "2026-11-08T16:59:29Z"
+      "last_updated": "2026-11-09T21:21:56Z"
     }
   ]
 }
