@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T20:24:27Z",
+  "last_updated": "2026-11-26T20:01:11Z",
   "total_trails": 25,
   "sources": [
     "NPS",
@@ -34,7 +34,14 @@
         "last_updated": "2026-03-13T08:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "bfb107c8-aa5f-4003-9d29-48f10bef0191",
+          "type": "flood",
+          "message": "Recent heavy rain (1.4\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:07Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48952"
     },
     {
@@ -63,7 +70,14 @@
         "last_updated": "2026-03-12T14:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "8e55a273-6169-4abb-8218-fc3d0dd96885",
+          "type": "flood",
+          "message": "Recent heavy rain (2.1\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:07Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48910"
     },
     {
@@ -91,7 +105,14 @@
         "last_updated": "2026-03-13T09:00:00Z",
         "source": "NPS Blue Ridge Parkway"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "87bf2c67-923d-4dd3-8e55-5bd972cd51c3",
+          "type": "flood",
+          "message": "Recent heavy rain (1.6\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:07Z"
+        }
+      ],
       "source_url": "https://www.nps.gov/blri/planyourvisit/beacon-heights.htm"
     },
     {
@@ -120,7 +141,14 @@
         "last_updated": "2026-03-13T07:00:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "326068ba-b61a-4ebe-98a0-a31882026b6f",
+          "type": "flood",
+          "message": "Recent heavy rain (1.9\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:07Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48970"
     },
     {
@@ -148,7 +176,14 @@
         "last_updated": "2026-03-14T07:00:00Z",
         "source": "Grandfather Mountain State Park"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "03d845cd-ea38-45d2-8414-4be1b91441ca",
+          "type": "flood",
+          "message": "Recent heavy rain (1.5\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:07Z"
+        }
+      ],
       "source_url": "https://grandfathermtn.com/grandfather-trail/"
     },
     {
@@ -205,7 +240,14 @@
         "last_updated": "2026-03-12T08:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "5669a9b9-facd-4629-a74f-99a1d111c5cb",
+          "type": "flood",
+          "message": "Recent heavy rain (1.8\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:08Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48915"
     },
     {
@@ -233,7 +275,14 @@
         "last_updated": "2026-03-13T08:30:00Z",
         "source": "USFS Pisgah"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "d37bb4c8-f074-4718-b2b5-b54e955e14fc",
+          "type": "flood",
+          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:08Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48960"
     },
     {
@@ -261,7 +310,14 @@
         "last_updated": "2026-03-14T09:00:00Z",
         "source": "NPS Blue Ridge Parkway"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "6ba81669-67f6-4ac6-8153-52d4e78ba100",
+          "type": "flood",
+          "message": "Recent heavy rain (1.5\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:08Z"
+        }
+      ],
       "source_url": "https://www.nps.gov/blri/planyourvisit/linn-cove-viaduct.htm"
     },
     {
@@ -290,7 +346,14 @@
         "last_updated": "2026-03-11T16:00:00Z",
         "source": "USFS Grandfather"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "a0b7e4c1-437e-41e3-bd50-4ff3f1327a82",
+          "type": "flood",
+          "message": "Recent heavy rain (2.3\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:08Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48930"
     },
     {
@@ -346,7 +409,14 @@
         "last_updated": "2026-03-14T07:30:00Z",
         "source": "USFS Cherokee"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "fc2aca15-bf95-4fdd-a38c-ba46481c887c",
+          "type": "flood",
+          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:09Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/cherokee/recarea/?recid=34850"
     },
     {
@@ -374,7 +444,14 @@
         "last_updated": "2026-03-13T09:00:00Z",
         "source": "USFS Cherokee"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "39b7166c-a791-4c10-bcf6-16b891238784",
+          "type": "flood",
+          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:09Z"
+        }
+      ],
       "source_url": "https://www.appalachiantrail.org"
     },
     {
@@ -546,7 +623,14 @@
         "last_updated": "2026-03-14T08:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "0f2896a8-4ee2-406c-bb8c-1c0cc76307d2",
+          "type": "flood",
+          "message": "Recent heavy rain (1.0\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:10Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7075"
     },
     {
@@ -575,7 +659,14 @@
         "last_updated": "2026-03-14T08:30:00Z",
         "source": "VA DCR Grayson Highlands"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "0a173d8b-b0c6-4071-a843-3ced0c6006b3",
+          "type": "flood",
+          "message": "Recent heavy rain (1.1\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:10Z"
+        }
+      ],
       "source_url": "https://www.dcr.virginia.gov/state-parks/grayson-highlands"
     },
     {
@@ -688,7 +779,14 @@
         "last_updated": "2026-03-12T09:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "3038f11a-b7e5-48d8-b0f7-8ae692aeafde",
+          "type": "flood",
+          "message": "Recent heavy rain (1.0\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:11Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7095"
     },
     {
@@ -716,7 +814,14 @@
         "last_updated": "2026-03-13T08:00:00Z",
         "source": "USFS Jefferson"
       },
-      "alerts": [],
+      "alerts": [
+        {
+          "id": "93855315-e7c1-41a4-ae92-b8e21e3a4663",
+          "type": "flood",
+          "message": "Recent heavy rain (1.0\") \u2014 water crossings may be elevated",
+          "posted": "2026-11-26T20:01:11Z"
+        }
+      ],
       "source_url": "https://www.fs.usda.gov/recarea/gwj/recarea/?recid=7100"
     }
   ]
